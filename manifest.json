@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Pokémon Showdown Translator",
+  "version": "1.0",
+  "description": "Traduce Pokémon Showdown al español y otros idiomas.",
+  "permissions": ["storage"],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://play.pokemonshowdown.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "icons": {
+    "128": "icons/icon128.png"
+  }
+}
