@@ -1,20 +1,20 @@
 {
   "manifest_version": 3,
-  "name": "Pokémon Showdown Translator",
+  "name": "Showdown Traductor Pro",
   "version": "1.0",
-  "description": "Traduce Pokémon Showdown al español y otros idiomas.",
+  "description": "Traducción dinámica para Pokémon Showdown",
   "permissions": ["storage"],
-  "action": {
-    "default_popup": "popup.html"
-  },
   "content_scripts": [
     {
-      "matches": ["https://play.pokemonshowdown.com/*"],
-      "js": ["content.js"],
-      "run_at": "document_idle"
+      "matches": [
+        "https://play.pokemonshowdown.com/*",
+        "https://replay.pokemonshowdown.com/*"
+      ],
+      "js": ["jquery.min.js", "content.js"],
+      "run_at": "document_end"
     }
   ],
   "icons": {
-    "128": "icons/icon128.png"
+    "128": "icon.png"
   }
 }
