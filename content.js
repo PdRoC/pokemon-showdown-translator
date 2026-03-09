@@ -10,25 +10,47 @@ async function iniciarTraduccion() {
 
     // 3. Función de escaneo
     const traducir = () => {
-        const elementos = document.querySelectorAll('button, span, .col, .battle-history');
+        // Selectores que cubren botones, nombres de ataques en lista y resultados de búsqueda
+        const selectores = [
+            'button[name="chooseMove"]', 
+            '.movename', 
+            '.result .col.movenamecol', 
+            '.utilichart .move',
+            '.battle-history',
+            'span'
+        ];
+        
+        const elementos = document.querySelectorAll(selectores.join(','));
+        
         elementos.forEach(el => {
-            if (el.children.length === 0 && el.innerText.trim() !== "") {
-                let texto = el.innerText;
-                traducciones.forEach(([en, es]) => {
-                    const regex = new RegExp('\\b' + en + '\\b', 'g');
-                    if (regex.test(texto)) {
-                        texto = texto.replace(regex, es);
-                    }
-                });
-                if (el.innerText !== texto) el.innerText = texto;
-            }
+            // En el Teambuilder, el texto a veces está en un nodo hijo o mezclado con iconos
+            // Usamos textNodes para no cargar etiquetas de iconos (Tipos)
+            let nodes = el.childNodes;
+            nodes.forEach(node => {
+                if (node.nodeType === Node.TEXT_NODE) {
+                    let textoOriginal = node.textContent.trim();
+                    
+                    traducciones.forEach(([en, es]) => {
+                        if (textoOriginal === en) {
+                            node.textContent = es;
+                        }
+                    });
+                }
+            });
         });
     };
 
     // 4. Observador de cambios
-    const observer = new MutationObserver(traducir);
-    observer.observe(document.body, { childList: true, subtree: true });
-    traducir();
+    const observer = new MutationObserver((mutations) => {
+        // Pequeño retardo para no colapsar el navegador si hay muchos cambios
+        traducir();
+    });
+
+    observer.observe(document.body, { 
+        childList: true, 
+        subtree: true,
+        characterData: true // Esto detecta si cambia el texto dentro de un nodo ya existente
+    });
 }
 
 iniciarTraduccion();
