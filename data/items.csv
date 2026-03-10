@@ -1,324 +1,1573 @@
 en;es
-Master Ball;Master Ball
-Ultra Ball;Ultra Ball
-Great Ball;Super Ball
-Poké Ball;Poké Ball
-Safari Ball;Safari Ball
-Net Ball;Malla Ball
-Dive Ball;Buceo Ball
-Nest Ball;Nido Ball
-Repeat Ball;Acopio Ball
-Timer Ball;Turno Ball
-Luxury Ball;Lujo Ball
-Premier Ball;Honor Ball
-Dusk Ball;Ocaso Ball
-Heal Ball;Sana Ball
-Quick Ball;Veloz Ball
-Cherish Ball;Gloria Ball
-Potion;Poción
-Antidote;Antídoto
-Burn Heal;Antiquemar
-Ice Heal;Antihielo
-Awakening;Despertar
-Paralyze Heal;Antiparalizador
-Full Restore;Restaurar todo
-Max Potion;Poción máxima
-Hyper Potion;Hiperpoción
-Super Potion;Superpoción
-Full Heal;Cura total
-Revive;Revivir
-Max Revive;Revivir máximo
-Fresh Water;Agua fresca
-Soda Pop;Refresco
-Lemonade;Limonada
-Moomoo Milk;Leche Mu-mu
-Energy Powder;Polvo energía
-Energy Root;Raíz energía
-Heal Powder;Polvo curación
-Revival Herb;Hierba revivir
-Ether;Éter
-Max Ether;Éter máximo
-Elixir;Elixir
-Max Elixir;Elixir máximo
-Lava Cookie;Galleta lava
-Berry Juice;Zumo de baya
-Sacred Ash;Ceniza sagrada
-HP Up;Más PS
-Protein;Proteína
-Iron;Hierro
-Carbos;Carbohidratos
-Calcium;Calcio
-Rare Candy;Caramelo raro
-PP Up;Más PP
-Zinc;Zinc
-PP Max;PP máximos
-Old Gateau;Barrita plus
-Guard Spec.;Protección X
-Dire Hit;Crítico X
-X Attack;Ataque X
-X Defense;Defensa X
-X Speed;Velocidad X
-X Accuracy;Precisión X
-X Sp. Atk;Ataque especial X
-X Sp. Def;Defensa especial X
-Poké Doll;Pokémuñeco
-Fluffy Tail;Cola de Skitty
-Blue Flute;Flauta azul
-Yellow Flute;Flauta amarilla
-Red Flute;Flauta roja
-Black Flute;Flauta negra
-White Flute;Flauta blanca
-Shoal Salt;Sal cardumen
-Shoal Shell;Concha cardumen
-Red Shard;Parte roja
-Blue Shard;Parte azul
-Yellow Shard;Parte amarilla
-Green Shard;Parte verde
-Super Repel;Superrepelente
-Max Repel;Repelente máximo
-Escape Rope;Cuerda huida
-Repel;Repelente
-Sun Stone;Piedra solar
-Moon Stone;Piedra lunar
-Fire Stone;Piedra fuego
-Thunder Stone;Piedra trueno
-Water Stone;Piedra agua
-Leaf Stone;Piedra hoja
-Tiny Mushroom;Miniseta
-Big Mushroom;Seta grande
-Pearl;Perla
-Big Pearl;Perla grande
-Stardust;Polvo estelar
-Star Piece;Trozo de estrella
-Nugget;Pepita de oro
-Heart Scale;Escama corazón
-Honey;Miel
-Growth Mulch;Abono rápido
-Damp Mulch;Abono lento
-Stable Mulch;Abono fijador
-Gooey Mulch;Abono brote
-Root Fossil;Fósil raíz
-Claw Fossil;Fósil garra
-Helix Fossil;Fósil hélix
-Dome Fossil;Fósil domo
-Old Amber;Ámbar viejo
-Armor Fossil;Fósil coraza
-Skull Fossil;Fósil cráneo
-Rare Bone;Hueso raro
-Shiny Stone;Piedra día
-Dusk Stone;Piedra noche
-Dawn Stone;Piedra alba
-Oval Stone;Piedra oval
-Odd Keystone;Piedra espíritu
-Griseous Orb;Griseosfera
-Tea;Té
-Autograph;Autógrafo
-Douse Drive;HidroROM
-Shock Drive;FulgoROM
-Burn Drive;PiroROM
-Chill Drive;CrioROM
-Pokémon Box Link;Caja de Pokémon
-Medicine Pocket;Botiquín
-TM Case;Estuche de MT
-Candy Jar;Tarro de caramelos
-Power-Up Pocket;Bolsillo de mejoras
-Clothing Trunk;Maleta
-Catching Pocket;Bolsillo de captura
-Battle Pocket;Bolsillo de combate
-Sweet Heart;Corazón dulce
+Ability Capsule;Cápsula habilidad
+Ability Patch;Parche habilidad
+Ability Shield;Escudo habilidad
+Ability Urge;Habilitador
+Abomasite;Abomasnowita
+Abra Candy;Caramelo Abra
+Absolite Z;Absolita Z
+Absolite;Absolita
+Absorb Bulb;Tubérculo
+Academy Ball;Pelota academia
+Academy Bottle;Termo academia
+Academy Chairs;Sillas academia
+Academy Cup;Taza academia
+Academy Tablecloth;Mantel academia
+Acro Bike;Bici acrobática
+Adamant Crystal;Gran diamansfera
+Adamant Mint;Menta firme
 Adamant Orb;Diamansfera
-Lustrous Orb;Lustresfera
-Greet Mail;Carta inicial
-Favored Mail;Carta favoritos
-RSVP Mail;Carta invitar
-Thanks Mail;Carta gracias
-Inquiry Mail;Carta pregunta
-Like Mail;Carta gustos
-Reply Mail;Carta respuesta
-Bridge Mail S;Carta puente S
+Adrenaline Orb;Nersiosfera
+Adventure Guide;Guía de aventura
+Aerodactyl Candy;Caramelo Aerodactyl
+Aerodactylite;Aerodactylita
+Aggronite;Aggronita
+Aguav Berry;Baya Guaya
+Aipom Hair;Pelo de Aipom
+Air Balloon;Globo helio
+Alakazite;Alakazamita
+Alomomola Mucus;Secreción de Alomomola
+Aloraichium Z;Alo-Raistal Z
+Altarianite;Altarianita
+Amaze Mulch;Abono insólito
+Amazing Butter;Ultramantequilla
+Ampharosite;Ampharosita
+Amulet Coin;Moneda amuleto
+Antidote;Antídoto
+Apicot Berry;Baya Aricoc
+Apple;Manzana
+Applin Juice;Zumo de Applin
+Apricorn Box;Caja bonguri
+Apricorn;Bonguri
+Aqua Suit;Traje Aqua
+Arboliva Oil;Aceite de Arboliva
+Armor Fossil;Fósil coraza
+Armor Pass;Pase Armadura
+Armorite Ore;Duralium
+Arrokuda Scales;Escama de Arrokuda
+Articuno Candy;Caramelo Articuno
+Articuno Treat;Galleta Articuno
+Aspear Berry;Baya Perasi
+Assault Vest;Chaleco asalto
+Audinite;Audinita
+Auspicious Armor;Armadura auspiciosa
+Autograph;Autógrafo
+Autographed Plush;Amuleto de Naria firmado
+Aux Evasion;Gragea evasiva
+Aux Guard;Gragea defensiva
+Aux Power;Gragea ofensiva
+Aux Powerguard;Gragea multi
+Avocado;Aguacate
+Awakening;Despertar
+Axew Scales;Escama de Axew
+Azelf’s Fang;Diente de Azelf
+Azure Flute;Flauta azur
+Azurill Fur;Pelo de Azurill
+B&W Grass Chairs;Sillas hierba alta
+B&W Grass Tablecloth;Mantel hierba alta
+Babiri Berry;Baya Baribá
+Bach’s Food Tin;Lata de Bach
+Bacon;Panceta
+Bagon Scales;Escama de Bagon
+Baguette;Barra de pan
+Ball of Mud;Bola de lodo
+Balm Mushroom;Seta aroma
+Banana;Plátano
+Band Autograph;Autógrafo del grupo
+Banettite;Banettita
+Barbaracite;Barbaraclita
+Barboach Slime;Secreción de Barboach
+Barred Cup;Taza raya horizontal
+Basculegion Food;Cebo Basculegion
+Basculin Fang;Colmillo de Basculin
+Basement Key;Llave del sótano
+Basil;Albahaca
+Battle Chairs;Sillas combate
+Battle Pocket;Bolsillo de combate
+Battle Tablecloth;Mantel combate
+Baxcalibrite;Baxcaliburita
+Beach Glass;Cristal marino
+Bean Cake;Cebo de habas
+Beast Ball;Ente Ball
+Beedrillite;Beedrillita
+Beldum Claw;Garra de Beldum
+Bellsprout Candy;Caramelo Bellsprout
+Bellsprout Vine;Liana de Bellsprout
+Belue Berry;Baya Andano
+Bergmite Ice;Hielo de Bergmite
+Berry Juice;Zumo de baya
+Berry Pots;Plantabayas
+Berry Sweet;Confite fruto
+Big Bamboo Shoot;Bambú grande
+Big Malasada;Malasada maxi
+Big Mushroom;Seta grande
+Big Nugget;Maxipepita de oro
+Big Pearl;Perla grande
+Big Root;Raíz grande
+Bike;Bici
+Binding Band;Banda atadura
+Bitter Herba Mystica;Especia oculta amarga
+Black Apricorn;Bonguri negro
+Black Augurite;Mineral negro
+Black Belt;Cinturón negro
+Black Flute;Flauta negra
+Black Glasses;Gafas de sol
+Black Mane Hair;Crin negra
+Black Sludge;Lodo negro
+Black Tumblestone;Guijarro negro
+Blank Plate;Tabla neutra
+Blastoisinite;Blastoisita
+Blazikenite;Blazikenita
+Blitzle Mane Hair;Mechón de Blitzle
+Blue Apricorn;Bonguri azul
+Blue Bottle;Termo azul
+Blue Canari Plush;Amuleto de Naria azul
+Blue Card;Tarjeta azul
+Blue Chairs;Sillas azules
+Blue Cup;Taza azul
+Blue Dish;Plato azul
+Blue Flute;Flauta azul
+Blue Orb;Prisma azul
+Blue Petal;Pétalo azul
+Blue Poké Ball Pick;Palillo Ball azul
+Blue Scarf;Pañuelo azul
+Blue Shard;Parte azul
+Blue Tablecloth;Mantel azul
+Blue-Flag Pick;Palillo bandera azul
+Blue-Sky Flower Pick;Palillo flor azul
+Blueberry Chairs;Sillas Arándano
+Blueberry Tablecloth;Mantel Arándano
+Bluk Berry;Baya Oram
+Blunder Policy;Seguro de fallo
+Bob’s Food Tin;Lata de Darren
+Boiled Egg;Huevo duro
+Bold Mint;Menta osada
+Bombirdier Feather;Pluma de Bombirdier
+Bonsly Tears;Lágrima de Bonsly
+Boost Mulch;Abono fructífero
+Booster Energy;Energía potenciadora
+Bottle Cap;Chapa plateada
+Bounsweet Sweat;Sudor de Bounsweet
+Bramblin Twig;Rama de Bramblin
+Brave Mint;Menta audaz
+Bread;Pan de molde
+Briar’s Book;Libro de Brie
 Bridge Mail D;Carta puente F
+Bridge Mail M;Carta puente P
+Bridge Mail S;Carta puente S
 Bridge Mail T;Carta puente A
 Bridge Mail V;Carta puente V
-Bridge Mail M;Carta puente P
-Cheri Berry;Baya Zreza
-Chesto Berry;Baya Atania
-Pecha Berry;Baya Meloc
-Rawst Berry;Baya Safre
-Aspear Berry;Baya Perasi
-Leppa Berry;Baya Zanama
-Oran Berry;Baya Aranja
-Persim Berry;Baya Caquic
-Lum Berry;Baya Ziuela
-Sitrus Berry;Baya Zidra
-Figy Berry;Baya Higog
-Wiki Berry;Baya Wiki
-Mago Berry;Baya Ango
-Aguav Berry;Baya Guaya
-Iapapa Berry;Baya Pabaya
-Razz Berry;Baya Frambu
-Bluk Berry;Baya Oram
-Nanab Berry;Baya Latano
-Wepear Berry;Baya Peragu
-Pinap Berry;Baya Pinia
-Pomeg Berry;Baya Grana
-Kelpsy Berry;Baya Algama
-Qualot Berry;Baya Ispero
-Hondew Berry;Baya Meluce
-Grepa Berry;Baya Uvav
-Tamato Berry;Baya Tamate
-Cornn Berry;Baya Mais
-Magost Berry;Baya Aostan
-Rabuta Berry;Baya Rautan
-Nomel Berry;Baya Monli
-Spelon Berry;Baya Wikano
-Pamtre Berry;Baya Plama
-Watmel Berry;Baya Sambia
-Durin Berry;Baya Rudion
-Belue Berry;Baya Andano
-Occa Berry;Baya Caoca
-Passho Berry;Baya Pasio
-Wacan Berry;Baya Gualot
-Rindo Berry;Baya Tamar
-Yache Berry;Baya Rimoya
-Chople Berry;Baya Pomaro
-Kebia Berry;Baya Kebia
-Shuca Berry;Baya Acardo
-Coba Berry;Baya Kouba
-Payapa Berry;Baya Payapa
-Tanga Berry;Baya Yecana
-Charti Berry;Baya Alcho
-Kasib Berry;Baya Drasi
-Haban Berry;Baya Anjiro
-Colbur Berry;Baya Dillo
-Babiri Berry;Baya Baribá
-Chilan Berry;Baya Chilan
-Liechi Berry;Baya Lichi
-Ganlon Berry;Baya Gonlan
-Salac Berry;Baya Aslac
-Petaya Berry;Baya Yapati
-Apicot Berry;Baya Aricoc
-Lansat Berry;Baya Zonlan
-Starf Berry;Baya Arabol
-Enigma Berry;Baya Enigma
-Micle Berry;Baya Lagro
-Custap Berry;Baya Chiri
-Jaboca Berry;Baya Jaboca
-Rowap Berry;Baya Magua
 Bright Powder;Polvo brillo
-White Herb;Hierba blanca
-Macho Brace;Brazal firme
-Exp. Share;Repartir experiencia
-Quick Claw;Garra rápida
-Soothe Bell;Cascabel alivio
-Mental Herb;Hierba mental
-Choice Band;Cinta elección
-King’s Rock;Roca del rey
-Silver Powder;Polvo plata
-Amulet Coin;Moneda amuleto
-Cleanse Tag;Amuleto
-Soul Dew;Rocío bondad
-Deep Sea Tooth;Diente marino
-Deep Sea Scale;Escama marina
-Smoke Ball;Bola de humo
-Everstone;Piedra eterna
-Focus Band;Cinta aguante
-Lucky Egg;Huevo suerte
-Scope Lens;Periscopio
-Metal Coat;Revestimiento metálico
-Leftovers;Restos
-Dragon Scale;Escama de dragón
-Light Ball;Bola luminosa
-Soft Sand;Arena fina
-Hard Stone;Piedra dura
-Miracle Seed;Semilla milagro
-Black Glasses;Gafas de sol
-Black Belt;Cinturón negro
-Magnet;Imán
-Mystic Water;Agua mística
-Sharp Beak;Pico afilado
-Poison Barb;Flecha venenosa
-Never-Melt Ice;Hielo perpetuo
-Spell Tag;Hechizo
-Twisted Spoon;Cuchara torcida
+Brittle Bones;Huesos finos
+Bronze Bottle;Termo bronceado
+Bronze Cup;Taza bronceada
+Bronzor Fragment;Fragmento de Bronzor
+Bruxish Tooth;Diente de Bruxish
+Bug Gem;Gema bicho
+Bug Memory;Disco bicho
+Bug Tera Shard;Teralito bicho
+Buginium Z;Insectostal Z
+Bugwort;Hierba repelente
+Buizel Fur;Pelo de Buizel
+Bulbasaur Candy;Caramelo Bulbasaur
+Burn Drive;PiroROM
+Burn Heal;Antiquemar
+Butter;Mantequilla
+Cacnea Needle;Espina de Cacnea
+Cake-Lure Base;Masa para cebo
+Calcium;Calcio
+Calm Mint;Menta serena
+Cameruptite;Cameruptita
+Camping Gear;Kit de acampada
+Canari Bread;Pan de Naria
+Candy Jar;Tarro de caramelos
+Candy Truffle;Trufa dulce
+Capsakid Seed;Semilla de Capsakid
+Carbink Jewel;Gema de Carbink
+Carbos;Carbohidratos
+Card Key;Llave magnética
+Careful Mint;Menta cauta
+Carrot Seeds;Semillas de zanahoria
+Casteliacone;Porcehelado
+Caster Fern;Helecho rizado
+Catching Charm;Amuleto captura
+Catching Pocket;Bolsillo de captura
+Caterpie Candy;Caramelo Caterpie
+Celestica Flute;Flauta celestial
+Cell Battery;Pila
+Cetoddle Grease;Grasa de Cetoddle
+Chalky Stone;Tiza
+Chandelurite;Chandelurita
+Chansey Candy;Caramelo Chansey
+Charcadet Soot;Hollín de Charcadet
 Charcoal;Carbón
-Dragon Fang;Colmillo de dragón
-Silk Scarf;Pañuelo de seda
-Upgrade;Mejora
-Shell Bell;Cascabel concha
-Sea Incense;Incienso marino
-Lax Incense;Incienso suave
-Lucky Punch;Puño suerte
-Metal Powder;Polvo metálico
-Thick Club;Hueso grueso
-Leek;Puerro
-Red Scarf;Pañuelo rojo
-Blue Scarf;Pañuelo azul
-Pink Scarf;Pañuelo rosa
-Green Scarf;Pañuelo verde
-Yellow Scarf;Pañuelo amarillo
-Wide Lens;Lupa
-Muscle Band;Cinta fuerte
-Wise Glasses;Gafas especiales
-Expert Belt;Cinturón de experto
-Light Clay;Refleluz
-Life Orb;Vidasfera
-Power Herb;Hierba única
-Toxic Orb;Toxisfera
-Flame Orb;Llamasfera
-Quick Powder;Polvo veloz
-Focus Sash;Banda aguante
-Zoom Lens;Telescopio
-Metronome;Metrónomo
-Iron Ball;Bola férrea
-Lagging Tail;Cola plúmbea
-Destiny Knot;Lazo destino
-Black Sludge;Lodo negro
-Icy Rock;Roca helada
-Smooth Rock;Roca suave
-Heat Rock;Roca calor
-Damp Rock;Roca lluvia
-Grip Claw;Garra garfio
+Charizardite X;Charizardita X
+Charizardite Y;Charizardita Y
+Charmander Candy;Caramelo Charmander
+Charti Berry;Baya Alcho
+Cheese;Queso
+Cheri Berry;Baya Zreza
+Cherish Ball;Gloria Ball
+Cherished Ring;Anillo preciado
+Cherry Tomatoes;Tomate cherri
+Chesnaughtite;Chesnaughtita
+Chesto Berry;Baya Atania
+Chewtle Claw;Garra de Chewtle
+Chilan Berry;Baya Chilan
+Chili Sauce;Salsa picante
+Chill Drive;CrioROM
+Chimechite;Chimechita
+Chinchou Sparks;Electricidad de Chinchou
+Chingling Fragment;Fragmento de Chingling
+Chipped Pot;Tetera rota
+Choice Band;Cinta elección
+Choice Dumpling;Aperitivo elección
 Choice Scarf;Pañuelo elección
-Sticky Barb;Toxiestrella
-Power Bracer;Brazal recio
-Power Belt;Cinto recio
-Power Lens;Lente recia
-Power Band;Banda recia
-Power Anklet;Tobillera recia
-Power Weight;Pesa recia
-Shed Shell;Muda concha
-Big Root;Raíz grande
 Choice Specs;Gafas elección
-Flame Plate;Tabla llama
-Splash Plate;Tabla linfa
-Zap Plate;Tabla trueno
-Meadow Plate;Tabla pradal
-Icicle Plate;Tabla helada
-Fist Plate;Tabla fuerte
-Toxic Plate;Tabla tóxica
-Earth Plate;Tabla terrax
-Sky Plate;Tabla cielo
-Mind Plate;Tabla mental
-Insect Plate;Tabla bicho
-Stone Plate;Tabla pétrea
-Spooky Plate;Tabla terror
+Chople Berry;Baya Pomaro
+Chorizo;Chorizo
+Clauncher Claw;Pinza de Clauncher
+Claw Fossil;Fósil garra
+Cleanse Tag;Amuleto
+Clear Amulet;Amuleto puro
+Clear Bell;Cascabel claro
+Clefablite;Clefablita
+Clefairy Candy;Caramelo Clefairy
+Cleffa Fur;Pelo de Cleffa
+Clever Feather;Pluma mente
+Clever Mochi;Mochi mente
+Clothing Trunk;Maleta
+Clover Sweet;Confite trébol
+Coba Berry;Baya Kouba
+Cobalion Treat;Galleta Cobalion
+Coconut Milk;Leche de coco
+Coin Case;Monedero
+Colbur Berry;Baya Dillo
+Colorful Screw;Tornillo colorido
+Colress Machine;Acromáquina
+Combee Honey;Miel de Combee
+Comet Shard;Fragmento de cometa
+Comfey Flower;Flor de Comfey
+Common Stone;Piedra común
+Contest Costume;Traje de gala
+Contest Costume;Vestido de gala
+Contest Pass;Pase de concurso
+Cornerstone Mask;Máscara cimiento
+Cornn Berry;Baya Mais
+Corphish Shell;Cáscara de Corphish
+Cottonee Fluff;Algodón de Cottonee
+Coupon 1;Cupón 1
+Coupon 2;Cupón 2
+Coupon 3;Cupón 3
+Courage Candy L;Caramelo mente +
+Courage Candy XL;Caramelo mente ++
+Courage Candy;Caramelo mente
+Cover Fossil;Fósil tapa
+Covert Cloak;Capa furtiva
+Crabominite;Crabominablita
+Crabrawler Shell;Cáscara de Crabrawler
+Cracked Pot;Tetera agrietada
+Crafting Kit;Kit de artesanía
+Cramorant Down;Plumón de Cramorant
+Cranidos Spike;Púa de Cranidos
+Cream Cheese;Queso crema
+Croagunk Poison;Toxinas de Croagunk
+Crown Pass;Pase Corona
+Crunchy Salt;Mineral crocante
+Cryogonal Ice;Hielo de Cryogonal
+Crystal Cluster;Fragmento de cristal
+Cubchoo Fur;Pelo de Cubchoo
+Cubone Candy;Caramelo Cubone
+Cucumber;Pepino
+Cufant Tarnish;Óxido de Cufant
+Curry Powder;Curri en polvo
+Custap Berry;Baya Chiri
+Cutiefly Powder;Polvo de Cutiefly
+Cyber Ball;Pelota cibernética
+Cyclizar Scales;Escama de Cyclizar
+DNA Splicers;Punta ADN
+DS Sounds;Reproductor DS
+Damp Mulch;Abono lento
+Damp Rock;Roca lluvia
+Dark Gem;Gema siniestro
+Dark Memory;Disco siniestro
+Dark Stone;Orbe oscuro
+Dark Tera Shard;Teralito siniestro
+Darkinium Z;Nictostal Z
+Darkranite;Darkrainita
+Data Card 01;Tarjeta de datos 01
+Data Card 02;Tarjeta de datos 02
+Data Card 03;Tarjeta de datos 03
+Data Card 04;Tarjeta de datos 04
+Data Card 05;Tarjeta de datos 05
+Data Card 06;Tarjeta de datos 06
+Data Card 07;Tarjeta de datos 07
+Data Card 08;Tarjeta de datos 08
+Data Card 09;Tarjeta de datos 09
+Data Card 10;Tarjeta de datos 10
+Data Card 11;Tarjeta de datos 11
+Data Card 12;Tarjeta de datos 12
+Data Card 13;Tarjeta de datos 13
+Data Card 14;Tarjeta de datos 14
+Data Card 15;Tarjeta de datos 15
+Data Card 16;Tarjeta de datos 16
+Data Card 17;Tarjeta de datos 17
+Data Card 18;Tarjeta de datos 18
+Data Card 19;Tarjeta de datos 19
+Data Card 20;Tarjeta de datos 20
+Data Card 21;Tarjeta de datos 21
+Data Card 22;Tarjeta de datos 22
+Data Card 23;Tarjeta de datos 23
+Data Card 24;Tarjeta de datos 24
+Data Card 25;Tarjeta de datos 25
+Data Card 26;Tarjeta de datos 26
+Data Card 27;Tarjeta de datos 27
+Dawn Stone;Piedra alba
+Dazzling Honey;Miel brillante
+Decidium Z;Dueyestal Z
+Dedenne Fur;Pelo de Dedenne
+Deep Sea Scale;Escama marina
+Deep Sea Tooth;Diente marino
+Deerling Hair;Pelo de Deerling
+Deino Scales;Escama de Deino
+Delibird Parcel;Paquete de Delibird
+Delphoxite;Delphoxita
+Destiny Knot;Lazo destino
+Devon Parts;Piezas Devon
+Devon Scope;Detector Devon
+Devon Scuba Gear;Bombona Devon
+Dewpider Thread;Hilo de Dewpider
+Diamond Bottle;Termo rombos
+Diamond Chairs;Sillas rombos
+Diamond Pattern Cup;Taza rombos
+Diamond Tablecloth;Mantel rombos
+Diancite;Diancita
+Digger Drill;Taladro
+Diglett Candy;Caramelo Diglett
+Diglett Dirt;Tierra de Diglett
+Dire Hit 2;Crítico X 2
+Dire Hit 3;Crítico X 3
+Dire Hit;Crítico X
+Dire Hit;Gragea crítica
+Direshroom;Seta crítica
+Dirty Scarf;Pañuelo mugriento
+Discount Coupon;Vale de descuento
+Discovery Slate;Losa inicio
+Distortion Slate;Losa distorsión
+Ditto Candy;Caramelo Ditto
+Ditto Goo;Pegote de Ditto
+Dive Ball;Buceo Ball
+Doduo Candy;Caramelo Doduo
+Doduo Down;Plumón de Doduo
+Dome Fossil;Fósil domo
+Dondozo Whisker;Bigote de Dondozo
+Doppel Bonnets;Seta evasiva
+Douse Drive;HidroROM
+Dowsing Machine;Zahorí
 Draco Plate;Tabla draco
+Dragalgite;Dragalgita
+Dragon Fang;Colmillo de dragón
+Dragon Gem;Gema dragón
+Dragon Memory;Disco dragón
+Dragon Scale;Escama de dragón
+Dragon Skull;Cráneo de dragón
+Dragon Tera Shard;Teralito dragón
+Dragoninite;Dragonitita
+Dragonium Z;Dracostal Z
+Drampanite;Drampanita
+Dratini Candy;Caramelo Dratini
+Dratini Scales;Escama de Dratini
 Dread Plate;Tabla oscura
-Iron Plate;Tabla acero
-Odd Incense;Incienso raro
-Rock Incense;Incienso roca
-Full Incense;Incienso lento
-Wave Incense;Incienso acua
-Rose Incense;Incienso floral
-Luck Incense;Incienso duplo
-Pure Incense;Incienso puro
-Protector;Protector
-Electirizer;Electrizador
-Magmarizer;Magmatizador
+Dream Ball;Ensueño Ball
+Dreepy Powder;Polvo de Dreepy
+Drifloon Gas;Gas de Drifloon
+Drilbur Claw;Garra de Drilbur
+Dropped Item;Objeto perdido
+Drowzee Candy;Caramelo Drowzee
+Drowzee Fur;Pelo de Drowzee
 Dubious Disc;Disco extraño
-Reaper Cloth;Tela terrible
+Ducklett Feather;Pluma de Ducklett
+Dunsparce Scales;Escama de Dunsparce
+Duraludon Tarnish;Óxido de Duraludon
+Durin Berry;Baya Rudion
+Dusk Ball;Ocaso Ball
+Dusk Stone;Piedra noche
+Duskull Fragment;Fragmento de Duskull
+Dynamax Band;Maximuñequera
+Dynamax Candy;Caramelo Dinamax
+Dynite Ore;Maxinium
+Earth Plate;Tabla terrax
+Eelektrossite;Eelektrossita
+Eevee Candy;Caramelo Eevee
+Eevee Cup;Taza Eevee
+Eevee Fur;Pelo de Eevee
+Eevium Z;Eeveestal Z
+Egg;Huevo cocido
+Eiscue Down;Plumón de Eiscue
+Eject Button;Botón escape
+Eject Pack;Mochila escape
+Ekans Candy;Caramelo Ekans
+Ekans Fang;Colmillo de Ekans
+Electabuzz Candy;Caramelo Electabuzz
+Electirizer;Electrizador
+Electric Gem;Gema eléctrico
+Electric Memory;Disco eléctrico
+Electric Seed;Semilla electro
+Electric Tera Shard;Teralito eléctrico
+Electrium Z;Electrostal Z
+Elekid Fur;Pelo de Elekid
+Elevator Key;Llave del ascensor
+Elixir;Elixir
+Emboarite;Emboarita
+Endorsement;Recomendación
+Energy Powder;Polvo energía
+Energy Root;Raíz energía
+Enigma Berry;Baya Enigma
+Enigma Stone;Misticristal
+Enigmatic Card;Nota intrigante
+Entei Treat;Galleta Entei
+Eon Flute;Flauta eón
+Eon Ticket;Ticket éon
+Escape Rope;Cuerda huida
+Espurr Fur;Pelo de Espurr
+Eternal Ice;Hielo eterno
+Ether;Éter
+Everstone;Piedra eterna
+Eviolite;Mineral evolutivo
+Excadrite;Excadrillita
+Exeggcute Candy;Caramelo Exeggcute
+Exeggcute Shell;Cáscara de Exeggcute
+Exercise Ball;Pelota pilates
+Exp. Candy L;Caramelo experiencia L
+Exp. Candy M;Caramelo experiencia M
+Exp. Candy S;Caramelo experiencia S
+Exp. Candy XL;Caramelo experiencia XL
+Exp. Candy XS;Caramelo experiencia XS
+Exp. Charm;Amuleto experiencia
+Exp. Share;Repartir experiencia
+Expert Belt;Cinturón de experto
+Explorer Kit;Kit de explorador
+Fairium Z;Feeristal Z
+Fairy Feather;Pluma feérica
+Fairy Gem;Gema hada
+Fairy Memory;Disco hada
+Fairy Tera Shard;Teralito hada
+Falinks Sweat;Sudor de Falinks
+Falinksite;Falinksita
+Fancy Apple;Manzana selecta
+Farfetch’d Candy;Caramelo Farfetch’d
+Fashion Case;Caja corazón
+Fast Ball;Rapid Ball
+Favored Mail;Carta favoritos
+Feather Ball;Pluma Ball
+Feebas Scales;Escama de Feebas
+Feraligite;Feraligatrita
+Festival Ticket;Festicupón
+Fidough Fur;Pelo de Fidough
+Fiery Pick;Palillo ígneo
+Fighting Gem;Gema lucha
+Fighting Memory;Disco lucha
+Fighting Tera Shard;Teralito lucha
+Fightinium Z;Lizastal Z
+Figy Berry;Baya Higog
+Fine Remedy;Superremedio
+Finizen Mucus;Secreción de Finizen
+Finneon Scales;Escama de Finneon
+Fire Gem;Gema fuego
+Fire Memory;Disco fuego
+Fire Pattern Cup;Taza llamas
+Fire Stone;Piedra fuego
+Fire Tera Shard;Teralito fuego
+Firium Z;Pirostal Z
+Fishing Rod;Caña
+Fist Plate;Tabla fuerte
+Flabébé Pollen;Polen de Flabébé
+Flame Orb;Llamasfera
+Flame Plate;Tabla llama
+Flamigo Down;Plumón de Flamigo
+Fletchling Feather;Pluma de Fletchling
+Flittle Down;Plumón de Flittle
+Float Stone;Piedra pómez
+Floettite;Floettita
+Flower Pattern Cup;Taza flores
+Flower Sweet;Confite flor
+Fluffy Tail;Cola de Skitty
+Flying Gem;Gema volador
+Flying Memory;Disco volador
+Flying Tera Shard;Teralito volador
+Flyinium Z;Aerostal Z
+Focus Band;Cinta aguante
+Focus Sash;Banda aguante
+Fomantis Leaf;Hoja de Fomantis
+Foongus Spores;Esporas de Foongus
+Forage Bag;Zurrón
+Forest Balm;Calmasfera bosque
+Fossilized Bird;Ornitofósil
+Fossilized Dino;Plesiofósil
+Fossilized Drake;Dracofósil
+Fossilized Fish;Ictiofósil
+Fresh Cream;Nata fresca
+Fresh Water;Agua fresca
+Fresh-Start Mochi;Mochi reinicio
+Fried Fillet;Filete frito
+Fried Food;Frituras
+Friend Ball;Amigo Ball
+Frigibax Scales;Escama de Frigibax
+Froslassite;Froslassita
+Fruit Bunch;Fruta tropical
+Full Heal;Cura total
+Full Incense;Incienso lento
+Full Restore;Restaurar todo
+GB Sounds;Reproductor GB
+Galactic Key;Llave Galaxia
+Galarica Cuff;Brazal galanuez
+Galarica Twig;Rama de galanuez
+Galarica Wreath;Corona galanuez
+Galladite;Galladita
+Ganlon Berry;Baya Gonlan
+Garchompite Z;Garchompita Z
+Garchompite;Garchompita
+Gardevoirite;Gardevoirita
+Gastly Candy;Caramelo Gastly
+Gastly Gas;Gas de Gastly
+Gengarite;Gengarita
+Genius Feather;Pluma intelecto
+Genius Mochi;Mochi intelecto
+Genome Slate;Losa genética
+Gentle Mint;Menta amable
+Geodude Candy;Caramelo Geodude
+Geodude Fragment;Fragmento de Geodude
+Ghost Gem;Gema fantasma
+Ghost Memory;Disco fantasma
+Ghost Tera Shard;Teralito fantasma
+Ghostium Z;Espectrostal Z
+Gible Scales;Escama de Gible
+Gigantamix;Especias Gigamax
+Gigaton Ball;Quintal Ball
+Gimmighoul Coin;Moneda de Gimmighoul
+Girafarig Fur;Pelo de Girafarig
+Glalitite;Glalita
+Glastrier Treat;Galleta Glastrier
+Gligar Fang;Colmillo de Gligar
+Glimmering Charm;Amuleto cristalino
+Glimmet Crystal;Cristal de Glimmet
+Glimmoranite;Glimmoranita
+Go-Goggles;Gafas aislantes
+Gold Bottle Cap;Chapa dorada
+Gold Bottle;Termo dorado
+Gold Canari Plush;Amuleto de Naria dorado
+Gold Cup;Taza dorada
+Gold Leaf;Hoja de oro
+Gold Pick;Palillo dorado
+Gold Teeth;Dentadura de oro
+Goldeen Candy;Caramelo Goldeen
+Golden Nanab Berry;Baya Latano dorada
+Golden Pinap Berry;Baya Pinia dorada
+Golden Razz Berry;Baya Frambu dorada
+Golett Shard;Fragmento de Golett
+Golisopite;Golisopodita
+Golurkite;Golurkita
+Good Rod;Caña buena
+Gooey Mulch;Abono brote
+Goomy Goo;Secreción de Goomy
+Gothita Eyelash;Pestaña de Gothita
+Gracidea;Gracídea
+Grain Cake;Cebo de grano
+Gram 1;Envío 1
+Gram 2;Envío 2
+Gram 3;Envío 3
+Grass Gem;Gema planta
+Grass Memory;Disco planta
+Grass Tera Shard;Teralito planta
+Grassium Z;Fitostal Z
+Grassy Seed;Semilla hierba
+Great Ball;Super Ball
+Great Butter;Hipermantequilla
+Greavard Wax;Cera de Greavard
+Green Apricorn;Bonguri verde
+Green Bell Pepper;Pimiento verde
+Green Canari Plush;Amuleto de Naria verde
+Green Dish;Plato verde
+Green Petal;Pétalo verde
+Green Poké Ball Pick;Palillo Ball verde
+Green Scarf;Pañuelo verde
+Green Shard;Parte verde
+Greet Mail;Carta inicial
+Greninjite;Greninjanita
+Grepa Berry;Baya Uvav
+Grimer Candy;Caramelo Grimer
+Grimer Toxin;Toxinas de Grimer
+Grip Claw;Garra garfio
+Griseous Core;Gran griseosfera
+Griseous Orb;Griseosfera
+Grit Dust;Polvo esfuerzo
+Grit Gravel;Grava esfuerzo
+Grit Pebble;Piedra esfuerzo
+Grit Rock;Roca esfuerzo
+Groudon Treat;Galleta Groudon
+Ground Gem;Gema tierra
+Ground Memory;Disco tierra
+Ground Tera Shard;Teralito tierra
+Groundium Z;Geostal Z
+Growlithe Candy;Caramelo Growlithe
+Growlithe Fur;Pelo de Growlithe
+Growth Mulch;Abono rápido
+Grubbin Thread;Hilo de Grubbin
+Grubby Hanky;Pañuelo sucio
+Guard Spec.;Protección X
+Guidebook;Guía de viaje
+Gulpin Mucus;Secreción de Gulpin
+Gyaradosite;Gyaradosita
+HM01;MO01
+HM02;MO02
+HM03;MO03
+HM04;MO04
+HM05;MO05
+HM06;MO06
+HM07;MO07
+HM08;MO08
+HP Up;Más PS
+Haban Berry;Baya Anjiro
+Ham;Jamón cocido
+Hamburger;Hamburguesa
+Happiny Dust;Pertenencia de Happiny
+Hard Stone;Piedra dura
+Hasty Mint;Menta activa
+Hatenna Dust;Pertenencia de Hatenna
+Hawlucha Down;Plumón de Hawlucha
+Hawluchanite;Hawluchanita
+Heal Ball;Sana Ball
+Heal Powder;Polvo curación
+Health Candy L;Caramelo vigor +
+Health Candy XL;Caramelo vigor ++
+Health Candy;Caramelo vigor
+Health Feather;Pluma vigor
+Health Mochi;Mochi vigor
+Heart Scale;Escama corazón
+Hearthflame Mask;Máscara horno
+Hearty Grains;Espiga vivaz
+Heat Rock;Roca calor
+Heatranite;Heatranita
+Heavy Ball;Peso Ball
+Heavy-Duty Boots;Botas gruesas
+Helix Fossil;Fósil hélix
+Heracronite;Heracrossita
+Heracross Claw;Garra de Heracross
+Herbed Sausage;Butifarra
+Heroic Sword Pick;Palillo heroico
+Hi-tech Earbuds;Supertapones
+Hippopotas Sand;Arena de Hippopotas
+Hitmonchan Candy;Caramelo Hitmonchan
+Hitmonlee Candy;Caramelo Hitmonlee
+Ho-Oh Treat;Galleta Ho-Oh
+Hoennian Salt;Sal gruesa de Hoenn
+Holo Caster;Holomisor
+Hometown Muffin;Bizcocho clásico
+Hondew Berry;Baya Meluce
+Honey Cake;Cebo meloso
+Honey;Miel
+Honor of Kalos;Emblema de Kalos
+Hoothoot Feather;Pluma de Hoothoot
+Hopo Berry;Baya Lupu
+Hoppip Leaf;Hoja de Hoppip
+Horsea Candy;Caramelo Horsea
+Horsea Ink;Tinta de Horsea
+Horseradish;Rábano picante
+Houndoominite;Houndoomita
+Houndour Fang;Colmillo de Houndour
+Hyper Aspear Berry;Baya Perasi dimensional
+Hyper Babiri Berry;Baya Baribá dimensional
+Hyper Charti Berry;Baya Alcho dimensional
+Hyper Cheri Berry;Baya Zreza dimensional
+Hyper Chesto Berry;Baya Atania dimensional
+Hyper Chilan Berry;Baya Chilan dimensional
+Hyper Chople Berry;Baya Pomaro dimensional
+Hyper Coba Berry;Baya Kouba dimensional
+Hyper Colbur Berry;Baya Dillo dimensional
+Hyper Grepa Berry;Baya Uvav dimensional
+Hyper Haban Berry;Baya Anjiro dimensional
+Hyper Hondew Berry;Baya Meluce dimensional
+Hyper Kasib Berry;Baya Drasi dimensional
+Hyper Kebia Berry;Baya Kebia dimensional
+Hyper Kelpsy Berry;Baya Algama dimensional
+Hyper Lum Berry;Baya Ziuela dimensional
+Hyper Occa Berry;Baya Caoca dimensional
+Hyper Oran Berry;Baya Aranja dimensional
+Hyper Passho Berry;Baya Pasio dimensional
+Hyper Payapa Berry;Baya Payapa dimensional
+Hyper Pecha Berry;Baya Meloc dimensional
+Hyper Persim Berry;Baya Caquic dimensional
+Hyper Pomeg Berry;Baya Grana dimensional
+Hyper Potion;Hiperpoción
+Hyper Qualot Berry;Baya Ispero dimensional
+Hyper Rawst Berry;Baya Safre dimensional
+Hyper Rindo Berry;Baya Tamar dimensional
+Hyper Roseli Berry;Baya Hibis dimensional
+Hyper Shuca Berry;Baya Acardo dimensional
+Hyper Sitrus Berry;Baya Zidra dimensional
+Hyper Tamato Berry;Baya Tamate dimensional
+Hyper Tanga Berry;Baya Yecana dimensional
+Hyper Wacan Berry;Baya Gualot dimensional
+Hyper Yache Berry;Baya Rimoya dimensional
+Hyperspace Butter;Mantequilla dimensional
+Iapapa Berry;Baya Pabaya
+Ice Gem;Gema hielo
+Ice Heal;Antihielo
+Ice Memory;Disco hielo
+Ice Stone;Piedra hielo
+Ice Tera Shard;Teralito hielo
+Iceroot Carrot;Zanahoria nívea
+Icicle Plate;Tabla helada
+Icium Z;Criostal Z
+Icy Rock;Roca helada
+Igglybuff Fluff;Pelo de Igglybuff
+Ilima’s Normalium Z;Cristal Z
+Illumise Fluid;Fluido de Illumise
+Impidimp Hair;Pelo de Impidimp
+Impish Mint;Menta agitada
+Important Letter;Carta importante
+Incinium Z;Incinostal Z
+Indeedee Fur;Pelo de Indeedee
+Indigo Disk;Disco índigo
+Indigo Style Card;Tarjeta chic azul
+Inkay Ink;Tinta de Inkay
+Inquiry Mail;Carta pregunta
+Insect Plate;Tabla bicho
+Instant Noodles;Fideos de bote
+Intriguing Stone;Piedra insólita
+Iron Ball;Bola férrea
+Iron Barktongue;Seta férrea
+Iron Chunk;Pepita de hierro
+Iron Plate;Tabla acero
+Iron;Hierro
+Item Drop;Tiraobjeto
+Item Urge;Activaobjeto
+Jaboca Berry;Baya Jaboca
+Jade Orb;Esfera verde
+Jalapeño;Jalapeño
+Jam;Confitura de bayas
+Jangmo-o Scales;Escama de Jangmo-o
+Jaw Fossil;Fósil mandíbula
+Jet Ball;Aero Ball
+Jigglypuff Candy;Caramelo Jigglypuff
+Johto Slate;Losa Johto
+Jolly Mint;Menta alegre
+Joltik Thread;Hilo de Joltik
+Jubilife Muffin;Bizcocho Jubileo
+Jynx Candy;Caramelo Jynx
+Kabuto Candy;Caramelo Kabuto
+Kangaskhan Candy;Caramelo Kangaskhan
+Kangaskhanite;Kangaskhanita
+Kanto Slate;Losa Kanto
+Kasib Berry;Baya Drasi
+Kebia Berry;Baya Kebia
+Kee Berry;Baya Biglia
+Kelpsy Berry;Baya Algama
+Ketchup;Kétchup
+Key Stone;Piedra activadora
+Key to Room 1;Llave habitación 1
+Key to Room 202;Llave habitación 202
+Key to Room 2;Llave habitación 2
+Key to Room 4;Llave habitación 4
+Key to Room 6;Llave habitación 6
+King’s Leaf;Hierba regia
+King’s Rock;Roca del rey
+Kiwi;Kiwi
+Klawf Claw;Pinza de Klawf
+Klawf Stick;Surimi de Klawf
+Klefki Key;Llave de Klefki
+Koffing Candy;Caramelo Koffing
+Koffing Gas;Gas de Koffing
+Kofu’s Wallet;Cartera de Fuco
+Komala Claw;Garra de Komala
+Kommonium Z;Kommostal Z
+Koraidon’s Poké Ball;Poké Ball de Koraidon
+Krabby Candy;Caramelo Krabby
+Kricketot Shell;Muda de Kricketot
+Kubfu Treat;Galleta Kubfu
+Kyogre Treat;Galleta Kyogre
+Kyurem Treat;Galleta Kyurem
+Lab Key Card A;Llave laboratorio A
+Lab Key Card B;Llave laboratorio B
+Lab Key Card C;Llave laboratorio C
+Lab Key Card M;Llave laboratorio M
+Lab Key Card X;Llave laboratorio X
+Lagging Tail;Cola plúmbea
+Lansat Berry;Baya Zonlan
+Lapras Candy;Caramelo Lapras
+Lapras Teardrop;Lágrima de Lapras
+Large Leek;Puerro grueso
+Larvesta Fuzz;Pelo de Larvesta
+Larvitar Claw;Garra de Larvitar
+Latias Treat;Galleta Latias
+Latiasite;Latiasita
+Latios Treat;Galleta Latios
+Latiosite;Latiosita
+Lava Cookie;Galleta lava
+Lax Incense;Incienso suave
+Lax Mint;Menta floja
+Leaden Ball;Kilo Ball
+Leader’s Crest;Distintivo de líder
+Leaf Letter;Hoja escrita
+Leaf Stone;Piedra hoja
+Leafy Chairs;Sillas naturaleza
+Leafy Tablecloth;Mantel naturaleza
+Lechonk Hair;Pelo de Lechonk
+Leek;Puerro
+Left Poké Ball;Poké Ball ajena
+Leftovers;Restos
+Legend Plate;Tabla legendaria
+Legendary Clue 1;Leyenda 1
+Legendary Clue 2;Leyenda 2
+Legendary Clue 3;Leyenda 3
+Legendary Clue?;Leyenda (?)
+Lemonade;Limonada
+Lens Case;Portalentillas
+Leppa Berry;Baya Zanama
+Letter;Carta a Máximo
+Lettuce;Lechuga
+Level Ball;Nivel Ball
+Liberty Pass;Tarjeta libertad
+Lickitung Candy;Caramelo Lickitung
+Lida’s Things;Enseres de Bárbara
+Liechi Berry;Baya Lichi
+Life Orb;Vidasfera
+Lift Key;Llave del ascensor
+Light Ball;Bola luminosa
+Light Clay;Refleluz
+Light Stone;Orbe claro
+Like Mail;Carta gustos
+Lilac Chairs;Sillas malvas
+Lilac Tablecloth;Mantel malva
+Linking Cord;Cordón unión
+Litleo Tuft;Mechón de Litleo
+Litwick Soot;Hollín de Litwick
+Loaded Dice;Dado trucado
+Lock Capsule;Cápsula candado
+Lone Earring;Pendiente
+Lonely Mint;Menta huraña
+Looker Ticket;Boleto Handsome
+Loot Sack;Saca botín
+Lopunnite;Lopunnita
+Lost Item;Objeto perdido
+Lost Satchel;Objeto perdido
+Lotad Leaf;Hoja de Lotad
+Love Ball;Amor Ball
+Love Sweet;Confite corazón
+Lucarionite Z;Lucarita Z
+Lucarionite;Lucarita
+Luck Incense;Incienso duplo
+Lucky Egg;Huevo suerte
+Lucky Punch;Puño suerte
+Lugia Treat;Galleta Lugia
+Lum Berry;Baya Ziuela
+Luminous Moss;Musgo brillante
+Lumiose Galette;Galette Luminalia
+Lumiosian Butter;Mantequilla de Luminalia
+Lunala Treat;Galleta Lunala
+Lunalium Z;Lunalastal Z
+Lunar Feather;Pluma lunar
+Lure Ball;Cebo Ball
+Lure;Colonia
+Lustrous Globe;Gran lustresfera
+Lustrous Orb;Lustresfera
+Luvdisc Scales;Escama de Luvdisc
+Luxury Ball;Lujo Ball
+Lycanium Z;Lycanrostal Z
+Mach Bike;Bici de carreras
+Machine Part;Maquinaria
+Macho Brace;Brazal firme
+Machop Candy;Caramelo Machop
+Magby Hair;Pelo de Magby
+Magearnite;Magearnita
+Magical Heart Pick;Palillo corazón
+Magical Star Pick;Palillo estrella
+Magikarp Candy;Caramelo Magikarp
+Magikarp Scales;Escama de Magikarp
+Magma Stone;Piedra magma
+Magma Suit;Traje Magma
+Magmar Candy;Caramelo Magmar
+Magmarizer;Magmatizador
+Magnemite Candy;Caramelo Magnemite
+Magnemite Screw;Tornillo de Magnemite
+Magnet;Imán
+Mago Berry;Baya Ango
+Magost Berry;Baya Aostan
+Makeup Bag;Kit de maquillaje
+Makuhita Sweat;Sudor de Makuhita
+Malamarite;Malamarita
+Malicious Armor;Armadura maldita
+Manectite;Manectricita
+Mankey Candy;Caramelo Mankey
+Mankey Fur;Pelo de Mankey
+Maranga Berry;Baya Maranga
+Marble;Canica
+Mareanie Spike;Aguijón de Mareanie
+Mareep Wool;Lana de Mareep
+Marill Ball;Pelota Marill
+Mark Charm;Amuleto emblema
+Marmalade;Mermelada
+Marsh Balm;Calmasfera pantano
+Marshadium Z;Marshastal Z
+Maschiff Fang;Colmillo de Maschiff
+Master Ball;Master Ball
+Masterpiece Teacup;Cuenco exquisito
+Mawilite;Mawilita
+Max Elixir;Elixir máximo
+Max Elixir;Píldora elixir
+Max Ether;Píldora éter
+Max Ether;Éter máximo
+Max Honey;Maxipanal
+Max Lure;Colonia máxima
+Max Mushrooms;Maxiseta
+Max Potion;Poción máxima
+Max Repel;Repelente máximo
+Max Revive;Revivir máximo
+Mayonnaise;Mayonesa
+Meadow Plate;Tabla pradal
+Medal Box;Caja de insignias
+Medichamite;Medichamita
+Medicinal Leek;Puerro medicinal
+Medicine Pocket;Botiquín
+Meditite Sweat;Sudor de Meditite
+Mega Anchor;Megaancla
+Mega Anklet;Megatobillera
+Mega Bracelet;Megapulsera
+Mega Charm;Megacolgante
+Mega Cuff;Megabrazalete
+Mega Glasses;Megagafas
+Mega Glove;Megaguante
+Mega Pendant;Megacollar
+Mega Ring;Megaaro
+Mega Shard;Megaesquirla
+Mega Stickpin;Megabroche
+Mega Tiara;Megatiara
+Meganiumite;Meganiumita
+Meltan Candy;Caramelo Meltan
+Member Card;Carné de socio
+Mental Herb;Hierba mental
+Meowsticite;Meowsticita
+Meowth Candy;Caramelo Meowth
+Meowth Fur;Pelo de Meowth
+Mesprit’s Plume;Pluma de Mesprit
+Metagrossite;Metagrossita
+Metal Alloy;Metal compuesto
+Metal Coat;Revestimiento metálico
+Metal Powder;Polvo metálico
+Meteorite Shard;Fragmento de meteorito
+Meteorite;Meteorito
+Metronome;Metrónomo
+Mew Candy;Caramelo Mew
+Mewnium Z;Mewstal Z
+Mewtwo Candy;Caramelo Mewtwo
+Mewtwonite X;Mewtwoita X
+Mewtwonite Y;Mewtwoita Y
+Micle Berry;Baya Lagro
+Mienfoo Claw;Garra de Mienfoo
+Mighty Candy L;Caramelo músculo +
+Mighty Candy XL;Caramelo músculo ++
+Mighty Candy;Caramelo músculo
+Milcery Cream;Nata de Milcery
+Mild Mint;Menta afable
+Mimikium Z;Mimikyustal Z
+Mimikyu Scrap;Retal de Mimikyu
+Minccino Fur;Pelo de Minccino
+Mind Plate;Tabla mental
+Minior Shell;Caparazón de Minior
+Mint Chairs;Sillas menta
+Mint Tablecloth;Mantel menta
+Minun Fur;Pelo de Minun
+Miracle Seed;Semilla milagro
+Miraidon’s Poké Ball;Poké Ball de Miraidon
+Mirror Herb;Hierba copia
+Misdreavus Tears;Lágrima de Misdreavus
+Misty Seed;Semilla bruma
+Mixed Mushrooms;Setas
+Modest Mint;Menta modesta
+Moltres Candy;Caramelo Moltres
+Moltres Treat;Galleta Moltres
+Monstrous Chairs;Sillas monstruosas
+Monstrous Tablecloth;Mantel monstruoso
+Moomoo Cheese;Queso Mu-mu
+Moomoo Milk;Leche Mu-mu
+Moon Ball;Luna Ball
+Moon Flute;Flauta lunar
+Moon Stone;Piedra lunar
+Morpeko Snack;Semilla de Morpeko
+Mountain Balm;Calmasfera montaña
+Mr. Mime Candy;Caramelo Mr. Mime
+Mudbray Mud;Lodo de Mudbray
+Munchlax Fang;Colmillo de Munchlax
+Murkrow Bauble;Tesoro de Murkrow
+Muscle Band;Cinta fuerte
+Muscle Feather;Pluma músculo
+Muscle Mochi;Mochi músculo
+Mushroom Cake;Cebo de setas
+Mustard;Mostaza
+Mysterious Balm;Calmasfera
+Mysterious Shard L;Esquirla extraña L
+Mysterious Shard S;Esquirla extraña S
+Mystery Egg;Huevo misterioso
+Mystic Water;Agua mística
+Mythical Pecha Berry;Baya Meloc singular
+N-Lunarizer;Necroluna
+N-Solarizer;Necrosol
+Nacli Salt;Sal de Nacli
+Naive Mint;Menta ingenua
+Nanab Berry;Baya Latano
+Naughty Mint;Menta pícara
+Necrozma Treat;Galleta Necrozma
+Nest Ball;Nido Ball
+Net Ball;Malla Ball
+Never-Melt Ice;Hielo perpetuo
+Nice Butter;Supermantequilla
+Nidoran♀ Candy;Caramelo Nidoran♀
+Nidoran♂ Candy;Caramelo Nidoran♂
+Noibat Fur;Pelo de Noibat
+Nomel Berry;Baya Monli
+Noodles;Fideos
+Normal Gem;Gema normal
+Normal Tera Shard;Teralito normal
+Normalium Z;Normastal Z
+Nosepass Fragment;Fragmento de Nosepass
+Nugget;Pepita de oro
+Numel Lava;Lava de Numel
+Nymble Claw;Garra de Nymble
+Oak’s Letter;Carta del profesor Oak
+Occa Berry;Baya Caoca
+Oceanic Slate;Losa mar
+Odd Incense;Incienso raro
+Odd Keystone;Piedra espíritu
+Oddish Candy;Caramelo Oddish
+Oddish Leaf;Hoja de Oddish
+Old Amber;Ámbar viejo
+Old Charm;Talismán
+Old Gateau;Barrita plus
+Old Journal;Diario antiguo
+Old Letter;Carta ajada
+Old Rod;Caña vieja
+Old Verse 10;Poema antiguo 10
+Old Verse 11;Poema antiguo 11
+Old Verse 12;Poema antiguo 12
+Old Verse 13;Poema antiguo 13
+Old Verse 14;Poema antiguo 14
+Old Verse 15;Poema antiguo 15
+Old Verse 16;Poema antiguo 16
+Old Verse 17;Poema antiguo 17
+Old Verse 18;Poema antiguo 18
+Old Verse 19;Poema antiguo 19
+Old Verse 1;Poema antiguo 1
+Old Verse 20;Poema antiguo 20
+Old Verse 2;Poema antiguo 2
+Old Verse 3;Poema antiguo 3
+Old Verse 4;Poema antiguo 4
+Old Verse 5;Poema antiguo 5
+Old Verse 6;Poema antiguo 6
+Old Verse 7;Poema antiguo 7
+Old Verse 8;Poema antiguo 8
+Old Verse 9;Poema antiguo 9
+Olive Oil;Aceite de oliva
+Omanyte Candy;Caramelo Omanyte
+Onion;Cebolla
+Onix Candy;Caramelo Onix
+Oran Berry;Baya Aranja
+Orange Dish;Plato naranja
+Orange Petal;Pétalo naranja
+Oranguru Fur;Pelo de Oranguru
+Oricorio Feather;Pluma de Oricorio
+Origin Ball;Origen Ball
+Origin Ore;Mena origen
+Orthworm Tarnish;Óxido de Orthworm
+Oval Charm;Amuleto oval
+Oval Stone;Piedra oval
+PP Max;PP máximos
+PP Up;Más PP
+Pachirisu Fur;Pelo de Pachirisu
+Pack of Potatoes;Patatas
+Packaged Curry;Curri de bote
+Pair of Tickets;Entrada para dos
+Pal Pad;Bloc de amigos
+Pamtre Berry;Baya Plama
+Paralyze Heal;Antiparalizador
+Paras Candy;Caramelo Paras
+Parasol Pick;Palillo sombrilla
+Parcel;Paquete
+Park Ball;Parque Ball
+Party Sparkler Pick;Palillo bengala
+Pass Orb;Regalosfera
+Pass;Magnetopase
+Passho Berry;Baya Pasio
+Passimian Fur;Pelo de Passimian
+Pasta;Pasta
+Pawmi Fur;Pelo de Pawmi
+Pawniard Blade;Cuchilla de Pawniard
+Payapa Berry;Baya Payapa
+Peach Chairs;Sillas beis
+Peach Tablecloth;Mantel beis
+Peanut Butter;Crema de cacahuete
+Pearl String;Sarta de perlas
+Pearl;Perla
+Peat Block;Bloque de turba
+Pebble;Piedrecita
+Pecha Berry;Baya Meloc
+Pep-Up Plant;Hierba éter
+Pepper;Pimienta
+Permit;Pase
+Persim Berry;Baya Caquic
+Petaya Berry;Baya Yapati
+Petilil Leaf;Hoja de Petilil
+Pewter Crunchies;Rokikos
+Phanpy Nail;Uña de Phanpy
+Phantump Twig;Rama de Phantump
+Photo Album;Álbum
+Pichu Fur;Pelo de Pichu
+Pickle;Pepinillo
+Picnic Set;Kit de pícnic
+Pidgeotite;Pidgeotita
+Pidgey Candy;Caramelo Pidgey
+Pika-Pika Pick;Palillo Pikachu
+Pikachu Candy;Caramelo Pikachu
+Pikachu Cup;Taza Pikachu
+Pikanium Z;Pikastal Z
+Pikashunium Z;Ash-Pikastal Z
+Pikipek Feather;Pluma de Pikipek
+Pinap Berry;Baya Pinia
+Pincurchin Spines;Púa de Pincurchin
+Pineapple;Piña
+Pineco Husk;Corteza de Pineco
+Pink Apricorn;Bonguri rosa
+Pink Bottle;Termo rosa
+Pink Canari Plush;Amuleto de Naria rosa
+Pink Chairs;Sillas rosas
+Pink Cup;Taza rosa
+Pink Nectar;Néctar rosa
+Pink Petal;Pétalo rosa
+Pink Scarf;Pañuelo rosa
+Pink Tablecloth;Mantel rosa
+Pinsir Candy;Caramelo Pinsir
+Pinsirite;Pinsirita
+Pixie Plate;Tabla duende
+Plaid Chairs (B);Sillas cuadros azules
+Plaid Chairs (R);Sillas cuadros rojas
+Plaid Chairs (Y);Sillas cuadros ámbares
+Plaid Tablecloth (B);Mantel cuadros azul
+Plaid Tablecloth (R);Mantel cuadros rojo
+Plaid Tablecloth (Y);Mantel cuadros ámbar
+Plasma Card;Tarjeta Plasma
+Plume Fossil;Fósil pluma
+Plump Beans;Haba suculenta
+Plusle Fur;Pelo de Plusle
+Poffin Case;Pokochera
+Point Card;Tarjeta de puntos
+Poison Barb;Flecha venenosa
+Poison Gem;Gema veneno
+Poison Memory;Disco veneno
+Poison Tera Shard;Teralito veneno
+Poisonium Z;Toxistal Z
+Poké Ball;Poké Ball
+Poké Doll;Pokémuñeco
+Poké Flute;Pokéflauta
+Poké Radar;Poké radar
+Poké Toy;Pokéseñuelo
+Pokéblock Kit;Kit de pokécubos
+Pokédex;Pokédex
+Pokémon Box Link;Caja de Pokémon
+Pokéshi Doll;Pokémuñeca
+Polished Mud Ball;Bola de arcilla
+Poliwag Candy;Caramelo Poliwag
+Poliwag Slime;Secreción de Poliwag
+Polka-Dot Bottle;Termo lunares
+Polka-Dot Chairs;Sillas lunares
+Polka-Dot Cup;Taza lunares
+Polka-Dot Tablecloth;Mantel lunares
+Poltchageist Powder;Polvo de Poltchageist
+Pomeg Berry;Baya Grana
+Ponyta Candy;Caramelo Ponyta
+Poochyena Fang;Colmillo de Poochyena
+Pop Pod;Marimo ruidoso
+Popping Candy;Caramelos chispeantes
+Porygon Candy;Caramelo Porygon
+Porygon Fragment;Fragmento de Porygon
+Potato Salad;Ensaladilla
+Potato Tortilla;Tortilla
+Potion;Poción
+Power Anklet;Tobillera recia
+Power Band;Banda recia
+Power Belt;Cinto recio
+Power Bracer;Brazal recio
+Power Herb;Hierba única
+Power Lens;Lente recia
+Power Plant Pass;Pase de la central
+Power Weight;Pesa recia
+Power-Up Pocket;Bolsillo de mejoras
+Precooked Burger;Hamburguesas
+Premier Ball;Honor Ball
+Pretty Feather;Pluma bella
+Primarium Z;Primastal Z
+Prism Scale;Escama bella
+Prison Bottle;Vasija de castigo
+Professor’s Mask;Máscara del profesor
+Prof’s Letter;Carta del profesor
+Prop Case;Neceser
+Prosciutto;Jamón serrano
+Protective Pads;Paracontacto
+Protector;Protector
+Protein;Proteína
+Psychic Gem;Gema psíquico
+Psychic Memory;Disco psíquico
+Psychic Seed;Semilla psique
+Psychic Tera Shard;Teralito psíquico
+Psychium Z;Psicostal Z
+Psyduck Candy;Caramelo Psyduck
+Psyduck Down;Plumón de Psyduck
+Punching Glove;Guante de boxeo
+Pungent Root;Hierba intensa
+Pure Incense;Incienso puro
+Purple Nectar;Néctar violeta
+Purple Petal;Pétalo violeta
+Pyroarite;Pyroarita
+Qualot Berry;Baya Ispero
+Quick Ball;Veloz Ball
+Quick Candy L;Caramelo ímpetu +
+Quick Candy XL;Caramelo ímpetu ++
+Quick Candy;Caramelo ímpetu
+Quick Claw;Garra rápida
+Quick Powder;Polvo veloz
+Quiet Mint;Menta mansa
+Qwilfish Spines;Púa de Qwilfish
+RSVP Mail;Carta invitar
+Rabuta Berry;Baya Rautan
+Radiant Petal;Pétalo fulgor
+Rage Candy Bar;Caramelo furia
+Raichunite X;Raichunita X
+Raichunite Y;Raichunita Y
+Raikou Treat;Galleta Raikou
+Rainbow Feather;Pluma arcoíris
+Rainbow Flower;Flor irisada
+Rainbow Slate;Losa arcoíris
+Ralts Dust;Pertenencia de Ralts
+Rare Bone;Hueso raro
+Rare Candy;Caramelo raro
+Rash Mint;Menta alocada
+Rattata Candy;Caramelo Rattata
+Rawst Berry;Baya Safre
+Rayquaza Treat;Galleta Rayquaza
 Razor Claw;Garra afilada
 Razor Fang;Colmillo agudo
+Razz Berry;Baya Frambu
+Reaper Cloth;Tela terrible
+Red Apricorn;Bonguri rojo
+Red Bell Pepper;Pimiento rojo
+Red Canari Plush;Amuleto de Naria rojo
+Red Card;Tarjeta roja
+Red Chain;Cadena roja
+Red Dish;Plato rojo
+Red Flute;Flauta roja
+Red Nectar;Néctar rojo
+Red Onion;Cebolla roja
+Red Orb;Prisma rojo
+Red Petal;Pétalo rojo
+Red Poké Ball Pick;Palillo Ball roja
+Red Scale;Escama roja
+Red Scarf;Pañuelo rojo
+Red Shard;Parte roja
+Red-Flag Pick;Palillo bandera roja
+Reins of Unity;Riendas unión
+Relaxed Mint;Menta plácida
+Relic Band;Brazal antiguo
+Relic Copper;Real de cobre
+Relic Crown;Corona antigua
+Relic Gold;Real de oro
+Relic Silver;Real de plata
+Relic Statue;Efigie antigua
+Relic Vase;Ánfora antigua
+Rellor Mud;Barro de Rellor
+Remedy;Remedio
+Repeat Ball;Acopio Ball
+Repel;Repelente
+Reply Mail;Carta respuesta
+Reset Urge;Quitaestado
+Reshiram Treat;Galleta Reshiram
+Resist Feather;Pluma aguante
+Resist Mochi;Mochi aguante
+Reveal Glass;Espejo veraz
+Revitalizing Twig;Ramita revitalizante
+Revival Herb;Hierba revivir
+Revive;Revivir
+Rhyhorn Candy;Caramelo Rhyhorn
+Rhyhorn Fang;Colmillo de Rhyhorn
+Ribbon Sweet;Confite lazo
+Rice;Arroz
+Rich Mulch;Abono fértil
+Ride Pager;Buscamontura
+Rindo Berry;Baya Tamar
+Ring Target;Blanco
+Riolu Fur;Pelo de Riolu
+Rock Gem;Gema roca
+Rock Incense;Incienso roca
+Rock Memory;Disco roca
+Rock Tera Shard;Teralito roca
+Rockium Z;Litostal Z
+Rockruff Rock;Roca de Rockruff
+Rocky Helmet;Casco dentado
+Roller Skates;Patines
+Rolycoly Coal;Carbón de Rolycoly
+Rookidee Feather;Pluma de Rookidee
+Room Service;Servicio raro
+Root Fossil;Fósil raíz
+Rose Incense;Incienso floral
+Roseli Berry;Baya Hibis
+Roto Bargain;Cupón rebaja
+Roto Boost;Cupón refuerzo
+Roto Catch;Cupón captura
+Roto Encounter;Cupón reclamo
+Roto Exp. Points;Cupón experiencia
+Roto Friendship;Cupón amistad
+Roto HP Restore;Cupón PS
+Roto Hatch;Cupón eclosión
+Roto PP Restore;Cupón PP
+Roto Prize Money;Cupón botín
+Roto Stealth;Cupón sigilo
+Roto-Stick;Paloselfi Rotom
+Rotom Bike;Bici Rotom
+Rotom Catalog;Catálogo Rotom
+Rotom Phone;SmartRotom
+Rotom Sparks;Electricidad de Rotom
+Rowap Berry;Baya Magua
+Rufflet Feather;Pluma de Rufflet
+Rule Book;Reglamento
+Rusted Shield;Escudo oxidado
+Rusted Sword;Espada oxidada
+S.S. Ticket;Ticket del barco
+Sablenite;Sableynita
+Sableye Gem;Gema de Sableye
+Sachet;Saquito fragante
+Sacred Ash;Ceniza sagrada
+Safari Ball;Safari Ball
+Safety Goggles;Gafa protectora
+Sail Fossil;Fósil aleta
+Salac Berry;Baya Aslac
+Salad Mix;Verduras
+Salamencite;Salamencita
+Salandit Gas;Gas de Salandit
+Salt Cake;Cebo mineral
+Salt;Sal
+Salty Herba Mystica;Especia oculta salada
+Sand Radish;Rábano arenero
+Sandile Claw;Garra de Sandile
+Sandshrew Candy;Caramelo Sandshrew
+Sandshrew Claw;Garra de Sandshrew
+Sandwich;Bocadillo
+Sandygast Sand;Arena de Sandygast
+Sassy Mint;Menta grosera
+Sausages;Salchichas
+Scanner;Escáner
+Scarlet Book;Libro Escarlata
+Scatter Bang;Bola ruidosa
+Scatterbug Powder;Polvo de Scatterbug
+Sceptilite;Sceptilita
+Scizorite;Scizorita
+Scolipite;Scolipedita
+Scope Lens;Periscopio
+Scovillainite;Scovillainita
+Scraftinite;Scraftita
+Scraggy Sweat;Sudor de Scraggy
+Scroll of Darkness;Manuscrito sombras
+Scroll of Waters;Manuscrito aguas
+Scyther Candy;Caramelo Scyther
+Scyther Claw;Garra de Scyther
+Sea Incense;Incienso marino
+Secret Key;Llave secreta
+Secret Medicine;Medicina secreta
+Seed of Mastery;Semilla dominio
+Seedot Stem;Tallo de Seedot
+Seel Candy;Caramelo Seel
+Seel Fur;Pelo de Seel
+Sentret Fur;Pelo de Sentret
+Serious Mint;Menta seria
+Seviper Fang;Colmillo de Seviper
+Sewaddle Leaf;Hoja de Sewaddle
+Shaderoot Carrot;Zanahoria oscura
+Shalour Sable;Galleta Yantra
+Sharp Beak;Pico afilado
+Sharpedonite;Sharpedonita
+Shed Shell;Muda concha
+Shell Bell;Cascabel concha
+Shellder Candy;Caramelo Shellder
+Shellder Pearl;Perla de Shellder
+Shellos Mucus;Secreción de Shellos
+Shieldon Claw;Garra de Shieldon
+Shinx Fang;Colmillo de Shinx
+Shiny Charm;Amuleto iris
+Shiny Stone;Piedra día
+Shoal Salt;Sal cardumen
+Shoal Shell;Concha cardumen
+Shock Drive;FulgoROM
+Shroodle Ink;Tinta de Shroodle
+Shroomish Spores;Esporas de Shroomish
+Shuca Berry;Baya Acardo
+Shuppet Scrap;Retal de Shuppet
+Silicobra Sand;Arena de Silicobra
+Silk Scarf;Pañuelo de seda
+Silph Scope;Visor Silph
+Silver Bottle;Termo plateado
+Silver Cup;Taza plateada
+Silver Feather;Pluma plateada
+Silver Leaf;Hoja de plata
+Silver Nanab Berry;Baya Latano plateada
+Silver Pick;Palillo plateado
+Silver Pinap Berry;Baya Pinia plateada
+Silver Powder;Polvo plata
+Silver Razz Berry;Baya Frambu plateada
+Simple Chairs;Sillas simples
+Sinistea Chip;Fragmento de Sinistea
+Sitrus Berry;Baya Zidra
+Skarmorite;Skarmorita
+Skarmory Feather;Pluma de Skarmory
+Skiddo Leaf;Hoja de Skiddo
+Skrelp Kelp;Alga de Skrelp
+Skull Fossil;Fósil cráneo
+Skwovet Fur;Pelo de Skwovet
+Sky Plate;Tabla cielo
+Sky Tumblestone;Guijarro celeste
+Slakoth Fur;Pelo de Slakoth
+Slowbronite;Slowbronita
+Slowpoke Candy;Caramelo Slowpoke
+Slowpoke Claw;Garra de Slowpoke
+Slowpoke Cup;Taza Slowpoke
+Slowpoke Tail;Cola de Slowpoke
+Slugma Lava;Lava de Slugma
+Small Bouquet;Ramo pequeño
+Smart Candy L;Caramelo intelecto +
+Smart Candy XL;Caramelo intelecto ++
+Smart Candy;Caramelo intelecto
+Smeargle Paint;Pintura de Smeargle
+Smiling Vee Pick;Palillo Eevee feliz
+Smoke Ball;Bola de humo
+Smoke Bomb;Bola humareda
+Smoke-Poke Tail;Cola ahumada
+Smoked Fillet;Filete ahumado
+Smoliv Oil;Aceite de Smoliv
+Smooth Rock;Roca suave
+Sneasel Claw;Garra de Sneasel
+Snom Thread;Hilo de Snom
+Snorlax Candy;Caramelo Snorlax
+Snorlium Z;Snorlastal Z
+Snorunt Fur;Pelo de Snorunt
+Snover Berries;Baya de Snover
+Snow Balm;Calmasfera nieve
+Snowball;Bola de nieve
+Snubbull Hair;Pelo de Snubbull
+Soda Pop;Refresco
+Soft Sand;Arena fina
+Solgaleo Treat;Galleta Solgaleo
+Solganium Z;Solgaleostal Z
+Solosis Gel;Gel de Solosis
+Sonia’s Book;Libro de Sonia
+Soot Sack;Saco de hollín
+Sootfoot Root;Fumibulbo
+Soothe Bell;Cascabel alivio
+Soul Dew;Rocío bondad
+Soul Slate;Losa empatía
+Sour Herba Mystica;Especia oculta ácida
+Space Balm;Calmasfera espacio
+Sparkling Stone;Piedra brillante
+Spearow Candy;Caramelo Spearow
+Spectrier Treat;Galleta Spectrier
+Spell Tag;Hechizo
+Spelon Berry;Baya Wikano
+Spice Mix;Especias
+Spicy Herba Mystica;Especia oculta picante
+Spinarak Thread;Hilo de Spinarak
+Spiritomb Fragment;Fragmento de Spiritomb
+Splash Plate;Tabla linfa
+Spoiled Apricorn;Bonguri pocho
+Spoink Pearl;Perla de Spoink
+Spooky Chairs;Sillas espectrales
+Spooky Plate;Tabla terror
+Spooky Tablecloth;Mantel espectral
+Sport Ball;Competi Ball
+Sprayduck;Psydugadera
+Springy Mushroom;Seta esponjosa
+Sprinklotad;Lotadgadera
+Squall Slate;Losa tormenta
+Squawkabilly Feather;Pluma de Squawkabilly
+Squirt Bottle;Squirgadera
+Squirtle Candy;Caramelo Squirtle
+Stable Mulch;Abono fijador
+Stantler Hair;Pelo de Stantler
+Star Piece;Trozo de estrella
+Star Sweet;Confite estrella
+Staraptite;Staraptorita
+Stardust;Polvo estelar
+Starf Berry;Baya Arabol
+Starly Feather;Pluma de Starly
+Starminite;Starmita
+Staryu Candy;Caramelo Staryu
+Stealth Spray;Aerosol sigilo
+Steel Bottle (B);Termo metal azul
+Steel Bottle (R);Termo metal rojo
+Steel Bottle (Y);Termo metal amarillo
+Steel Gem;Gema acero
+Steel Memory;Disco acero
+Steel Tera Shard;Teralito acero
+Steelium Z;Metalostal Z
+Steelixite;Steelixita
+Stellar Tera Shard;Teralito astral
+Sticker Bag;Bolsa de sellos
+Sticker Case;Caja de sellos
+Sticky Barb;Toxiestrella
+Sticky Glob;Bola pegajosa
+Stone Plate;Tabla pétrea
+Stonjourner Stone;Roca de Stonjourner
+Storage Key;Llave del almacén
+Strange Ball;Extraña Ball
+Strange Souvenir;Estatuilla rara
+Stratospheric Slate;Losa cielo
+Strawberry Sweet;Confite fresa
+Strawberry;Fresa
+Stretchy Spring;Muelle estirado
+Striped Bottle;Termo rayas
+Striped Chairs;Sillas rayas
+Striped Cup;Taza raya vertical
+Striped Tablecloth;Mantel rayas
+Stunky Fur;Pelo de Stunky
+Style Card;Tarjeta chic
+Suicune Treat;Galleta Suicune
+Suite Key;Llave de la suite
+Sun Flute;Flauta solar
+Sun Stone;Piedra solar
+Sunkern Leaf;Hoja de Sunkern
+Sunrise Flower Pick;Palillo flor rosa
+Sunset Flower Pick;Palillo flor naranja
+Super Lumiose Galette;Supergalette Luminalia
+Super Lure;Supercolonia
+Super Potion;Superpoción
+Super Repel;Superrepelente
+Super Rod;Supercaña
+Superb Remedy;Hiperremedio
+Supreme Butter;Mantequilla máxima
+Surge Badge;Medalla Fulgor
+Surprise Mulch;Abono sorpresa
+Surskit Syrup;Néctar de Surskit
+Survival Charm B;Amuleto protector 2
+Survival Charm P;Amuleto protector 3
+Survival Charm R;Amuleto protector 1
+Survival Charm T;Amuleto protector 4
+Survival Charm Y;Amuleto protector 5
+Swablu Fluff;Pluma de Swablu
+Swampertite;Swampertita
+Swap Snack;Bocadito inversión
+Sweet Apple;Manzana dulce
+Sweet Heart;Corazón dulce
+Sweet Herba Mystica;Especia oculta dulce
+Swift Feather;Pluma ímpetu
+Swift Mochi;Mochi ímpetu
+Swinub Hair;Pelo de Swinub
+Swordcap;Seta espada
+Synchro Machine;Sincromisor
+Syrupy Apple;Manzana melosa
+TM Case;Estuche de MT
 TM001;MT001
 TM002;MT002
 TM003;MT003
@@ -328,6 +1577,7 @@ TM006;MT006
 TM007;MT007
 TM008;MT008
 TM009;MT009
+TM00;MT00
 TM010;MT010
 TM011;MT011
 TM012;MT012
@@ -411,1625 +1661,13 @@ TM089;MT089
 TM090;MT090
 TM091;MT091
 TM092;MT092
-HM01;MO01
-HM02;MO02
-HM03;MO03
-HM04;MO04
-HM05;MO05
-HM06;MO06
-HM07;MO07
-HM08;MO08
-Explorer Kit;Kit de explorador
-Loot Sack;Saca botín
-Rule Book;Reglamento
-Poké Radar;Poké radar
-Point Card;Tarjeta de puntos
-Guidebook;Guía de viaje
-Sticker Case;Caja de sellos
-Fashion Case;Caja corazón
-Sticker Bag;Bolsa de sellos
-Pal Pad;Bloc de amigos
-Works Key;Llave de la central
-Old Charm;Talismán
-Galactic Key;Llave Galaxia
-Red Chain;Cadena roja
-Town Map;Mapa
-Vs. Seeker;Buscapelea
-Coin Case;Monedero
-Old Rod;Caña vieja
-Good Rod;Caña buena
-Super Rod;Supercaña
-Sprayduck;Psydugadera
-Poffin Case;Pokochera
-Bike;Bici
-Suite Key;Llave de la suite
-Oak’s Letter;Carta del profesor Oak
-Lunar Feather;Pluma lunar
-Member Card;Carné de socio
-Azure Flute;Flauta azur
-S.S. Ticket;Ticket del barco
-Contest Pass;Pase de concurso
-Magma Stone;Piedra magma
-Parcel;Paquete
-Coupon 1;Cupón 1
-Coupon 2;Cupón 2
-Coupon 3;Cupón 3
-Storage Key;Llave del almacén
-Secret Medicine;Medicina secreta
-Vs. Recorder;Cámara lucha
-Gracidea;Gracídea
-Secret Key;Llave secreta
-Apricorn Box;Caja bonguri
-Unown Report;Bloc Unown
-Berry Pots;Plantabayas
-Dowsing Machine;Zahorí
-Blue Card;Tarjeta azul
-Slowpoke Tail;Cola de Slowpoke
-Clear Bell;Cascabel claro
-Card Key;Llave magnética
-Basement Key;Llave del sótano
-Squirt Bottle;Squirgadera
-Red Scale;Escama roja
-Lost Item;Objeto perdido
-Pass;Magnetopase
-Machine Part;Maquinaria
-Silver Feather;Pluma plateada
-Rainbow Feather;Pluma arcoíris
-Mystery Egg;Huevo misterioso
-Red Apricorn;Bonguri rojo
-Blue Apricorn;Bonguri azul
-Yellow Apricorn;Bonguri amarillo
-Green Apricorn;Bonguri verde
-Pink Apricorn;Bonguri rosa
-White Apricorn;Bonguri blanco
-Black Apricorn;Bonguri negro
-Fast Ball;Rapid Ball
-Level Ball;Nivel Ball
-Lure Ball;Cebo Ball
-Heavy Ball;Peso Ball
-Love Ball;Amor Ball
-Friend Ball;Amigo Ball
-Moon Ball;Luna Ball
-Sport Ball;Competi Ball
-Park Ball;Parque Ball
-Photo Album;Álbum
-GB Sounds;Reproductor GB
-Tidal Bell;Cascabel oleaje
-Rage Candy Bar;Caramelo furia
-Data Card 01;Tarjeta de datos 01
-Data Card 02;Tarjeta de datos 02
-Data Card 03;Tarjeta de datos 03
-Data Card 04;Tarjeta de datos 04
-Data Card 05;Tarjeta de datos 05
-Data Card 06;Tarjeta de datos 06
-Data Card 07;Tarjeta de datos 07
-Data Card 08;Tarjeta de datos 08
-Data Card 09;Tarjeta de datos 09
-Data Card 10;Tarjeta de datos 10
-Data Card 11;Tarjeta de datos 11
-Data Card 12;Tarjeta de datos 12
-Data Card 13;Tarjeta de datos 13
-Data Card 14;Tarjeta de datos 14
-Data Card 15;Tarjeta de datos 15
-Data Card 16;Tarjeta de datos 16
-Data Card 17;Tarjeta de datos 17
-Data Card 18;Tarjeta de datos 18
-Data Card 19;Tarjeta de datos 19
-Data Card 20;Tarjeta de datos 20
-Data Card 21;Tarjeta de datos 21
-Data Card 22;Tarjeta de datos 22
-Data Card 23;Tarjeta de datos 23
-Data Card 24;Tarjeta de datos 24
-Data Card 25;Tarjeta de datos 25
-Data Card 26;Tarjeta de datos 26
-Data Card 27;Tarjeta de datos 27
-Jade Orb;Esfera verde
-Lock Capsule;Cápsula candado
-Red Orb;Prisma rojo
-Blue Orb;Prisma azul
-Enigma Stone;Misticristal
-Prism Scale;Escama bella
-Eviolite;Mineral evolutivo
-Float Stone;Piedra pómez
-Rocky Helmet;Casco dentado
-Air Balloon;Globo helio
-Red Card;Tarjeta roja
-Ring Target;Blanco
-Binding Band;Banda atadura
-Absorb Bulb;Tubérculo
-Cell Battery;Pila
-Eject Button;Botón escape
-Fire Gem;Gema fuego
-Water Gem;Gema agua
-Electric Gem;Gema eléctrico
-Grass Gem;Gema planta
-Ice Gem;Gema hielo
-Fighting Gem;Gema lucha
-Poison Gem;Gema veneno
-Ground Gem;Gema tierra
-Flying Gem;Gema volador
-Psychic Gem;Gema psíquico
-Bug Gem;Gema bicho
-Rock Gem;Gema roca
-Ghost Gem;Gema fantasma
-Dragon Gem;Gema dragón
-Dark Gem;Gema siniestro
-Steel Gem;Gema acero
-Normal Gem;Gema normal
-Health Feather;Pluma vigor
-Muscle Feather;Pluma músculo
-Resist Feather;Pluma aguante
-Genius Feather;Pluma intelecto
-Clever Feather;Pluma mente
-Swift Feather;Pluma ímpetu
-Pretty Feather;Pluma bella
-Cover Fossil;Fósil tapa
-Plume Fossil;Fósil pluma
-Liberty Pass;Tarjeta libertad
-Pass Orb;Regalosfera
-Dream Ball;Ensueño Ball
-Poké Toy;Pokéseñuelo
-Prop Case;Neceser
-Dragon Skull;Cráneo de dragón
-Balm Mushroom;Seta aroma
-Big Nugget;Maxipepita de oro
-Pearl String;Sarta de perlas
-Comet Shard;Fragmento de cometa
-Relic Copper;Real de cobre
-Relic Silver;Real de plata
-Relic Gold;Real de oro
-Relic Vase;Ánfora antigua
-Relic Band;Brazal antiguo
-Relic Statue;Efigie antigua
-Relic Crown;Corona antigua
-Casteliacone;Porcehelado
-Dire Hit 2;Crítico X 2
-X Speed 2;Velocidad X 2
-X Sp. Atk 2;Ataque especial X 2
-X Sp. Def 2;Defensa especial X 2
-X Defense 2;Defensa X 2
-X Attack 2;Ataque X 2
-X Accuracy 2;Precisión X 2
-X Speed 3;Velocidad X 3
-X Sp. Atk 3;Ataque especial X 3
-X Sp. Def 3;Defensa especial X 3
-X Defense 3;Defensa X 3
-X Attack 3;Ataque X 3
-X Accuracy 3;Precisión X 3
-X Speed 6;Velocidad X 6
-X Sp. Atk 6;Ataque especial X 6
-X Sp. Def 6;Defensa especial X 6
-X Defense 6;Defensa X 6
-X Attack 6;Ataque X 6
-X Accuracy 6;Precisión X 6
-Ability Urge;Habilitador
-Item Drop;Tiraobjeto
-Item Urge;Activaobjeto
-Reset Urge;Quitaestado
-Dire Hit 3;Crítico X 3
-Light Stone;Orbe claro
-Dark Stone;Orbe oscuro
 TM093;MT093
 TM094;MT094
 TM095;MT095
-Xtransceiver;Videomisor
-Gram 1;Envío 1
-Gram 2;Envío 2
-Gram 3;Envío 3
-Xtransceiver;Videomisor
-Medal Box;Caja de insignias
-DNA Splicers;Punta ADN
-DNA Splicers;Punta ADN
-Permit;Pase
-Oval Charm;Amuleto oval
-Shiny Charm;Amuleto iris
-Plasma Card;Tarjeta Plasma
-Grubby Hanky;Pañuelo sucio
-Colress Machine;Acromáquina
-Dropped Item;Objeto perdido
-Dropped Item;Objeto perdido
-Reveal Glass;Espejo veraz
-Weakness Policy;Seguro de debilidad
-Assault Vest;Chaleco asalto
-Holo Caster;Holomisor
-Prof’s Letter;Carta del profesor
-Roller Skates;Patines
-Pixie Plate;Tabla duende
-Ability Capsule;Cápsula habilidad
-Whipped Dream;Dulce de nata
-Sachet;Saquito fragante
-Luminous Moss;Musgo brillante
-Snowball;Bola de nieve
-Safety Goggles;Gafa protectora
-Poké Flute;Pokéflauta
-Rich Mulch;Abono fértil
-Surprise Mulch;Abono sorpresa
-Boost Mulch;Abono fructífero
-Amaze Mulch;Abono insólito
-Gengarite;Gengarita
-Gardevoirite;Gardevoirita
-Ampharosite;Ampharosita
-Venusaurite;Venusaurita
-Charizardite X;Charizardita X
-Blastoisinite;Blastoisita
-Mewtwonite X;Mewtwoita X
-Mewtwonite Y;Mewtwoita Y
-Blazikenite;Blazikenita
-Medichamite;Medichamita
-Houndoominite;Houndoomita
-Aggronite;Aggronita
-Banettite;Banettita
-Tyranitarite;Tyranitarita
-Scizorite;Scizorita
-Pinsirite;Pinsirita
-Aerodactylite;Aerodactylita
-Lucarionite;Lucarita
-Abomasite;Abomasnowita
-Kangaskhanite;Kangaskhanita
-Gyaradosite;Gyaradosita
-Absolite;Absolita
-Charizardite Y;Charizardita Y
-Alakazite;Alakazamita
-Heracronite;Heracrossita
-Mawilite;Mawilita
-Manectite;Manectricita
-Garchompite;Garchompita
-Latiasite;Latiasita
-Latiosite;Latiosita
-Roseli Berry;Baya Hibis
-Kee Berry;Baya Biglia
-Maranga Berry;Baya Maranga
-Sprinklotad;Lotadgadera
 TM096;MT096
 TM097;MT097
 TM098;MT098
 TM099;MT099
-TM100;MT100
-Power Plant Pass;Pase de la central
-Mega Ring;Megaaro
-Intriguing Stone;Piedra insólita
-Common Stone;Piedra común
-Discount Coupon;Vale de descuento
-Elevator Key;Llave del ascensor
-TMV Pass;Abono del TMV
-Honor of Kalos;Emblema de Kalos
-Adventure Guide;Guía de aventura
-Strange Souvenir;Estatuilla rara
-Lens Case;Portalentillas
-Makeup Bag;Kit de maquillaje
-Travel Trunk;Maleta
-Lumiose Galette;Galette Luminalia
-Shalour Sable;Galleta Yantra
-Jaw Fossil;Fósil mandíbula
-Sail Fossil;Fósil aleta
-Looker Ticket;Boleto Handsome
-Bike;Bici
-Holo Caster;Holomisor
-Fairy Gem;Gema hada
-Mega Charm;Megacolgante
-Mega Glove;Megaguante
-Mach Bike;Bici de carreras
-Acro Bike;Bici acrobática
-Wailmer Pail;Wailmegadera
-Devon Parts;Piezas Devon
-Soot Sack;Saco de hollín
-Basement Key;Llave del sótano
-Pokéblock Kit;Kit de pokécubos
-Letter;Carta a Máximo
-Eon Ticket;Ticket éon
-Scanner;Escáner
-Go-Goggles;Gafas aislantes
-Meteorite;Meteorito
-Key to Room 1;Llave habitación 1
-Key to Room 2;Llave habitación 2
-Key to Room 4;Llave habitación 4
-Key to Room 6;Llave habitación 6
-Storage Key;Llave del almacén
-Devon Scope;Detector Devon
-S.S. Ticket;Ticket del barco
-HM07;MO07
-Devon Scuba Gear;Bombona Devon
-Contest Costume;Traje de gala
-Contest Costume;Vestido de gala
-Magma Suit;Traje Magma
-Aqua Suit;Traje Aqua
-Pair of Tickets;Entrada para dos
-Mega Bracelet;Megapulsera
-Mega Pendant;Megacollar
-Mega Glasses;Megagafas
-Mega Anchor;Megaancla
-Mega Stickpin;Megabroche
-Mega Tiara;Megatiara
-Mega Anklet;Megatobillera
-Meteorite;Meteorito
-Swampertite;Swampertita
-Sceptilite;Sceptilita
-Sablenite;Sableynita
-Altarianite;Altarianita
-Galladite;Galladita
-Audinite;Audinita
-Metagrossite;Metagrossita
-Sharpedonite;Sharpedonita
-Slowbronite;Slowbronita
-Steelixite;Steelixita
-Pidgeotite;Pidgeotita
-Glalitite;Glalita
-Diancite;Diancita
-Prison Bottle;Vasija de castigo
-Mega Cuff;Megabrazalete
-Cameruptite;Cameruptita
-Lopunnite;Lopunnita
-Salamencite;Salamencita
-Beedrillite;Beedrillita
-Meteorite;Meteorito
-Meteorite;Meteorito
-Key Stone;Piedra activadora
-Meteorite Shard;Fragmento de meteorito
-Eon Flute;Flauta eón
-Normalium Z;Normastal Z
-Firium Z;Pirostal Z
-Waterium Z;Hidrostal Z
-Electrium Z;Electrostal Z
-Grassium Z;Fitostal Z
-Icium Z;Criostal Z
-Fightinium Z;Lizastal Z
-Poisonium Z;Toxistal Z
-Groundium Z;Geostal Z
-Flyinium Z;Aerostal Z
-Psychium Z;Psicostal Z
-Buginium Z;Insectostal Z
-Rockium Z;Litostal Z
-Ghostium Z;Espectrostal Z
-Dragonium Z;Dracostal Z
-Darkinium Z;Nictostal Z
-Steelium Z;Metalostal Z
-Fairium Z;Feeristal Z
-Pikanium Z;Pikastal Z
-Bottle Cap;Chapa plateada
-Gold Bottle Cap;Chapa dorada
-Z-Ring;Pulsera Z
-Decidium Z;Dueyestal Z
-Incinium Z;Incinostal Z
-Primarium Z;Primastal Z
-Tapunium Z;Tapistal Z
-Marshadium Z;Marshastal Z
-Aloraichium Z;Alo-Raistal Z
-Snorlium Z;Snorlastal Z
-Eevium Z;Eeveestal Z
-Mewnium Z;Mewstal Z
-Normalium Z;Normastal Z
-Firium Z;Pirostal Z
-Waterium Z;Hidrostal Z
-Electrium Z;Electrostal Z
-Grassium Z;Fitostal Z
-Icium Z;Criostal Z
-Fightinium Z;Lizastal Z
-Poisonium Z;Toxistal Z
-Groundium Z;Geostal Z
-Flyinium Z;Aerostal Z
-Psychium Z;Psicostal Z
-Buginium Z;Insectostal Z
-Rockium Z;Litostal Z
-Ghostium Z;Espectrostal Z
-Dragonium Z;Dracostal Z
-Darkinium Z;Nictostal Z
-Steelium Z;Metalostal Z
-Fairium Z;Feeristal Z
-Pikanium Z;Pikastal Z
-Decidium Z;Dueyestal Z
-Incinium Z;Incinostal Z
-Primarium Z;Primastal Z
-Tapunium Z;Tapistal Z
-Marshadium Z;Marshastal Z
-Aloraichium Z;Alo-Raistal Z
-Snorlium Z;Snorlastal Z
-Eevium Z;Eeveestal Z
-Mewnium Z;Mewstal Z
-Pikashunium Z;Ash-Pikastal Z
-Pikashunium Z;Ash-Pikastal Z
-Forage Bag;Zurrón
-Fishing Rod;Caña
-Professor’s Mask;Máscara del profesor
-Festival Ticket;Festicupón
-Sparkling Stone;Piedra brillante
-Adrenaline Orb;Nersiosfera
-Zygarde Cube;Arca de Zygarde
-Ice Stone;Piedra hielo
-Ride Pager;Buscamontura
-Beast Ball;Ente Ball
-Big Malasada;Malasada maxi
-Red Nectar;Néctar rojo
-Yellow Nectar;Néctar amarillo
-Pink Nectar;Néctar rosa
-Purple Nectar;Néctar violeta
-Sun Flute;Flauta solar
-Moon Flute;Flauta lunar
-Enigmatic Card;Nota intrigante
-Silver Razz Berry;Baya Frambu plateada
-Golden Razz Berry;Baya Frambu dorada
-Silver Nanab Berry;Baya Latano plateada
-Golden Nanab Berry;Baya Latano dorada
-Silver Pinap Berry;Baya Pinia plateada
-Golden Pinap Berry;Baya Pinia dorada
-Secret Key;Llave secreta
-S.S. Ticket;Ticket del barco
-Silph Scope;Visor Silph
-Parcel;Paquete
-Card Key;Llave magnética
-Gold Teeth;Dentadura de oro
-Lift Key;Llave del ascensor
-Terrain Extender;Cubresuelos
-Protective Pads;Paracontacto
-Electric Seed;Semilla electro
-Psychic Seed;Semilla psique
-Misty Seed;Semilla bruma
-Grassy Seed;Semilla hierba
-Stretchy Spring;Muelle estirado
-Chalky Stone;Tiza
-Marble;Canica
-Lone Earring;Pendiente
-Beach Glass;Cristal marino
-Gold Leaf;Hoja de oro
-Silver Leaf;Hoja de plata
-Polished Mud Ball;Bola de arcilla
-Tropical Shell;Concha tropical
-Leaf Letter;Hoja escrita
-Leaf Letter;Hoja escrita
-Small Bouquet;Ramo pequeño
-Lure;Colonia
-Super Lure;Supercolonia
-Max Lure;Colonia máxima
-Pewter Crunchies;Rokikos
-Fighting Memory;Disco lucha
-Flying Memory;Disco volador
-Poison Memory;Disco veneno
-Ground Memory;Disco tierra
-Rock Memory;Disco roca
-Bug Memory;Disco bicho
-Ghost Memory;Disco fantasma
-Steel Memory;Disco acero
-Fire Memory;Disco fuego
-Water Memory;Disco agua
-Grass Memory;Disco planta
-Electric Memory;Disco eléctrico
-Psychic Memory;Disco psíquico
-Ice Memory;Disco hielo
-Dragon Memory;Disco dragón
-Dark Memory;Disco siniestro
-Fairy Memory;Disco hada
-Solganium Z;Solgaleostal Z
-Lunalium Z;Lunalastal Z
-Ultranecrozium Z;Ultranecrostal Z
-Mimikium Z;Mimikyustal Z
-Lycanium Z;Lycanrostal Z
-Kommonium Z;Kommostal Z
-Solganium Z;Solgaleostal Z
-Lunalium Z;Lunalastal Z
-Ultranecrozium Z;Ultranecrostal Z
-Mimikium Z;Mimikyustal Z
-Lycanium Z;Lycanrostal Z
-Kommonium Z;Kommostal Z
-Z-Power Ring;Superpulsera Z
-Pink Petal;Pétalo rosa
-Orange Petal;Pétalo naranja
-Blue Petal;Pétalo azul
-Red Petal;Pétalo rojo
-Green Petal;Pétalo verde
-Yellow Petal;Pétalo amarillo
-Purple Petal;Pétalo violeta
-Rainbow Flower;Flor irisada
-Surge Badge;Medalla Fulgor
-N-Solarizer;Necrosol
-N-Lunarizer;Necroluna
-N-Solarizer;Necrosol
-N-Lunarizer;Necroluna
-Ilima’s Normalium Z;Cristal Z
-Left Poké Ball;Poké Ball ajena
-Roto Hatch;Cupón eclosión
-Roto Bargain;Cupón rebaja
-Roto Prize Money;Cupón botín
-Roto Exp. Points;Cupón experiencia
-Roto Friendship;Cupón amistad
-Roto Encounter;Cupón reclamo
-Roto Stealth;Cupón sigilo
-Roto HP Restore;Cupón PS
-Roto PP Restore;Cupón PP
-Roto Boost;Cupón refuerzo
-Roto Catch;Cupón captura
-Health Candy;Caramelo vigor
-Mighty Candy;Caramelo músculo
-Tough Candy;Caramelo aguante
-Smart Candy;Caramelo intelecto
-Courage Candy;Caramelo mente
-Quick Candy;Caramelo ímpetu
-Health Candy L;Caramelo vigor +
-Mighty Candy L;Caramelo músculo +
-Tough Candy L;Caramelo aguante +
-Smart Candy L;Caramelo intelecto +
-Courage Candy L;Caramelo mente +
-Quick Candy L;Caramelo ímpetu +
-Health Candy XL;Caramelo vigor ++
-Mighty Candy XL;Caramelo músculo ++
-Tough Candy XL;Caramelo aguante ++
-Smart Candy XL;Caramelo intelecto ++
-Courage Candy XL;Caramelo mente ++
-Quick Candy XL;Caramelo ímpetu ++
-Bulbasaur Candy;Caramelo Bulbasaur
-Charmander Candy;Caramelo Charmander
-Squirtle Candy;Caramelo Squirtle
-Caterpie Candy;Caramelo Caterpie
-Weedle Candy;Caramelo Weedle
-Pidgey Candy;Caramelo Pidgey
-Rattata Candy;Caramelo Rattata
-Spearow Candy;Caramelo Spearow
-Ekans Candy;Caramelo Ekans
-Pikachu Candy;Caramelo Pikachu
-Sandshrew Candy;Caramelo Sandshrew
-Nidoran♀ Candy;Caramelo Nidoran♀
-Nidoran♂ Candy;Caramelo Nidoran♂
-Clefairy Candy;Caramelo Clefairy
-Vulpix Candy;Caramelo Vulpix
-Jigglypuff Candy;Caramelo Jigglypuff
-Zubat Candy;Caramelo Zubat
-Oddish Candy;Caramelo Oddish
-Paras Candy;Caramelo Paras
-Venonat Candy;Caramelo Venonat
-Diglett Candy;Caramelo Diglett
-Meowth Candy;Caramelo Meowth
-Psyduck Candy;Caramelo Psyduck
-Mankey Candy;Caramelo Mankey
-Growlithe Candy;Caramelo Growlithe
-Poliwag Candy;Caramelo Poliwag
-Abra Candy;Caramelo Abra
-Machop Candy;Caramelo Machop
-Bellsprout Candy;Caramelo Bellsprout
-Tentacool Candy;Caramelo Tentacool
-Geodude Candy;Caramelo Geodude
-Ponyta Candy;Caramelo Ponyta
-Slowpoke Candy;Caramelo Slowpoke
-Magnemite Candy;Caramelo Magnemite
-Farfetch’d Candy;Caramelo Farfetch’d
-Doduo Candy;Caramelo Doduo
-Seel Candy;Caramelo Seel
-Grimer Candy;Caramelo Grimer
-Shellder Candy;Caramelo Shellder
-Gastly Candy;Caramelo Gastly
-Onix Candy;Caramelo Onix
-Drowzee Candy;Caramelo Drowzee
-Krabby Candy;Caramelo Krabby
-Voltorb Candy;Caramelo Voltorb
-Exeggcute Candy;Caramelo Exeggcute
-Cubone Candy;Caramelo Cubone
-Hitmonlee Candy;Caramelo Hitmonlee
-Hitmonchan Candy;Caramelo Hitmonchan
-Lickitung Candy;Caramelo Lickitung
-Koffing Candy;Caramelo Koffing
-Rhyhorn Candy;Caramelo Rhyhorn
-Chansey Candy;Caramelo Chansey
-Tangela Candy;Caramelo Tangela
-Kangaskhan Candy;Caramelo Kangaskhan
-Horsea Candy;Caramelo Horsea
-Goldeen Candy;Caramelo Goldeen
-Staryu Candy;Caramelo Staryu
-Mr. Mime Candy;Caramelo Mr. Mime
-Scyther Candy;Caramelo Scyther
-Jynx Candy;Caramelo Jynx
-Electabuzz Candy;Caramelo Electabuzz
-Pinsir Candy;Caramelo Pinsir
-Tauros Candy;Caramelo Tauros
-Magikarp Candy;Caramelo Magikarp
-Lapras Candy;Caramelo Lapras
-Ditto Candy;Caramelo Ditto
-Eevee Candy;Caramelo Eevee
-Porygon Candy;Caramelo Porygon
-Omanyte Candy;Caramelo Omanyte
-Kabuto Candy;Caramelo Kabuto
-Aerodactyl Candy;Caramelo Aerodactyl
-Snorlax Candy;Caramelo Snorlax
-Articuno Candy;Caramelo Articuno
-Zapdos Candy;Caramelo Zapdos
-Moltres Candy;Caramelo Moltres
-Dratini Candy;Caramelo Dratini
-Mewtwo Candy;Caramelo Mewtwo
-Mew Candy;Caramelo Mew
-Meltan Candy;Caramelo Meltan
-Magmar Candy;Caramelo Magmar
-Endorsement;Recomendación
-Pokémon Box Link;Caja de Pokémon
-Wishing Star;Estrella deseo
-Dynamax Band;Maximuñequera
-Fishing Rod;Caña
-Rotom Bike;Bici Rotom
-Sausages;Salchichas
-Bob’s Food Tin;Lata de Darren
-Bach’s Food Tin;Lata de Bach
-Tin of Beans;Lata de habas
-Bread;Pan de molde
-Pasta;Pasta
-Mixed Mushrooms;Setas
-Smoke-Poke Tail;Cola ahumada
-Large Leek;Puerro grueso
-Fancy Apple;Manzana selecta
-Brittle Bones;Huesos finos
-Pack of Potatoes;Patatas
-Pungent Root;Hierba intensa
-Salad Mix;Verduras
-Fried Food;Frituras
-Boiled Egg;Huevo duro
-Camping Gear;Kit de acampada
-Rusted Sword;Espada oxidada
-Rusted Shield;Escudo oxidado
-Fossilized Bird;Ornitofósil
-Fossilized Fish;Ictiofósil
-Fossilized Drake;Dracofósil
-Fossilized Dino;Plesiofósil
-Strawberry Sweet;Confite fresa
-Love Sweet;Confite corazón
-Berry Sweet;Confite fruto
-Clover Sweet;Confite trébol
-Flower Sweet;Confite flor
-Star Sweet;Confite estrella
-Ribbon Sweet;Confite lazo
-Sweet Apple;Manzana dulce
-Tart Apple;Manzana ácida
-Throat Spray;Espray bucal
-Eject Pack;Mochila escape
-Heavy-Duty Boots;Botas gruesas
-Blunder Policy;Seguro de fallo
-Room Service;Servicio raro
-Utility Umbrella;Parasol multiuso
-Exp. Candy XS;Caramelo experiencia XS
-Exp. Candy S;Caramelo experiencia S
-Exp. Candy M;Caramelo experiencia M
-Exp. Candy L;Caramelo experiencia L
-Exp. Candy XL;Caramelo experiencia XL
-Dynamax Candy;Caramelo Dinamax
-TR00;DT00
-TR01;DT01
-TR02;DT02
-TR03;DT03
-TR04;DT04
-TR05;DT05
-TR06;DT06
-TR07;DT07
-TR08;DT08
-TR09;DT09
-TR10;DT10
-TR11;DT11
-TR12;DT12
-TR13;DT13
-TR14;DT14
-TR15;DT15
-TR16;DT16
-TR17;DT17
-TR18;DT18
-TR19;DT19
-TR20;DT20
-TR21;DT21
-TR22;DT22
-TR23;DT23
-TR24;DT24
-TR25;DT25
-TR26;DT26
-TR27;DT27
-TR28;DT28
-TR29;DT29
-TR30;DT30
-TR31;DT31
-TR32;DT32
-TR33;DT33
-TR34;DT34
-TR35;DT35
-TR36;DT36
-TR37;DT37
-TR38;DT38
-TR39;DT39
-TR40;DT40
-TR41;DT41
-TR42;DT42
-TR43;DT43
-TR44;DT44
-TR45;DT45
-TR46;DT46
-TR47;DT47
-TR48;DT48
-TR49;DT49
-TR50;DT50
-TR51;DT51
-TR52;DT52
-TR53;DT53
-TR54;DT54
-TR55;DT55
-TR56;DT56
-TR57;DT57
-TR58;DT58
-TR59;DT59
-TR60;DT60
-TR61;DT61
-TR62;DT62
-TR63;DT63
-TR64;DT64
-TR65;DT65
-TR66;DT66
-TR67;DT67
-TR68;DT68
-TR69;DT69
-TR70;DT70
-TR71;DT71
-TR72;DT72
-TR73;DT73
-TR74;DT74
-TR75;DT75
-TR76;DT76
-TR77;DT77
-TR78;DT78
-TR79;DT79
-TR80;DT80
-TR81;DT81
-TR82;DT82
-TR83;DT83
-TR84;DT84
-TR85;DT85
-TR86;DT86
-TR87;DT87
-TR88;DT88
-TR89;DT89
-TR90;DT90
-TR91;DT91
-TR92;DT92
-TR93;DT93
-TR94;DT94
-TR95;DT95
-TR96;DT96
-TR97;DT97
-TR98;DT98
-TR99;DT99
-TM00;MT00
-Lonely Mint;Menta huraña
-Adamant Mint;Menta firme
-Naughty Mint;Menta pícara
-Brave Mint;Menta audaz
-Bold Mint;Menta osada
-Impish Mint;Menta agitada
-Lax Mint;Menta floja
-Relaxed Mint;Menta plácida
-Modest Mint;Menta modesta
-Mild Mint;Menta afable
-Rash Mint;Menta alocada
-Quiet Mint;Menta mansa
-Calm Mint;Menta serena
-Gentle Mint;Menta amable
-Careful Mint;Menta cauta
-Sassy Mint;Menta grosera
-Timid Mint;Menta miedosa
-Hasty Mint;Menta activa
-Jolly Mint;Menta alegre
-Naive Mint;Menta ingenua
-Serious Mint;Menta seria
-Wishing Piece;Trozo deseo
-Cracked Pot;Tetera agrietada
-Chipped Pot;Tetera rota
-Hi-tech Earbuds;Supertapones
-Fruit Bunch;Fruta tropical
-Moomoo Cheese;Queso Mu-mu
-Spice Mix;Especias
-Fresh Cream;Nata fresca
-Packaged Curry;Curri de bote
-Coconut Milk;Leche de coco
-Instant Noodles;Fideos de bote
-Precooked Burger;Hamburguesas
-Gigantamix;Especias Gigamax
-Wishing Chip;Trocito deseo
-Rotom Bike;Bici Rotom
-Catching Charm;Amuleto captura
-Old Letter;Carta ajada
-Band Autograph;Autógrafo del grupo
-Sonia’s Book;Libro de Sonia
-Rotom Catalog;Catálogo Rotom
-★And458;★And458
-★And15;★And15
-★And337;★And337
-★And603;★And603
-★And390;★And390
-★Sgr6879;★Sgr6879
-★Sgr6859;★Sgr6859
-★Sgr6913;★Sgr6913
-★Sgr7348;★Sgr7348
-★Sgr7121;★Sgr7121
-★Sgr6746;★Sgr6746
-★Sgr7194;★Sgr7194
-★Sgr7337;★Sgr7337
-★Sgr7343;★Sgr7343
-★Sgr6812;★Sgr6812
-★Sgr7116;★Sgr7116
-★Sgr7264;★Sgr7264
-★Sgr7597;★Sgr7597
-★Del7882;★Del7882
-★Del7906;★Del7906
-★Del7852;★Del7852
-★Psc596;★Psc596
-★Psc361;★Psc361
-★Psc510;★Psc510
-★Psc437;★Psc437
-★Psc8773;★Psc8773
-★Lep1865;★Lep1865
-★Lep1829;★Lep1829
-★Boo5340;★Boo5340
-★Boo5506;★Boo5506
-★Boo5435;★Boo5435
-★Boo5602;★Boo5602
-★Boo5733;★Boo5733
-★Boo5235;★Boo5235
-★Boo5351;★Boo5351
-★Hya3748;★Hya3748
-★Hya3903;★Hya3903
-★Hya3418;★Hya3418
-★Hya3482;★Hya3482
-★Hya3845;★Hya3845
-★Eri1084;★Eri1084
-★Eri472;★Eri472
-★Eri1666;★Eri1666
-★Eri897;★Eri897
-★Eri1231;★Eri1231
-★Eri874;★Eri874
-★Eri1298;★Eri1298
-★Eri1325;★Eri1325
-★Eri984;★Eri984
-★Eri1464;★Eri1464
-★Eri1393;★Eri1393
-★Eri850;★Eri850
-★Tau1409;★Tau1409
-★Tau1457;★Tau1457
-★Tau1165;★Tau1165
-★Tau1791;★Tau1791
-★Tau1910;★Tau1910
-★Tau1346;★Tau1346
-★Tau1373;★Tau1373
-★Tau1412;★Tau1412
-★CMa2491;★CMa2491
-★CMa2693;★CMa2693
-★CMa2294;★CMa2294
-★CMa2827;★CMa2827
-★CMa2282;★CMa2282
-★CMa2618;★CMa2618
-★CMa2657;★CMa2657
-★CMa2646;★CMa2646
-★UMa4905;★UMa4905
-★UMa4301;★UMa4301
-★UMa5191;★UMa5191
-★UMa5054;★UMa5054
-★UMa4295;★UMa4295
-★UMa4660;★UMa4660
-★UMa4554;★UMa4554
-★UMa4069;★UMa4069
-★UMa3569;★UMa3569
-★UMa3323;★UMa3323
-★UMa4033;★UMa4033
-★UMa4377;★UMa4377
-★UMa4375;★UMa4375
-★UMa4518;★UMa4518
-★UMa3594;★UMa3594
-★Vir5056;★Vir5056
-★Vir4825;★Vir4825
-★Vir4932;★Vir4932
-★Vir4540;★Vir4540
-★Vir4689;★Vir4689
-★Vir5338;★Vir5338
-★Vir4910;★Vir4910
-★Vir5315;★Vir5315
-★Vir5359;★Vir5359
-★Vir5409;★Vir5409
-★Vir5107;★Vir5107
-★Ari617;★Ari617
-★Ari553;★Ari553
-★Ari546;★Ari546
-★Ari951;★Ari951
-★Ori1713;★Ori1713
-★Ori2061;★Ori2061
-★Ori1790;★Ori1790
-★Ori1903;★Ori1903
-★Ori1948;★Ori1948
-★Ori2004;★Ori2004
-★Ori1852;★Ori1852
-★Ori1879;★Ori1879
-★Ori1899;★Ori1899
-★Ori1543;★Ori1543
-★Cas21;★Cas21
-★Cas168;★Cas168
-★Cas403;★Cas403
-★Cas153;★Cas153
-★Cas542;★Cas542
-★Cas219;★Cas219
-★Cas265;★Cas265
-★Cnc3572;★Cnc3572
-★Cnc3208;★Cnc3208
-★Cnc3461;★Cnc3461
-★Cnc3449;★Cnc3449
-★Cnc3429;★Cnc3429
-★Cnc3627;★Cnc3627
-★Cnc3268;★Cnc3268
-★Cnc3249;★Cnc3249
-★Com4968;★Com4968
-★Crv4757;★Crv4757
-★Crv4623;★Crv4623
-★Crv4662;★Crv4662
-★Crv4786;★Crv4786
-★Aur1708;★Aur1708
-★Aur2088;★Aur2088
-★Aur1605;★Aur1605
-★Aur2095;★Aur2095
-★Aur1577;★Aur1577
-★Aur1641;★Aur1641
-★Aur1612;★Aur1612
-★Pav7790;★Pav7790
-★Cet911;★Cet911
-★Cet681;★Cet681
-★Cet188;★Cet188
-★Cet539;★Cet539
-★Cet804;★Cet804
-★Cep8974;★Cep8974
-★Cep8162;★Cep8162
-★Cep8238;★Cep8238
-★Cep8417;★Cep8417
-★Cen5267;★Cen5267
-★Cen5288;★Cen5288
-★Cen551;★Cen551
-★Cen5459;★Cen5459
-★Cen5460;★Cen5460
-★CMi2943;★CMi2943
-★CMi2845;★CMi2845
-★Equ8131;★Equ8131
-★Vul7405;★Vul7405
-★UMi424;★UMi424
-★UMi5563;★UMi5563
-★UMi5735;★UMi5735
-★UMi6789;★UMi6789
-★Crt4287;★Crt4287
-★Lyr7001;★Lyr7001
-★Lyr7178;★Lyr7178
-★Lyr7106;★Lyr7106
-★Lyr7298;★Lyr7298
-★Ara6585;★Ara6585
-★Sco6134;★Sco6134
-★Sco6527;★Sco6527
-★Sco6553;★Sco6553
-★Sco5953;★Sco5953
-★Sco5984;★Sco5984
-★Sco6508;★Sco6508
-★Sco6084;★Sco6084
-★Sco5944;★Sco5944
-★Sco6630;★Sco6630
-★Sco6027;★Sco6027
-★Sco6247;★Sco6247
-★Sco6252;★Sco6252
-★Sco5928;★Sco5928
-★Sco6241;★Sco6241
-★Sco6165;★Sco6165
-★Tri544;★Tri544
-★Leo3982;★Leo3982
-★Leo4534;★Leo4534
-★Leo4357;★Leo4357
-★Leo4057;★Leo4057
-★Leo4359;★Leo4359
-★Leo4031;★Leo4031
-★Leo3852;★Leo3852
-★Leo3905;★Leo3905
-★Leo3773;★Leo3773
-★Gru8425;★Gru8425
-★Gru8636;★Gru8636
-★Gru8353;★Gru8353
-★Lib5685;★Lib5685
-★Lib5531;★Lib5531
-★Lib5787;★Lib5787
-★Lib5603;★Lib5603
-★Pup3165;★Pup3165
-★Pup3185;★Pup3185
-★Pup3045;★Pup3045
-★Cyg7924;★Cyg7924
-★Cyg7417;★Cyg7417
-★Cyg7796;★Cyg7796
-★Cyg8301;★Cyg8301
-★Cyg7949;★Cyg7949
-★Cyg7528;★Cyg7528
-★Oct7228;★Oct7228
-★Col1956;★Col1956
-★Col2040;★Col2040
-★Col2177;★Col2177
-★Gem2990;★Gem2990
-★Gem2891;★Gem2891
-★Gem2421;★Gem2421
-★Gem2473;★Gem2473
-★Gem2216;★Gem2216
-★Gem2777;★Gem2777
-★Gem2650;★Gem2650
-★Gem2286;★Gem2286
-★Gem2484;★Gem2484
-★Gem2930;★Gem2930
-★Peg8775;★Peg8775
-★Peg8781;★Peg8781
-★Peg39;★Peg39
-★Peg8308;★Peg8308
-★Peg8650;★Peg8650
-★Peg8634;★Peg8634
-★Peg8684;★Peg8684
-★Peg8450;★Peg8450
-★Peg8880;★Peg8880
-★Peg8905;★Peg8905
-★Oph6556;★Oph6556
-★Oph6378;★Oph6378
-★Oph6603;★Oph6603
-★Oph6149;★Oph6149
-★Oph6056;★Oph6056
-★Oph6075;★Oph6075
-★Ser5854;★Ser5854
-★Ser7141;★Ser7141
-★Ser5879;★Ser5879
-★Her6406;★Her6406
-★Her6148;★Her6148
-★Her6410;★Her6410
-★Her6526;★Her6526
-★Her6117;★Her6117
-★Her6008;★Her6008
-★Per936;★Per936
-★Per1017;★Per1017
-★Per1131;★Per1131
-★Per1228;★Per1228
-★Per834;★Per834
-★Per941;★Per941
-★Phe99;★Phe99
-★Phe338;★Phe338
-★Vel3634;★Vel3634
-★Vel3485;★Vel3485
-★Vel3734;★Vel3734
-★Aqr8232;★Aqr8232
-★Aqr8414;★Aqr8414
-★Aqr8709;★Aqr8709
-★Aqr8518;★Aqr8518
-★Aqr7950;★Aqr7950
-★Aqr8499;★Aqr8499
-★Aqr8610;★Aqr8610
-★Aqr8264;★Aqr8264
-★Cru4853;★Cru4853
-★Cru4730;★Cru4730
-★Cru4763;★Cru4763
-★Cru4700;★Cru4700
-★Cru4656;★Cru4656
-★PsA8728;★PsA8728
-★TrA6217;★TrA6217
-★Cap7776;★Cap7776
-★Cap7754;★Cap7754
-★Cap8278;★Cap8278
-★Cap8322;★Cap8322
-★Cap7773;★Cap7773
-★Sge7479;★Sge7479
-★Car2326;★Car2326
-★Car3685;★Car3685
-★Car3307;★Car3307
-★Car3699;★Car3699
-★Dra5744;★Dra5744
-★Dra5291;★Dra5291
-★Dra6705;★Dra6705
-★Dra6536;★Dra6536
-★Dra7310;★Dra7310
-★Dra6688;★Dra6688
-★Dra4434;★Dra4434
-★Dra6370;★Dra6370
-★Dra7462;★Dra7462
-★Dra6396;★Dra6396
-★Dra6132;★Dra6132
-★Dra6636;★Dra6636
-★CVn4915;★CVn4915
-★CVn4785;★CVn4785
-★CVn4846;★CVn4846
-★Aql7595;★Aql7595
-★Aql7557;★Aql7557
-★Aql7525;★Aql7525
-★Aql7602;★Aql7602
-★Aql7235;★Aql7235
-Max Honey;Maxipanal
-Max Mushrooms;Maxiseta
-Galarica Twig;Rama de galanuez
-Galarica Cuff;Brazal galanuez
-Style Card;Tarjeta chic
-Armor Pass;Pase Armadura
-Rotom Bike;Bici Rotom
-Rotom Bike;Bici Rotom
-Exp. Charm;Amuleto experiencia
-Armorite Ore;Duralium
-Mark Charm;Amuleto emblema
-Reins of Unity;Riendas unión
-Reins of Unity;Riendas unión
-Galarica Wreath;Corona galanuez
-Legendary Clue 1;Leyenda 1
-Legendary Clue 2;Leyenda 2
-Legendary Clue 3;Leyenda 3
-Legendary Clue?;Leyenda (?)
-Crown Pass;Pase Corona
-Wooden Crown;Corona tallada
-Radiant Petal;Pétalo fulgor
-White Mane Hair;Crin blanca
-Black Mane Hair;Crin negra
-Iceroot Carrot;Zanahoria nívea
-Shaderoot Carrot;Zanahoria oscura
-Dynite Ore;Maxinium
-Carrot Seeds;Semillas de zanahoria
-Ability Patch;Parche habilidad
-Reins of Unity;Riendas unión
-Time Balm;Calmasfera tiempo
-Space Balm;Calmasfera espacio
-Mysterious Balm;Calmasfera
-Linking Cord;Cordón unión
-Hometown Muffin;Bizcocho clásico
-Apricorn;Bonguri
-Jubilife Muffin;Bizcocho Jubileo
-Aux Powerguard;Gragea multi
-Dire Hit;Gragea crítica
-Choice Dumpling;Aperitivo elección
-Twice-Spiced Radish;Encurtidoble
-Swap Snack;Bocadito inversión
-Caster Fern;Helecho rizado
-Seed of Mastery;Semilla dominio
-Poké Ball;Poké Ball
-Eternal Ice;Hielo eterno
-Uxie’s Claw;Garra de Uxie
-Azelf’s Fang;Diente de Azelf
-Mesprit’s Plume;Pluma de Mesprit
-Tumblestone;Guijarro rojo
-Celestica Flute;Flauta celestial
-Remedy;Remedio
-Fine Remedy;Superremedio
-Dazzling Honey;Miel brillante
-Hearty Grains;Espiga vivaz
-Plump Beans;Haba suculenta
-Springy Mushroom;Seta esponjosa
-Crunchy Salt;Mineral crocante
-Wood;Madera
-King’s Leaf;Hierba regia
-Marsh Balm;Calmasfera pantano
-Poké Ball;Poké Ball
-Great Ball;Super Ball
-Ultra Ball;Ultra Ball
-Feather Ball;Pluma Ball
-Pokéshi Doll;Pokémuñeca
-Smoke Bomb;Bola humareda
-Scatter Bang;Bola ruidosa
-Sticky Glob;Bola pegajosa
-Star Piece;Trozo de estrella
-Mushroom Cake;Cebo de setas
-Bugwort;Hierba repelente
-Honey Cake;Cebo meloso
-Grain Cake;Cebo de grano
-Bean Cake;Cebo de habas
-Salt Cake;Cebo mineral
-Potion;Poción
-Super Potion;Superpoción
-Hyper Potion;Hiperpoción
-Max Potion;Poción máxima
-Full Restore;Restaurar todo
-Remedy;Remedio
-Fine Remedy;Superremedio
-Superb Remedy;Hiperremedio
-Old Gateau;Barrita plus
-Jubilife Muffin;Bizcocho Jubileo
-Full Heal;Cura total
-Revive;Revivir
-Max Revive;Revivir máximo
-Max Ether;Píldora éter
-Max Elixir;Píldora elixir
-Stealth Spray;Aerosol sigilo
-Aux Power;Gragea ofensiva
-Aux Guard;Gragea defensiva
-Dire Hit;Gragea crítica
-Aux Evasion;Gragea evasiva
-Aux Powerguard;Gragea multi
-Forest Balm;Calmasfera bosque
-Iron Chunk;Pepita de hierro
-Black Tumblestone;Guijarro negro
-Sky Tumblestone;Guijarro celeste
-Ball of Mud;Bola de lodo
-Pop Pod;Marimo ruidoso
-Sootfoot Root;Fumibulbo
-Spoiled Apricorn;Bonguri pocho
-Snowball;Bola de nieve
-Sticky Glob;Bola pegajosa
-Black Augurite;Mineral negro
-Peat Block;Bloque de turba
-Stealth Spray;Aerosol sigilo
-Medicinal Leek;Puerro medicinal
-Vivichoke;Revibrote
-Pep-Up Plant;Hierba éter
-Tempting Charm B;Amuleto sustituto 2
-Tempting Charm P;Amuleto sustituto 3
-Swordcap;Seta espada
-Iron Barktongue;Seta férrea
-Doppel Bonnets;Seta evasiva
-Direshroom;Seta crítica
-Sand Radish;Rábano arenero
-Tempting Charm T;Amuleto sustituto 4
-Tempting Charm Y;Amuleto sustituto 5
-Candy Truffle;Trufa dulce
-Cake-Lure Base;Masa para cebo
-Poké Ball;Poké Ball
-Great Ball;Super Ball
-Ultra Ball;Super Ball
-Feather Ball;Pluma Ball
-Scatter Bang;Bola ruidosa
-Smoke Bomb;Bola humareda
-Pokéshi Doll;Pokémuñeca
-Volcano Balm;Calmasfera volcán
-Mountain Balm;Calmasfera montaña
-Snow Balm;Calmasfera nieve
-Honey Cake;Cebo meloso
-Grain Cake;Cebo de grano
-Bean Cake;Cebo de habas
-Mushroom Cake;Cebo de setas
-Salt Cake;Cebo mineral
-Swap Snack;Bocadito inversión
-Choice Dumpling;Aperitivo elección
-Twice-Spiced Radish;Encurtidoble
-Survival Charm R;Amuleto protector 1
-Survival Charm B;Amuleto protector 2
-Survival Charm P;Amuleto protector 3
-Survival Charm T;Amuleto protector 4
-Survival Charm Y;Amuleto protector 5
-Torn Journal;Diario rasgado
-Warding Charm R;Amuleto salud 1
-Warding Charm B;Amuleto salud 2
-Warding Charm P;Amuleto salud 3
-Warding Charm T;Amuleto salud 4
-Warding Charm Y;Amuleto salud 5
-Wall Fragment;Trozo de losa
-Basculegion Food;Cebo Basculegion
-Old Journal;Diario antiguo
-Wing Ball;Ala Ball
-Jet Ball;Aero Ball
-Heavy Ball;Peso Ball
-Leaden Ball;Kilo Ball
-Gigaton Ball;Quintal Ball
-Wing Ball;Ala Ball
-Jet Ball;Aero Ball
-Heavy Ball;Peso Ball
-Hopo Berry;Baya Lupu
-Superb Remedy;Hiperremedio
-Aux Power;Gragea ofensiva
-Aux Guard;Gragea defensiva
-Aux Evasion;Gragea evasiva
-Grit Dust;Polvo esfuerzo
-Grit Gravel;Grava esfuerzo
-Grit Pebble;Piedra esfuerzo
-Grit Rock;Roca esfuerzo
-Secret Medicine;Medicina secreta
-Tempting Charm R;Amuleto sustituto 1
-Lost Satchel;Objeto perdido
-Lost Satchel;Objeto perdido
-Lost Satchel;Objeto perdido
-Lost Satchel;Objeto perdido
-Lost Satchel;Objeto perdido
-Origin Ball;Origen Ball
-Origin Ore;Mena origen
-Adamant Crystal;Gran diamansfera
-Lustrous Globe;Gran lustresfera
-Griseous Core;Gran griseosfera
-Blank Plate;Tabla neutra
-Crafting Kit;Kit de artesanía
-Leaden Ball;Kilo Ball
-Gigaton Ball;Quintal Ball
-Strange Ball;Extraña Ball
-Pokédex;Pokédex
-Old Verse 1;Poema antiguo 1
-Old Verse 2;Poema antiguo 2
-Old Verse 3;Poema antiguo 3
-Old Verse 4;Poema antiguo 4
-Old Verse 5;Poema antiguo 5
-Old Verse 6;Poema antiguo 6
-Old Verse 7;Poema antiguo 7
-Old Verse 8;Poema antiguo 8
-Old Verse 9;Poema antiguo 9
-Old Verse 10;Poema antiguo 10
-Old Verse 11;Poema antiguo 11
-Old Verse 12;Poema antiguo 12
-Old Verse 13;Poema antiguo 13
-Old Verse 14;Poema antiguo 14
-Old Verse 15;Poema antiguo 15
-Old Verse 16;Poema antiguo 16
-Old Verse 17;Poema antiguo 17
-Old Verse 18;Poema antiguo 18
-Old Verse 19;Poema antiguo 19
-Old Verse 20;Poema antiguo 20
-Mysterious Shard S;Esquirla extraña S
-Mysterious Shard L;Esquirla extraña L
-Digger Drill;Taladro
-Kanto Slate;Losa Kanto
-Johto Slate;Losa Johto
-Soul Slate;Losa empatía
-Rainbow Slate;Losa arcoíris
-Squall Slate;Losa tormenta
-Oceanic Slate;Losa mar
-Tectonic Slate;Losa tierra
-Stratospheric Slate;Losa cielo
-Genome Slate;Losa genética
-Discovery Slate;Losa inicio
-Distortion Slate;Losa distorsión
-DS Sounds;Reproductor DS
-Legend Plate;Tabla legendaria
-Rotom Phone;SmartRotom
-Sandwich;Bocadillo
-Koraidon’s Poké Ball;Poké Ball de Koraidon
-Miraidon’s Poké Ball;Poké Ball de Miraidon
-Tera Orb;Orbe Teracristal
-Scarlet Book;Libro Escarlata
-Violet Book;Libro Púrpura
-Kofu’s Wallet;Cartera de Fuco
-Tiny Bamboo Shoot;Bambú pequeño
-Big Bamboo Shoot;Bambú grande
-Scroll of Darkness;Manuscrito sombras
-Scroll of Waters;Manuscrito aguas
-Malicious Armor;Armadura maldita
-Normal Tera Shard;Teralito normal
-Fire Tera Shard;Teralito fuego
-Water Tera Shard;Teralito agua
-Electric Tera Shard;Teralito eléctrico
-Grass Tera Shard;Teralito planta
-Ice Tera Shard;Teralito hielo
-Fighting Tera Shard;Teralito lucha
-Poison Tera Shard;Teralito veneno
-Ground Tera Shard;Teralito tierra
-Flying Tera Shard;Teralito volador
-Psychic Tera Shard;Teralito psíquico
-Bug Tera Shard;Teralito bicho
-Rock Tera Shard;Teralito roca
-Ghost Tera Shard;Teralito fantasma
-Dragon Tera Shard;Teralito dragón
-Dark Tera Shard;Teralito siniestro
-Steel Tera Shard;Teralito acero
-Fairy Tera Shard;Teralito hada
-Booster Energy;Energía potenciadora
-Ability Shield;Escudo habilidad
-Clear Amulet;Amuleto puro
-Mirror Herb;Hierba copia
-Punching Glove;Guante de boxeo
-Covert Cloak;Capa furtiva
-Loaded Dice;Dado trucado
-Baguette;Barra de pan
-Mayonnaise;Mayonesa
-Ketchup;Kétchup
-Mustard;Mostaza
-Butter;Mantequilla
-Peanut Butter;Crema de cacahuete
-Chili Sauce;Salsa picante
-Salt;Sal
-Pepper;Pimienta
-Yogurt;Yogur
-Whipped Cream;Nata montada
-Cream Cheese;Queso crema
-Jam;Confitura de bayas
-Marmalade;Mermelada
-Olive Oil;Aceite de oliva
-Vinegar;Vinagre
-Sweet Herba Mystica;Especia oculta dulce
-Salty Herba Mystica;Especia oculta salada
-Sour Herba Mystica;Especia oculta ácida
-Bitter Herba Mystica;Especia oculta amarga
-Spicy Herba Mystica;Especia oculta picante
-Lettuce;Lechuga
-Tomato;Tomate
-Cherry Tomatoes;Tomate cherri
-Cucumber;Pepino
-Pickle;Pepinillo
-Onion;Cebolla
-Red Onion;Cebolla roja
-Green Bell Pepper;Pimiento verde
-Red Bell Pepper;Pimiento rojo
-Yellow Bell Pepper;Pimiento amarillo
-Avocado;Aguacate
-Bacon;Panceta
-Ham;Jamón cocido
-Prosciutto;Jamón serrano
-Chorizo;Chorizo
-Herbed Sausage;Butifarra
-Hamburger;Hamburguesa
-Klawf Stick;Surimi de Klawf
-Smoked Fillet;Filete ahumado
-Fried Fillet;Filete frito
-Egg;Huevo cocido
-Potato Tortilla;Tortilla
-Tofu;Tofu
-Rice;Arroz
-Noodles;Fideos
-Potato Salad;Ensaladilla
-Cheese;Queso
-Banana;Plátano
-Strawberry;Fresa
-Apple;Manzana
-Kiwi;Kiwi
-Pineapple;Piña
-Jalapeño;Jalapeño
-Horseradish;Rábano picante
-Curry Powder;Curri en polvo
-Wasabi;Wasabi
-Watercress;Berros
-Basil;Albahaca
-Venonat Fang;Colmillo de Venonat
-Diglett Dirt;Tierra de Diglett
-Meowth Fur;Pelo de Meowth
-Psyduck Down;Plumón de Psyduck
-Mankey Fur;Pelo de Mankey
-Growlithe Fur;Pelo de Growlithe
-Slowpoke Claw;Garra de Slowpoke
-Magnemite Screw;Tornillo de Magnemite
-Grimer Toxin;Toxinas de Grimer
-Shellder Pearl;Perla de Shellder
-Gastly Gas;Gas de Gastly
-Drowzee Fur;Pelo de Drowzee
-Voltorb Sparks;Electricidad de Voltorb
-Scyther Claw;Garra de Scyther
-Tauros Hair;Pelo de Tauros
-Magikarp Scales;Escama de Magikarp
-Ditto Goo;Pegote de Ditto
-Eevee Fur;Pelo de Eevee
-Dratini Scales;Escama de Dratini
-Pichu Fur;Pelo de Pichu
-Igglybuff Fluff;Pelo de Igglybuff
-Mareep Wool;Lana de Mareep
-Hoppip Leaf;Hoja de Hoppip
-Sunkern Leaf;Hoja de Sunkern
-Murkrow Bauble;Tesoro de Murkrow
-Misdreavus Tears;Lágrima de Misdreavus
-Girafarig Fur;Pelo de Girafarig
-Pineco Husk;Corteza de Pineco
-Dunsparce Scales;Escama de Dunsparce
-Qwilfish Spines;Púa de Qwilfish
-Heracross Claw;Garra de Heracross
-Sneasel Claw;Garra de Sneasel
-Teddiursa Claw;Garra de Teddiursa
-Delibird Parcel;Paquete de Delibird
-Houndour Fang;Colmillo de Houndour
-Phanpy Nail;Uña de Phanpy
-Stantler Hair;Pelo de Stantler
-Larvitar Claw;Garra de Larvitar
-Wingull Feather;Pluma de Wingull
-Ralts Dust;Pertenencia de Ralts
-Surskit Syrup;Néctar de Surskit
-Shroomish Spores;Esporas de Shroomish
-Slakoth Fur;Pelo de Slakoth
-Makuhita Sweat;Sudor de Makuhita
-Azurill Fur;Pelo de Azurill
-Sableye Gem;Gema de Sableye
-Meditite Sweat;Sudor de Meditite
-Gulpin Mucus;Secreción de Gulpin
-Numel Lava;Lava de Numel
-Torkoal Coal;Carbón de Torkoal
-Spoink Pearl;Perla de Spoink
-Cacnea Needle;Espina de Cacnea
-Swablu Fluff;Pluma de Swablu
-Zangoose Claw;Garra de Zangoose
-Seviper Fang;Colmillo de Seviper
-Barboach Slime;Secreción de Barboach
-Shuppet Scrap;Retal de Shuppet
-Tropius Leaf;Hoja de Tropius
-Snorunt Fur;Pelo de Snorunt
-Luvdisc Scales;Escama de Luvdisc
-Bagon Scales;Escama de Bagon
-Starly Feather;Pluma de Starly
-Kricketot Shell;Muda de Kricketot
-Shinx Fang;Colmillo de Shinx
-Combee Honey;Miel de Combee
-Pachirisu Fur;Pelo de Pachirisu
-Buizel Fur;Pelo de Buizel
-Shellos Mucus;Secreción de Shellos
-Drifloon Gas;Gas de Drifloon
-Stunky Fur;Pelo de Stunky
-Bronzor Fragment;Fragmento de Bronzor
-Bonsly Tears;Lágrima de Bonsly
-Happiny Dust;Pertenencia de Happiny
-Spiritomb Fragment;Fragmento de Spiritomb
-Gible Scales;Escama de Gible
-Riolu Fur;Pelo de Riolu
-Hippopotas Sand;Arena de Hippopotas
-Croagunk Poison;Toxinas de Croagunk
-Finneon Scales;Escama de Finneon
-Snover Berries;Baya de Snover
-Rotom Sparks;Electricidad de Rotom
-Petilil Leaf;Hoja de Petilil
-Basculin Fang;Colmillo de Basculin
-Sandile Claw;Garra de Sandile
-Zorua Fur;Pelo de Zorua
-Gothita Eyelash;Pestaña de Gothita
-Deerling Hair;Pelo de Deerling
-Foongus Spores;Esporas de Foongus
-Alomomola Mucus;Secreción de Alomomola
-Tynamo Slime;Secreción de Tynamo
-Axew Scales;Escama de Axew
-Cubchoo Fur;Pelo de Cubchoo
-Cryogonal Ice;Hielo de Cryogonal
-Pawniard Blade;Cuchilla de Pawniard
-Rufflet Feather;Pluma de Rufflet
-Deino Scales;Escama de Deino
-Larvesta Fuzz;Pelo de Larvesta
-Fletchling Feather;Pluma de Fletchling
-Scatterbug Powder;Polvo de Scatterbug
-Litleo Tuft;Mechón de Litleo
-Flabébé Pollen;Polen de Flabébé
-Skiddo Leaf;Hoja de Skiddo
-Skrelp Kelp;Alga de Skrelp
-Clauncher Claw;Pinza de Clauncher
-Hawlucha Down;Plumón de Hawlucha
-Dedenne Fur;Pelo de Dedenne
-Goomy Goo;Secreción de Goomy
-Klefki Key;Llave de Klefki
-Bergmite Ice;Hielo de Bergmite
-Noibat Fur;Pelo de Noibat
-Yungoos Fur;Pelo de Yungoos
-Crabrawler Shell;Cáscara de Crabrawler
-Oricorio Feather;Pluma de Oricorio
-Rockruff Rock;Roca de Rockruff
-Mareanie Spike;Aguijón de Mareanie
-Mudbray Mud;Lodo de Mudbray
-Fomantis Leaf;Hoja de Fomantis
-Salandit Gas;Gas de Salandit
-Bounsweet Sweat;Sudor de Bounsweet
-Oranguru Fur;Pelo de Oranguru
-Passimian Fur;Pelo de Passimian
-Sandygast Sand;Arena de Sandygast
-Komala Claw;Garra de Komala
-Mimikyu Scrap;Retal de Mimikyu
-Bruxish Tooth;Diente de Bruxish
-Chewtle Claw;Garra de Chewtle
-Skwovet Fur;Pelo de Skwovet
-Arrokuda Scales;Escama de Arrokuda
-Rookidee Feather;Pluma de Rookidee
-Toxel Sparks;Electricidad de Toxel
-Falinks Sweat;Sudor de Falinks
-Cufant Tarnish;Óxido de Cufant
-Rolycoly Coal;Carbón de Rolycoly
-Silicobra Sand;Arena de Silicobra
-Indeedee Fur;Pelo de Indeedee
-Pincurchin Spines;Púa de Pincurchin
-Snom Thread;Hilo de Snom
-Impidimp Hair;Pelo de Impidimp
-Applin Juice;Zumo de Applin
-Sinistea Chip;Fragmento de Sinistea
-Hatenna Dust;Pertenencia de Hatenna
-Stonjourner Stone;Roca de Stonjourner
-Eiscue Down;Plumón de Eiscue
-Dreepy Powder;Polvo de Dreepy
-Lechonk Hair;Pelo de Lechonk
-Tarountula Thread;Hilo de Tarountula
-Nymble Claw;Garra de Nymble
-Rellor Mud;Barro de Rellor
-Greavard Wax;Cera de Greavard
-Flittle Down;Plumón de Flittle
-Wiglett Sand;Arena de Wiglett
-Dondozo Whisker;Bigote de Dondozo
-Veluza Fillet;Carne de Veluza
-Finizen Mucus;Secreción de Finizen
-Smoliv Oil;Aceite de Smoliv
-Capsakid Seed;Semilla de Capsakid
-Tadbulb Mucus;Secreción de Tadbulb
-Varoom Fume;Gas de Varoom
-Orthworm Tarnish;Óxido de Orthworm
-Tandemaus Fur;Pelo de Tandemaus
-Cetoddle Grease;Grasa de Cetoddle
-Frigibax Scales;Escama de Frigibax
-Tatsugiri Scales;Escama de Tatsugiri
-Cyclizar Scales;Escama de Cyclizar
-Pawmi Fur;Pelo de Pawmi
-Wattrel Feather;Pluma de Wattrel
-Bombirdier Feather;Pluma de Bombirdier
-Squawkabilly Feather;Pluma de Squawkabilly
-Flamigo Down;Plumón de Flamigo
-Klawf Claw;Pinza de Klawf
-Nacli Salt;Sal de Nacli
-Glimmet Crystal;Cristal de Glimmet
-Shroodle Ink;Tinta de Shroodle
-Fidough Fur;Pelo de Fidough
-Maschiff Fang;Colmillo de Maschiff
-Bramblin Twig;Rama de Bramblin
-Gimmighoul Coin;Moneda de Gimmighoul
-Tinkatink Hair;Pelo de Tinkatink
-Charcadet Soot;Hollín de Charcadet
-Toedscool Flaps;Pliegue de Toedscool
-Wooper Slime;Secreción de Wooper
 TM100;MT100
 TM101;MT101
 TM102;MT102
@@ -2160,368 +1798,297 @@ TM226;MT226
 TM227;MT227
 TM228;MT228
 TM229;MT229
-Picnic Set;Kit de pícnic
-Academy Bottle;Termo academia
-Academy Bottle;Termo academia
-Polka-Dot Bottle;Termo lunares
-Striped Bottle;Termo rayas
-Diamond Bottle;Termo rombos
-Academy Cup;Taza academia
-Academy Cup;Taza academia
-Striped Cup;Taza raya vertical
-Polka-Dot Cup;Taza lunares
-Flower Pattern Cup;Taza flores
-Academy Tablecloth;Mantel academia
-Academy Tablecloth;Mantel academia
-Whimsical Tablecloth;Mantel cuco
-Leafy Tablecloth;Mantel naturaleza
-Spooky Tablecloth;Mantel espectral
-Academy Ball;Pelota academia
-Academy Ball;Pelota academia
-Marill Ball;Pelota Marill
-Yarn Ball;Pelota ovillo
-Cyber Ball;Pelota cibernética
-Gold Pick;Palillo dorado
-Silver Pick;Palillo plateado
-Red-Flag Pick;Palillo bandera roja
-Blue-Flag Pick;Palillo bandera azul
-Pika-Pika Pick;Palillo Pikachu
-Winking Pika Pick;Palillo Pikaguiño
-Vee-Vee Pick;Palillo Eevee
-Smiling Vee Pick;Palillo Eevee feliz
-Blue Poké Ball Pick;Palillo Ball azul
-Auspicious Armor;Armadura auspiciosa
-Leader’s Crest;Distintivo de líder
-Pink Bottle;Termo rosa
-Blue Bottle;Termo azul
-Yellow Bottle;Termo amarillo
-Steel Bottle (R);Termo metal rojo
-Steel Bottle (Y);Termo metal amarillo
-Steel Bottle (B);Termo metal azul
-Silver Bottle;Termo plateado
-Barred Cup;Taza raya horizontal
-Diamond Pattern Cup;Taza rombos
-Fire Pattern Cup;Taza llamas
-Pink Cup;Taza rosa
-Blue Cup;Taza azul
-Yellow Cup;Taza amarilla
-Pikachu Cup;Taza Pikachu
-Eevee Cup;Taza Eevee
-Slowpoke Cup;Taza Slowpoke
-Silver Cup;Taza plateada
-Exercise Ball;Pelota pilates
-Plaid Tablecloth (Y);Mantel cuadros ámbar
-Plaid Tablecloth (B);Mantel cuadros azul
-Plaid Tablecloth (R);Mantel cuadros rojo
-B&W Grass Tablecloth;Mantel hierba alta
-Battle Tablecloth;Mantel combate
-Monstrous Tablecloth;Mantel monstruoso
-Striped Tablecloth;Mantel rayas
-Diamond Tablecloth;Mantel rombos
-Polka-Dot Tablecloth;Mantel lunares
-Lilac Tablecloth;Mantel malva
-Mint Tablecloth;Mantel menta
-Peach Tablecloth;Mantel beis
-Yellow Tablecloth;Mantel amarillo
-Blue Tablecloth;Mantel azul
-Pink Tablecloth;Mantel rosa
-Gold Bottle;Termo dorado
-Bronze Bottle;Termo bronceado
-Gold Cup;Taza dorada
-Bronze Cup;Taza bronceada
-Green Poké Ball Pick;Palillo Ball verde
-Red Poké Ball Pick;Palillo Ball roja
-Party Sparkler Pick;Palillo bengala
-Heroic Sword Pick;Palillo heroico
-Magical Star Pick;Palillo estrella
-Magical Heart Pick;Palillo corazón
-Parasol Pick;Palillo sombrilla
-Blue-Sky Flower Pick;Palillo flor azul
-Sunset Flower Pick;Palillo flor naranja
-Sunrise Flower Pick;Palillo flor rosa
-Blue Dish;Plato azul
-Green Dish;Plato verde
-Orange Dish;Plato naranja
-Red Dish;Plato rojo
-White Dish;Plato blanco
-Yellow Dish;Plato amarillo
-Fairy Feather;Pluma feérica
-Syrupy Apple;Manzana melosa
-Unremarkable Teacup;Cuenco mediocre
-Masterpiece Teacup;Cuenco exquisito
-Teal Mask;Máscara turquesa
-Cornerstone Mask;Máscara cimiento
-Wellspring Mask;Máscara fuente
-Hearthflame Mask;Máscara horno
-Teal Style Card;Tarjeta chic verde
-Crystal Cluster;Fragmento de cristal
-Health Mochi;Mochi vigor
-Muscle Mochi;Mochi músculo
-Resist Mochi;Mochi aguante
-Genius Mochi;Mochi intelecto
-Clever Mochi;Mochi mente
-Swift Mochi;Mochi ímpetu
-Simple Chairs;Sillas simples
-Academy Chairs;Sillas academia
-Academy Chairs;Sillas academia
-Whimsical Chairs;Sillas cucas
-Leafy Chairs;Sillas naturaleza
-Spooky Chairs;Sillas espectrales
-Plaid Chairs (Y);Sillas cuadros ámbares
-Plaid Chairs (B);Sillas cuadros azules
-Plaid Chairs (R);Sillas cuadros rojas
-B&W Grass Chairs;Sillas hierba alta
-Battle Chairs;Sillas combate
-Monstrous Chairs;Sillas monstruosas
-Striped Chairs;Sillas rayas
-Diamond Chairs;Sillas rombos
-Polka-Dot Chairs;Sillas lunares
-Lilac Chairs;Sillas malvas
-Mint Chairs;Sillas menta
-Peach Chairs;Sillas beis
-Yellow Chairs;Sillas amarillas
-Blue Chairs;Sillas azules
-Pink Chairs;Sillas rosas
-Ekans Fang;Colmillo de Ekans
-Sandshrew Claw;Garra de Sandshrew
-Cleffa Fur;Pelo de Cleffa
-Vulpix Fur;Pelo de Vulpix
-Poliwag Slime;Secreción de Poliwag
-Bellsprout Vine;Liana de Bellsprout
-Geodude Fragment;Fragmento de Geodude
-Koffing Gas;Gas de Koffing
-Munchlax Fang;Colmillo de Munchlax
-Sentret Fur;Pelo de Sentret
-Hoothoot Feather;Pluma de Hoothoot
-Spinarak Thread;Hilo de Spinarak
-Aipom Hair;Pelo de Aipom
-Yanma Spike;Aguijón de Yanma
-Gligar Fang;Colmillo de Gligar
-Slugma Lava;Lava de Slugma
-Swinub Hair;Pelo de Swinub
-Poochyena Fang;Colmillo de Poochyena
-Lotad Leaf;Hoja de Lotad
-Seedot Stem;Tallo de Seedot
-Nosepass Fragment;Fragmento de Nosepass
-Volbeat Fluid;Fluido de Volbeat
-Illumise Fluid;Fluido de Illumise
-Corphish Shell;Cáscara de Corphish
-Feebas Scales;Escama de Feebas
-Duskull Fragment;Fragmento de Duskull
-Chingling Fragment;Fragmento de Chingling
-Timburr Sweat;Sudor de Timburr
-Sewaddle Leaf;Hoja de Sewaddle
-Ducklett Feather;Pluma de Ducklett
-Litwick Soot;Hollín de Litwick
-Mienfoo Claw;Garra de Mienfoo
-Vullaby Feather;Pluma de Vullaby
-Carbink Jewel;Gema de Carbink
-Phantump Twig;Rama de Phantump
-Grubbin Thread;Hilo de Grubbin
-Cutiefly Powder;Polvo de Cutiefly
-Jangmo-o Scales;Escama de Jangmo-o
-Cramorant Down;Plumón de Cramorant
-Morpeko Snack;Semilla de Morpeko
-Poltchageist Powder;Polvo de Poltchageist
-Fresh-Start Mochi;Mochi reinicio
-Roto-Stick;Paloselfi Rotom
-Glimmering Charm;Amuleto cristalino
-Metal Alloy;Metal compuesto
-Indigo Style Card;Tarjeta chic azul
-Oddish Leaf;Hoja de Oddish
-Tentacool Stinger;Aguijón de Tentacool
-Doduo Down;Plumón de Doduo
-Seel Fur;Pelo de Seel
-Exeggcute Shell;Cáscara de Exeggcute
-Tyrogue Sweat;Sudor de Tyrogue
-Rhyhorn Fang;Colmillo de Rhyhorn
-Horsea Ink;Tinta de Horsea
-Elekid Fur;Pelo de Elekid
-Magby Hair;Pelo de Magby
-Lapras Teardrop;Lágrima de Lapras
-Porygon Fragment;Fragmento de Porygon
-Chinchou Sparks;Electricidad de Chinchou
-Snubbull Hair;Pelo de Snubbull
-Skarmory Feather;Pluma de Skarmory
-Smeargle Paint;Pintura de Smeargle
-Plusle Fur;Pelo de Plusle
-Minun Fur;Pelo de Minun
-Trapinch Shell;Coraza de Trapinch
-Beldum Claw;Garra de Beldum
-Cranidos Spike;Púa de Cranidos
-Shieldon Claw;Garra de Shieldon
-Blitzle Mane Hair;Mechón de Blitzle
-Drilbur Claw;Garra de Drilbur
-Cottonee Fluff;Algodón de Cottonee
-Scraggy Sweat;Sudor de Scraggy
-Minccino Fur;Pelo de Minccino
-Solosis Gel;Gel de Solosis
-Joltik Thread;Hilo de Joltik
-Golett Shard;Fragmento de Golett
-Espurr Fur;Pelo de Espurr
-Inkay Ink;Tinta de Inkay
-Pikipek Feather;Pluma de Pikipek
-Dewpider Thread;Hilo de Dewpider
-Comfey Flower;Flor de Comfey
-Minior Shell;Caparazón de Minior
-Milcery Cream;Nata de Milcery
-Duraludon Tarnish;Óxido de Duraludon
-Articuno Treat;Galleta Articuno
-Zapdos Treat;Galleta Zapdos
-Moltres Treat;Galleta Moltres
-Raikou Treat;Galleta Raikou
-Entei Treat;Galleta Entei
-Suicune Treat;Galleta Suicune
-Lugia Treat;Galleta Lugia
-Ho-Oh Treat;Galleta Ho-Oh
-Latias Treat;Galleta Latias
-Latios Treat;Galleta Latios
-Kyogre Treat;Galleta Kyogre
-Groudon Treat;Galleta Groudon
-Rayquaza Treat;Galleta Rayquaza
-Cobalion Treat;Galleta Cobalion
-Terrakion Treat;Galleta Terrakion
-Virizion Treat;Galleta Virizion
-Reshiram Treat;Galleta Reshiram
-Zekrom Treat;Galleta Zekrom
-Kyurem Treat;Galleta Kyurem
-Solgaleo Treat;Galleta Solgaleo
-Lunala Treat;Galleta Lunala
-Necrozma Treat;Galleta Necrozma
-Kubfu Treat;Galleta Kubfu
-Glastrier Treat;Galleta Glastrier
-Spectrier Treat;Galleta Spectrier
-Indigo Disk;Disco índigo
-Fiery Pick;Palillo ígneo
-Stellar Tera Shard;Teralito astral
-Mythical Pecha Berry;Baya Meloc singular
-Blueberry Tablecloth;Mantel Arándano
-Blueberry Chairs;Sillas Arándano
-Synchro Machine;Sincromisor
-Meteorite;Meteorito
-Scarlet Book;Libro Escarlata
-Violet Book;Libro Púrpura
-Briar’s Book;Libro de Brie
-Seed of Mastery;Semilla dominio
-Clefablite;Clefablita
-Victreebelite;Victreebelita
-Starminite;Starmita
-Dragoninite;Dragonitita
-Meganiumite;Meganiumita
-Feraligite;Feraligatrita
-Skarmorite;Skarmorita
-Froslassite;Froslassita
-Heatranite;Heatranita
-Darkranite;Darkrainita
-Emboarite;Emboarita
-Excadrite;Excadrillita
-Scolipite;Scolipedita
-Scraftinite;Scraftita
-Eelektrossite;Eelektrossita
-Chandelurite;Chandelurita
-Chesnaughtite;Chesnaughtita
-Delphoxite;Delphoxita
-Greninjite;Greninjanita
-Pyroarite;Pyroarita
-Floettite;Floettita
-Malamarite;Malamarita
-Barbaracite;Barbaraclita
-Dragalgite;Dragalgita
-Hawluchanite;Hawluchanita
-Zygardite;Zygardita
-Drampanite;Drampanita
-Zeraorite;Zeraoranita
-Falinksite;Falinksita
-Key to Room 202;Llave habitación 202
-Super Lumiose Galette;Supergalette Luminalia
-Lab Key Card A;Llave laboratorio A
-Lab Key Card B;Llave laboratorio B
-Lab Key Card C;Llave laboratorio C
-Lab Key Card M;Llave laboratorio M
-Lab Key Card X;Llave laboratorio X
-Pebble;Piedrecita
-Cherished Ring;Anillo preciado
-Autographed Plush;Amuleto de Naria firmado
+TMV Pass;Abono del TMV
+TR00;DT00
+TR01;DT01
+TR02;DT02
+TR03;DT03
+TR04;DT04
+TR05;DT05
+TR06;DT06
+TR07;DT07
+TR08;DT08
+TR09;DT09
+TR10;DT10
+TR11;DT11
+TR12;DT12
+TR13;DT13
+TR14;DT14
+TR15;DT15
+TR16;DT16
+TR17;DT17
+TR18;DT18
+TR19;DT19
+TR20;DT20
+TR21;DT21
+TR22;DT22
+TR23;DT23
+TR24;DT24
+TR25;DT25
+TR26;DT26
+TR27;DT27
+TR28;DT28
+TR29;DT29
+TR30;DT30
+TR31;DT31
+TR32;DT32
+TR33;DT33
+TR34;DT34
+TR35;DT35
+TR36;DT36
+TR37;DT37
+TR38;DT38
+TR39;DT39
+TR40;DT40
+TR41;DT41
+TR42;DT42
+TR43;DT43
+TR44;DT44
+TR45;DT45
+TR46;DT46
+TR47;DT47
+TR48;DT48
+TR49;DT49
+TR50;DT50
+TR51;DT51
+TR52;DT52
+TR53;DT53
+TR54;DT54
+TR55;DT55
+TR56;DT56
+TR57;DT57
+TR58;DT58
+TR59;DT59
+TR60;DT60
+TR61;DT61
+TR62;DT62
+TR63;DT63
+TR64;DT64
+TR65;DT65
+TR66;DT66
+TR67;DT67
+TR68;DT68
+TR69;DT69
+TR70;DT70
+TR71;DT71
+TR72;DT72
+TR73;DT73
+TR74;DT74
+TR75;DT75
+TR76;DT76
+TR77;DT77
+TR78;DT78
+TR79;DT79
+TR80;DT80
+TR81;DT81
+TR82;DT82
+TR83;DT83
+TR84;DT84
+TR85;DT85
+TR86;DT86
+TR87;DT87
+TR88;DT88
+TR89;DT89
+TR90;DT90
+TR91;DT91
+TR92;DT92
+TR93;DT93
+TR94;DT94
+TR95;DT95
+TR96;DT96
+TR97;DT97
+TR98;DT98
+TR99;DT99
+Tadbulb Mucus;Secreción de Tadbulb
+Tamato Berry;Baya Tamate
+Tandemaus Fur;Pelo de Tandemaus
+Tanga Berry;Baya Yecana
+Tangela Candy;Caramelo Tangela
+Tapunium Z;Tapistal Z
+Tarountula Thread;Hilo de Tarountula
+Tart Apple;Manzana ácida
 Tasty Trash;Basura suculenta
-Revitalizing Twig;Ramita revitalizante
-Lida’s Things;Enseres de Bárbara
-Lumiosian Butter;Mantequilla de Luminalia
-Nice Butter;Supermantequilla
-Great Butter;Hipermantequilla
-Amazing Butter;Ultramantequilla
-Supreme Butter;Mantequilla máxima
-Hyperspace Butter;Mantequilla dimensional
-Hoennian Salt;Sal gruesa de Hoenn
-Épice Noire;Especia negra
-Arboliva Oil;Aceite de Arboliva
-Popping Candy;Caramelos chispeantes
-Important Letter;Carta importante
-Cherished Ring;Anillo preciado
-Dirty Scarf;Pañuelo mugriento
-Mega Shard;Megaesquirla
-Colorful Screw;Tornillo colorido
-Red Canari Plush;Amuleto de Naria rojo
-Red Canari Plush;Amuleto de Naria rojo
-Red Canari Plush;Amuleto de Naria rojo
-Gold Canari Plush;Amuleto de Naria dorado
-Gold Canari Plush;Amuleto de Naria dorado
-Gold Canari Plush;Amuleto de Naria dorado
-Pink Canari Plush;Amuleto de Naria rosa
-Pink Canari Plush;Amuleto de Naria rosa
-Pink Canari Plush;Amuleto de Naria rosa
-Green Canari Plush;Amuleto de Naria verde
-Green Canari Plush;Amuleto de Naria verde
-Green Canari Plush;Amuleto de Naria verde
-Blue Canari Plush;Amuleto de Naria azul
-Blue Canari Plush;Amuleto de Naria azul
-Blue Canari Plush;Amuleto de Naria azul
-Raichunite X;Raichunita X
-Raichunite Y;Raichunita Y
-Chimechite;Chimechita
-Absolite Z;Absolita Z
-Staraptite;Staraptorita
-Garchompite Z;Garchompita Z
-Lucarionite Z;Lucarita Z
-Golurkite;Golurkita
-Meowsticite;Meowsticita
-Crabominite;Crabominablita
-Golisopite;Golisopodita
-Magearnite;Magearnita
-Scovillainite;Scovillainita
-Baxcalibrite;Baxcaliburita
+Tatsugiri Scales;Escama de Tatsugiri
 Tatsugirinite;Tatsugirita
-Glimmoranite;Glimmoranita
-Hyper Cheri Berry;Baya Zreza dimensional
-Hyper Chesto Berry;Baya Atania dimensional
-Hyper Pecha Berry;Baya Meloc dimensional
-Hyper Rawst Berry;Baya Safre dimensional
-Hyper Aspear Berry;Baya Perasi dimensional
-Hyper Oran Berry;Baya Aranja dimensional
-Hyper Persim Berry;Baya Caquic dimensional
-Hyper Lum Berry;Baya Ziuela dimensional
-Hyper Sitrus Berry;Baya Zidra dimensional
-Hyper Pomeg Berry;Baya Grana dimensional
-Hyper Kelpsy Berry;Baya Algama dimensional
-Hyper Qualot Berry;Baya Ispero dimensional
-Hyper Hondew Berry;Baya Meluce dimensional
-Hyper Grepa Berry;Baya Uvav dimensional
-Hyper Tamato Berry;Baya Tamate dimensional
-Hyper Occa Berry;Baya Caoca dimensional
-Hyper Passho Berry;Baya Pasio dimensional
-Hyper Wacan Berry;Baya Gualot dimensional
-Hyper Rindo Berry;Baya Tamar dimensional
-Hyper Yache Berry;Baya Rimoya dimensional
-Hyper Chople Berry;Baya Pomaro dimensional
-Hyper Kebia Berry;Baya Kebia dimensional
-Hyper Shuca Berry;Baya Acardo dimensional
-Hyper Coba Berry;Baya Kouba dimensional
-Hyper Payapa Berry;Baya Payapa dimensional
-Hyper Tanga Berry;Baya Yecana dimensional
-Hyper Charti Berry;Baya Alcho dimensional
-Hyper Kasib Berry;Baya Drasi dimensional
-Hyper Haban Berry;Baya Anjiro dimensional
-Hyper Colbur Berry;Baya Dillo dimensional
-Hyper Babiri Berry;Baya Baribá dimensional
-Hyper Chilan Berry;Baya Chilan dimensional
-Hyper Roseli Berry;Baya Hibis dimensional
-Canari Bread;Pan de Naria
+Tauros Candy;Caramelo Tauros
+Tauros Hair;Pelo de Tauros
+Tea;Té
+Teal Mask;Máscara turquesa
+Teal Style Card;Tarjeta chic verde
+Tectonic Slate;Losa tierra
+Teddiursa Claw;Garra de Teddiursa
+Tempting Charm B;Amuleto sustituto 2
+Tempting Charm P;Amuleto sustituto 3
+Tempting Charm R;Amuleto sustituto 1
+Tempting Charm T;Amuleto sustituto 4
+Tempting Charm Y;Amuleto sustituto 5
+Tentacool Candy;Caramelo Tentacool
+Tentacool Stinger;Aguijón de Tentacool
+Tera Orb;Orbe Teracristal
+Terrain Extender;Cubresuelos
+Terrakion Treat;Galleta Terrakion
+Thanks Mail;Carta gracias
+Thick Club;Hueso grueso
+Throat Spray;Espray bucal
+Thunder Stone;Piedra trueno
+Tidal Bell;Cascabel oleaje
+Timburr Sweat;Sudor de Timburr
+Time Balm;Calmasfera tiempo
+Timer Ball;Turno Ball
+Timid Mint;Menta miedosa
+Tin of Beans;Lata de habas
+Tinkatink Hair;Pelo de Tinkatink
+Tiny Bamboo Shoot;Bambú pequeño
+Tiny Mushroom;Miniseta
+Toedscool Flaps;Pliegue de Toedscool
+Tofu;Tofu
+Tomato;Tomate
+Torkoal Coal;Carbón de Torkoal
+Torn Journal;Diario rasgado
+Tough Candy L;Caramelo aguante +
+Tough Candy XL;Caramelo aguante ++
+Tough Candy;Caramelo aguante
+Town Map;Mapa
+Toxel Sparks;Electricidad de Toxel
+Toxic Orb;Toxisfera
+Toxic Plate;Tabla tóxica
+Trapinch Shell;Coraza de Trapinch
+Travel Trunk;Maleta
+Tropical Shell;Concha tropical
+Tropius Leaf;Hoja de Tropius
+Tumblestone;Guijarro rojo
+Twice-Spiced Radish;Encurtidoble
+Twisted Spoon;Cuchara torcida
+Tynamo Slime;Secreción de Tynamo
+Tyranitarite;Tyranitarita
+Tyrogue Sweat;Sudor de Tyrogue
+Ultra Ball;Super Ball
+Ultra Ball;Ultra Ball
+Ultranecrozium Z;Ultranecrostal Z
+Unown Report;Bloc Unown
+Unremarkable Teacup;Cuenco mediocre
+Upgrade;Mejora
+Utility Umbrella;Parasol multiuso
+Uxie’s Claw;Garra de Uxie
+Varoom Fume;Gas de Varoom
+Vee-Vee Pick;Palillo Eevee
+Veluza Fillet;Carne de Veluza
+Venonat Candy;Caramelo Venonat
+Venonat Fang;Colmillo de Venonat
+Venusaurite;Venusaurita
+Victreebelite;Victreebelita
+Vinegar;Vinagre
+Violet Book;Libro Púrpura
+Virizion Treat;Galleta Virizion
+Vivichoke;Revibrote
+Volbeat Fluid;Fluido de Volbeat
+Volcano Balm;Calmasfera volcán
+Voltorb Candy;Caramelo Voltorb
+Voltorb Sparks;Electricidad de Voltorb
+Vs. Recorder;Cámara lucha
+Vs. Seeker;Buscapelea
+Vullaby Feather;Pluma de Vullaby
+Vulpix Candy;Caramelo Vulpix
+Vulpix Fur;Pelo de Vulpix
+Wacan Berry;Baya Gualot
+Wailmer Pail;Wailmegadera
+Wall Fragment;Trozo de losa
+Warding Charm B;Amuleto salud 2
+Warding Charm P;Amuleto salud 3
+Warding Charm R;Amuleto salud 1
+Warding Charm T;Amuleto salud 4
+Warding Charm Y;Amuleto salud 5
+Wasabi;Wasabi
+Water Gem;Gema agua
+Water Memory;Disco agua
+Water Stone;Piedra agua
+Water Tera Shard;Teralito agua
+Watercress;Berros
+Waterium Z;Hidrostal Z
+Watmel Berry;Baya Sambia
+Wattrel Feather;Pluma de Wattrel
+Wave Incense;Incienso acua
+Weakness Policy;Seguro de debilidad
+Weedle Candy;Caramelo Weedle
+Wellspring Mask;Máscara fuente
+Wepear Berry;Baya Peragu
+Whimsical Chairs;Sillas cucas
+Whimsical Tablecloth;Mantel cuco
+Whipped Cream;Nata montada
+Whipped Dream;Dulce de nata
+White Apricorn;Bonguri blanco
+White Dish;Plato blanco
+White Flute;Flauta blanca
+White Herb;Hierba blanca
+White Mane Hair;Crin blanca
+Wide Lens;Lupa
+Wiglett Sand;Arena de Wiglett
+Wiki Berry;Baya Wiki
+Wing Ball;Ala Ball
+Wingull Feather;Pluma de Wingull
+Winking Pika Pick;Palillo Pikaguiño
+Wise Glasses;Gafas especiales
+Wishing Chip;Trocito deseo
+Wishing Piece;Trozo deseo
+Wishing Star;Estrella deseo
+Wood;Madera
+Wooden Crown;Corona tallada
+Wooper Slime;Secreción de Wooper
+Works Key;Llave de la central
+X Accuracy 2;Precisión X 2
+X Accuracy 3;Precisión X 3
+X Accuracy 6;Precisión X 6
+X Accuracy;Precisión X
+X Attack 2;Ataque X 2
+X Attack 3;Ataque X 3
+X Attack 6;Ataque X 6
+X Attack;Ataque X
+X Defense 2;Defensa X 2
+X Defense 3;Defensa X 3
+X Defense 6;Defensa X 6
+X Defense;Defensa X
+X Sp. Atk 2;Ataque especial X 2
+X Sp. Atk 3;Ataque especial X 3
+X Sp. Atk 6;Ataque especial X 6
+X Sp. Atk;Ataque especial X
+X Sp. Def 2;Defensa especial X 2
+X Sp. Def 3;Defensa especial X 3
+X Sp. Def 6;Defensa especial X 6
+X Sp. Def;Defensa especial X
+X Speed 2;Velocidad X 2
+X Speed 3;Velocidad X 3
+X Speed 6;Velocidad X 6
+X Speed;Velocidad X
+Xtransceiver;Videomisor
+Yache Berry;Baya Rimoya
+Yanma Spike;Aguijón de Yanma
+Yarn Ball;Pelota ovillo
+Yellow Apricorn;Bonguri amarillo
+Yellow Bell Pepper;Pimiento amarillo
+Yellow Bottle;Termo amarillo
+Yellow Chairs;Sillas amarillas
+Yellow Cup;Taza amarilla
+Yellow Dish;Plato amarillo
+Yellow Flute;Flauta amarilla
+Yellow Nectar;Néctar amarillo
+Yellow Petal;Pétalo amarillo
+Yellow Scarf;Pañuelo amarillo
+Yellow Shard;Parte amarilla
+Yellow Tablecloth;Mantel amarillo
+Yogurt;Yogur
+Yungoos Fur;Pelo de Yungoos
+Z-Power Ring;Superpulsera Z
+Z-Ring;Pulsera Z
+Zangoose Claw;Garra de Zangoose
+Zap Plate;Tabla trueno
+Zapdos Candy;Caramelo Zapdos
+Zapdos Treat;Galleta Zapdos
+Zekrom Treat;Galleta Zekrom
+Zeraorite;Zeraoranita
+Zinc;Zinc
+Zoom Lens;Telescopio
+Zorua Fur;Pelo de Zorua
+Zubat Candy;Caramelo Zubat
+Zygarde Cube;Arca de Zygarde
+Zygardite;Zygardita
+Épice Noire;Especia negra

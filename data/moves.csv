@@ -1,921 +1,903 @@
 en;es
-Pound;Destructor
-Karate Chop;Golpe kárate
-Double Slap;Doble bofetón
-Comet Punch;Puño cometa
-Mega Punch;Megapuño
-Pay Day;Día de pago
-Fire Punch;Puño fuego
-Ice Punch;Puño hielo
-Thunder Punch;Puño trueno
-Scratch;Arañazo
-Vise Grip;Agarre
-Guillotine;Guillotina
-Razor Wind;Viento cortante
-Swords Dance;Danza espada
-Cut;Corte
-Gust;Tornado
-Wing Attack;Ataque ala
-Whirlwind;Remolino
-Fly;Vuelo
-Bind;Atadura
-Slam;Atizar
-Vine Whip;Látigo cepa
-Stomp;Pisotón
-Double Kick;Doble patada
-Mega Kick;Megapatada
-Jump Kick;Patada salto
-Rolling Kick;Patada giro
-Sand Attack;Ataque arena
-Headbutt;Golpe cabeza
-Horn Attack;Cornada
-Fury Attack;Ataque furia
-Horn Drill;Perforador
-Tackle;Placaje
-Body Slam;Golpe cuerpo
-Wrap;Constricción
-Take Down;Derribo
-Thrash;Saña
-Double-Edge;Doble filo
-Tail Whip;Agitacola
-Poison Sting;Picotazo veneno
-Twineedle;Doble ataque
-Pin Missile;Pin misil
-Leer;Malicioso
-Bite;Mordisco
-Growl;Gruñido
-Roar;Rugido
-Sing;Canto
-Supersonic;Supersónico
-Sonic Boom;Bomba sónica
-Disable;Anulación
-Acid;Ácido
-Ember;Ascuas
-Flamethrower;Lanzallamas
-Mist;Neblina
-Water Gun;Pistola agua
-Hydro Pump;Hidrobomba
-Surf;Surf
-Ice Beam;Rayo hielo
-Blizzard;Ventisca
-Psybeam;Psicorrayo
-Bubble Beam;Rayo burbuja
-Aurora Beam;Rayo aurora
-Hyper Beam;Hiperrayo
-Peck;Picotazo
-Drill Peck;Pico taladro
-Submission;Sumisión
-Low Kick;Patada baja
-Counter;Contraataque
-Seismic Toss;Sísmico
-Strength;Fuerza
-Absorb;Absorber
-Mega Drain;Megaagotar
-Leech Seed;Drenadoras
-Growth;Desarrollo
-Razor Leaf;Hoja afilada
-Solar Beam;Rayo solar
-Poison Powder;Polvo veneno
-Stun Spore;Paralizador
-Sleep Powder;Somnífero
-Petal Dance;Danza pétalo
-String Shot;Disparo demora
-Dragon Rage;Furia dragón
-Fire Spin;Giro fuego
-Thunder Shock;Impactrueno
-Thunderbolt;Rayo
-Thunder Wave;Onda trueno
-Thunder;Trueno
-Rock Throw;Lanzarrocas
-Earthquake;Terremoto
-Fissure;Fisura
-Dig;Excavar
-Toxic;Tóxico
-Confusion;Confusión
-Psychic;Psíquico
-Hypnosis;Hipnosis
-Meditate;Meditación
-Agility;Agilidad
-Quick Attack;Ataque rápido
-Rage;Furia
-Teleport;Teletransporte
-Night Shade;Tinieblas
-Mimic;Mimético
-Screech;Chirrido
-Double Team;Doble equipo
-Recover;Recuperación
-Harden;Fortaleza
-Minimize;Reducción
-Smokescreen;Pantalla de humo
-Confuse Ray;Rayo confuso
-Withdraw;Refugio
-Defense Curl;Rizo defensa
-Barrier;Barrera
-Light Screen;Pantalla de luz
-Haze;Niebla
-Reflect;Reflejo
-Focus Energy;Foco energía
-Bide;Venganza
-Metronome;Metrónomo
-Mirror Move;Espejo
-Self-Destruct;Autodestrucción
-Egg Bomb;Bomba huevo
-Lick;Lengüetazo
-Smog;Polución
-Sludge;Residuos
-Bone Club;Hueso palo
-Fire Blast;Llamarada
-Waterfall;Cascada
-Clamp;Tenaza
-Swift;Meteoros
-Skull Bash;Cabezazo
-Spike Cannon;Clavo cañón
-Constrict;Restricción
-Amnesia;Amnesia
-Kinesis;Kinético
-Soft-Boiled;Ovocuración
-High Jump Kick;Pat. salto alta
-Glare;Deslumbrar
-Dream Eater;Comesueños
-Poison Gas;Gas venenoso
-Barrage;Bombardeo
-Leech Life;Chupavidas
-Lovely Kiss;Beso amoroso
-Sky Attack;Ataque aéreo
-Transform;Transformación
-Bubble;Burbuja
-Dizzy Punch;Puño mareo
-Spore;Espora
-Flash;Destello
-Psywave;Psicoonda
-Splash;Salpicadura
-Acid Armor;Armadura ácida
-Crabhammer;Martillazo
-Explosion;Explosión
-Fury Swipes;Golpes furia
-Bonemerang;Huesomerang
-Rest;Descanso
-Rock Slide;Avalancha
-Hyper Fang;Hipercolmillo
-Sharpen;Afilar
-Conversion;Conversión
-Tri Attack;Triataque
-Super Fang;Superdiente
-Slash;Cuchillada
-Substitute;Sustituto
-Struggle;Forcejeo
-Sketch;Esquema
-Triple Kick;Triple patada
-Thief;Ladrón
-Spider Web;Telaraña
-Mind Reader;Telépata
-Nightmare;Pesadilla
-Flame Wheel;Rueda fuego
-Snore;Ronquido
-Curse;Maldición
-Flail;Azote
-Conversion 2;Conversión 2
-Aeroblast;Aerochorro
-Cotton Spore;Esporagodón
-Reversal;Inversión
-Spite;Rencor
-Powder Snow;Nieve polvo
-Protect;Protección
-Mach Punch;Ultrapuño
-Scary Face;Cara susto
-Feint Attack;Finta
-Sweet Kiss;Beso dulce
-Belly Drum;Tambor
-Sludge Bomb;Bomba lodo
-Mud-Slap;Bofetón lodo
-Octazooka;Pulpocañón
-Spikes;Púas
-Zap Cannon;Electrocañón
-Foresight;Profecía
-Destiny Bond;Mismo destino
-Perish Song;Canto mortal
-Icy Wind;Viento hielo
-Detect;Detección
-Bone Rush;Ataque óseo
-Lock-On;Fijar blanco
-Outrage;Enfado
-Sandstorm;Tormenta de arena
-Giga Drain;Gigadrenado
-Endure;Aguante
-Charm;Encanto
-Rollout;Rodar
-False Swipe;Falso tortazo
-Swagger;Fanfarronear
-Milk Drink;Batido
-Spark;Chispa
-Fury Cutter;Corte furia
-Steel Wing;Ala de acero
-Mean Look;Mal de ojo
-Attract;Atracción
-Sleep Talk;Sonámbulo
-Heal Bell;Cascabel cura
-Return;Retribución
-Present;Presente
-Frustration;Frustración
-Safeguard;Velo sagrado
-Pain Split;Divide dolor
-Sacred Fire;Fuego sagrado
-Magnitude;Magnitud
-Dynamic Punch;Puño dinámico
-Megahorn;Megacuerno
-Dragon Breath;Dragoaliento
-Baton Pass;Relevo
-Encore;Otra vez
-Pursuit;Persecución
-Rapid Spin;Giro rápido
-Sweet Scent;Dulce aroma
-Iron Tail;Cola férrea
-Metal Claw;Garra metal
-Vital Throw;Llave vital
-Morning Sun;Sol matinal
-Synthesis;Fotosíntesis
-Moonlight;Luz lunar
-Hidden Power;Poder oculto
-Cross Chop;Tajo cruzado
-Twister;Ciclón
-Rain Dance;Danza lluvia
-Sunny Day;Día soleado
-Crunch;Triturar
-Mirror Coat;Manto espejo
-Psych Up;Autosugestión
-Extreme Speed;Velocidad extrema
-Ancient Power;Poder pasado
-Shadow Ball;Bola sombra
-Future Sight;Premonición
-Rock Smash;Golpe roca
-Whirlpool;Torbellino
-Beat Up;Paliza
-Fake Out;Sorpresa
-Uproar;Alboroto
-Stockpile;Reserva
-Spit Up;Escupir
-Swallow;Tragar
-Heat Wave;Onda ígnea
-Hail;Granizo
-Torment;Tormento
-Flatter;Camelo
-Will-O-Wisp;Fuego fatuo
-Memento;Legado
-Facade;Fachada
-Focus Punch;Puño certero
-Smelling Salts;Estímulo
-Follow Me;Señuelo
-Nature Power;Adaptación
-Charge;Carga
-Taunt;Mofa
-Helping Hand;Refuerzo
-Trick;Truco
-Role Play;Imitación
-Wish;Deseo
-Assist;Ayuda
-Ingrain;Arraigo
-Superpower;Fuerza bruta
-Magic Coat;Capa mágica
-Recycle;Reciclaje
-Revenge;Desquite
-Brick Break;Demolición
-Yawn;Bostezo
-Knock Off;Desarme
-Endeavor;Esfuerzo
-Eruption;Estallido
-Skill Swap;Intercambio
-Imprison;Sellar
-Refresh;Alivio
-Grudge;Rabia
-Snatch;Robo
-Secret Power;Daño secreto
-Dive;Buceo
-Arm Thrust;Empujón
-Camouflage;Camuflaje
-Tail Glow;Luminicola
-Luster Purge;Resplandor
-Mist Ball;Bola neblina
-Feather Dance;Danza pluma
-Teeter Dance;Danza caos
-Blaze Kick;Patada ígnea
-Mud Sport;Chapoteo lodo
-Ice Ball;Bola hielo
-Needle Arm;Brazo pincho
-Slack Off;Relajo
-Hyper Voice;Vozarrón
-Poison Fang;Colmillo veneno
-Crush Claw;Garra brutal
-Blast Burn;Anillo ígneo
-Hydro Cannon;Hidrocañón
-Meteor Mash;Puño meteoro
-Astonish;Impresionar
-Weather Ball;Meteorobola
-Aromatherapy;Aromaterapia
-Fake Tears;Llanto falso
-Air Cutter;Aire afilado
-Overheat;Sofoco
-Odor Sleuth;Rastreo
-Rock Tomb;Tumba rocas
-Silver Wind;Viento plata
-Metal Sound;Eco metálico
-Grass Whistle;Silbato
-Tickle;Cosquillas
-Cosmic Power;Masa cósmica
-Water Spout;Salpicar
-Signal Beam;Rayo señal
-Shadow Punch;Puño sombra
-Extrasensory;Paranormal
-Sky Uppercut;Gancho alto
-Sand Tomb;Bucle arena
-Sheer Cold;Frío polar
-Muddy Water;Agua lodosa
-Bullet Seed;Semilladora
-Aerial Ace;Golpe aéreo
-Icicle Spear;Carámbano
-Iron Defense;Defensa férrea
-Block;Bloqueo
-Howl;Aullido
-Dragon Claw;Garra dragón
-Frenzy Plant;Planta feroz
-Bulk Up;Corpulencia
-Bounce;Bote
-Mud Shot;Disparo lodo
-Poison Tail;Cola veneno
-Covet;Antojo
-Volt Tackle;Placaje eléctrico
-Magical Leaf;Hoja mágica
-Water Sport;Hidrochorro
-Calm Mind;Paz mental
-Leaf Blade;Hoja aguda
-Dragon Dance;Danza dragón
-Rock Blast;Pedrada
-Shock Wave;Onda voltio
-Water Pulse;Hidropulso
-Doom Desire;Deseo oculto
-Psycho Boost;Psicoataque
-Roost;Respiro
-Gravity;Gravedad
-Miracle Eye;Gran ojo
-Wake-Up Slap;Espabila
-Hammer Arm;Machada
-Gyro Ball;Giro bola
-Healing Wish;Deseo cura
-Brine;Salmuera
-Natural Gift;Don natural
-Feint;Amago
-Pluck;Picoteo
-Tailwind;Viento afín
-Acupressure;Acupresión
-Metal Burst;Represión metal
-U-turn;Ida y vuelta
-Close Combat;A bocajarro
-Payback;Vendetta
-Assurance;Buena baza
-Embargo;Embargo
-Fling;Lanzamiento
-Psycho Shift;Psicocambio
-Trump Card;As oculto
-Heal Block;Anticura
-Wring Out;Estrujón
-Power Trick;Truco fuerza
-Gastro Acid;Bilis
-Lucky Chant;Conjuro
-Me First;Yo primero
-Copycat;Copión
-Power Swap;Cambiafuerza
-Guard Swap;Cambiadefensa
-Punishment;Castigo
-Last Resort;Última baza
-Worry Seed;Abatidoras
-Sucker Punch;Golpe bajo
-Toxic Spikes;Púas tóxicas
-Heart Swap;Cambiaalmas
-Aqua Ring;Acua aro
-Magnet Rise;Levitón
-Flare Blitz;Envite ígneo
-Force Palm;Palmeo
-Aura Sphere;Esfera aural
-Rock Polish;Pulimento
-Poison Jab;Puya nociva
-Dark Pulse;Pulso umbrío
-Night Slash;Tajo umbrío
-Aqua Tail;Acua cola
-Seed Bomb;Bomba germen
-Air Slash;Tajo aéreo
-X-Scissor;Tijera X
-Bug Buzz;Zumbido
-Dragon Pulse;Pulso dragón
-Dragon Rush;Carga dragón
-Power Gem;Joya de luz
-Drain Punch;Puño drenaje
-Vacuum Wave;Onda vacío
-Focus Blast;Onda certera
-Energy Ball;Energibola
-Brave Bird;Pájaro osado
-Earth Power;Tierra viva
-Switcheroo;Trapicheo
-Giga Impact;Gigaimpacto
-Nasty Plot;Maquinación
-Bullet Punch;Puño bala
-Avalanche;Alud
-Ice Shard;Esquirla helada
-Shadow Claw;Garra umbría
-Thunder Fang;Colmillo rayo
-Ice Fang;Colmillo hielo
-Fire Fang;Colmillo ígneo
-Shadow Sneak;Sombra vil
-Mud Bomb;Bomba fango
-Psycho Cut;Psicocorte
-Zen Headbutt;Cabezazo zen
-Mirror Shot;Disparo espejo
-Flash Cannon;Cañón resplandor
-Rock Climb;Treparrocas
-Defog;Despejar
-Trick Room;Espacio raro
-Draco Meteor;Cometa draco
-Discharge;Chispazo
-Lava Plume;Humareda
-Leaf Storm;Lluevehojas
-Power Whip;Latigazo
-Rock Wrecker;Romperrocas
-Cross Poison;Veneno X
-Gunk Shot;Lanzamugre
-Iron Head;Cabeza de hierro
-Magnet Bomb;Bomba imán
-Stone Edge;Roca afilada
-Captivate;Seducción
-Stealth Rock;Trampa rocas
-Grass Knot;Hierba lazo
-Chatter;Cháchara
-Judgment;Sentencia
-Bug Bite;Picadura
-Charge Beam;Rayo carga
-Wood Hammer;Mazazo
-Aqua Jet;Acua jet
-Attack Order;Al ataque
-Defend Order;A defender
-Heal Order;Auxilio
-Head Smash;Testarazo
-Double Hit;Doble golpe
-Roar of Time;Distorsión
-Spacial Rend;Corte vacío
-Lunar Dance;Danza lunar
-Crush Grip;Agarrón
-Magma Storm;Lluvia ígnea
-Dark Void;Brecha negra
-Seed Flare;Fulgor semilla
-Ominous Wind;Viento aciago
-Shadow Force;Golpe umbrío
-Hone Claws;Afilagarras
-Wide Guard;Vasta guardia
-Guard Split;Isoguardia
-Power Split;Isofuerza
-Wonder Room;Zona extraña
-Psyshock;Psicocarga
-Venoshock;Carga tóxica
-Autotomize;Aligerar
-Rage Powder;Polvo ira
-Telekinesis;Telequinesis
-Magic Room;Zona mágica
-Smack Down;Antiaéreo
-Storm Throw;Llave corsé
-Flame Burst;Pirotecnia
-Sludge Wave;Onda tóxica
-Quiver Dance;Danza aleteo
-Heavy Slam;Cuerpo pesado
-Synchronoise;Sincrorruido
-Electro Ball;Bola voltio
-Soak;Empapar
-Flame Charge;Nitrocarga
-Coil;Enrosque
-Low Sweep;Puntapié
-Acid Spray;Bomba ácida
-Foul Play;Juego sucio
-Simple Beam;Onda simple
-Entrainment;Danza amiga
-After You;Cede paso
-Round;Canon
-Echoed Voice;Eco voz
-Chip Away;Guardia baja
-Clear Smog;Niebla clara
-Stored Power;Poder reserva
-Quick Guard;Anticipo
-Ally Switch;Cambio de banda
-Scald;Escaldar
-Shell Smash;Rompecoraza
-Heal Pulse;Pulso cura
-Hex;Infortunio
-Sky Drop;Caída libre
-Shift Gear;Cambio de marcha
-Circle Throw;Llave giro
-Incinerate;Calcinación
-Quash;Último lugar
-Acrobatics;Acróbata
-Reflect Type;Clonatipo
-Retaliate;Represalia
-Final Gambit;Sacrificio
-Bestow;Ofrenda
-Inferno;Infierno
-Water Pledge;Voto agua
-Fire Pledge;Voto fuego
-Grass Pledge;Voto planta
-Volt Switch;Voltiocambio
-Struggle Bug;Estoicismo
-Bulldoze;Terratemblor
-Frost Breath;Vaho gélido
-Dragon Tail;Cola dragón
-Work Up;Avivar
-Electroweb;Electrotela
-Wild Charge;Voltio cruel
-Drill Run;Taladradora
-Dual Chop;Golpe bis
-Heart Stamp;Arrumaco
-Horn Leech;Asta drenaje
-Sacred Sword;Espada santa
-Razor Shell;Concha filo
-Heat Crash;Golpe calor
-Leaf Tornado;Ciclón de hojas
-Steamroller;Rodillo de púas
-Cotton Guard;Rizo algodón
-Night Daze;Pulso noche
-Psystrike;Onda mental
-Tail Slap;Plumerazo
-Hurricane;Vendaval
-Head Charge;Ariete
-Gear Grind;Rueda doble
-Searing Shot;Bomba ígnea
-Techno Blast;Tecno shock
-Relic Song;Canto arcaico
-Secret Sword;Sable místico
-Glaciate;Mundo gélido
-Bolt Strike;Ataque fulgor
-Blue Flare;Llama azul
-Fiery Dance;Danza llama
-Freeze Shock;Rayo gélido
-Ice Burn;Llama gélida
-Snarl;Alarido
-Icicle Crash;Chuzos
-V-create;V de fuego
-Fusion Flare;Llama fusión
-Fusion Bolt;Rayo fusión
-Flying Press;Plancha voladora
-Mat Block;Escudo tatami
-Belch;Eructo
-Rototiller;Fertilizante
-Sticky Web;Red viscosa
-Fell Stinger;Aguijón letal
-Phantom Force;Golpe fantasma
-Trick-or-Treat;Halloween
-Noble Roar;Rugido de guerra
-Ion Deluge;Cortina plasma
-Parabolic Charge;Carga parábola
-Forest’s Curse;Condena silvana
-Petal Blizzard;Tormenta floral
-Freeze-Dry;Liofilización
-Disarming Voice;Voz cautivadora
-Parting Shot;Última palabra
-Topsy-Turvy;Reversión
-Draining Kiss;Beso drenaje
-Crafty Shield;Truco defensa
-Flower Shield;Defensa floral
-Grassy Terrain;Campo de hierba
-Misty Terrain;Campo de niebla
-Electrify;Electrificación
-Play Rough;Carantoña
-Fairy Wind;Viento feérico
-Moonblast;Fuerza lunar
-Boomburst;Estruendo
-Fairy Lock;Cerrojo feérico
-King’s Shield;Escudo real
-Play Nice;Camaradería
-Confide;Confidencia
-Diamond Storm;Tormenta de diamantes
-Steam Eruption;Chorro de vapor
-Hyperspace Hole;Paso dimensional
-Water Shuriken;Shuriken de agua
-Mystical Fire;Llama embrujada
-Spiky Shield;Barrera espinosa
-Aromatic Mist;Niebla aromática
-Eerie Impulse;Onda anómala
-Venom Drench;Trampa venenosa
-Powder;Polvo explosivo
-Geomancy;Geocontrol
-Magnetic Flux;Aura magnética
-Happy Hour;Paga extra
-Electric Terrain;Campo eléctrico
-Dazzling Gleam;Brillo mágico
-Celebrate;Celebración
-Hold Hands;Manos juntas
-Baby-Doll Eyes;Ojitos tiernos
-Nuzzle;Moflete estático
-Hold Back;Clemencia
-Infestation;Acoso
-Power-Up Punch;Puño incremento
-Oblivion Wing;Ala mortífera
-Thousand Arrows;Mil flechas
-Thousand Waves;Mil temblores
-Land’s Wrath;Fuerza telúrica
-Light of Ruin;Luz aniquiladora
-Origin Pulse;Pulso primigenio
-Precipice Blades;Filo del abismo
-Dragon Ascent;Ascenso draco
-Hyperspace Fury;Cerco dimensión
-Breakneck Blitz;Carrera arrolladora
-Breakneck Blitz;Carrera arrolladora
-All-Out Pummeling;Ráfaga demoledora
-All-Out Pummeling;Ráfaga demoledora
-Supersonic Skystrike;Picado supersónico
-Supersonic Skystrike;Picado supersónico
-Acid Downpour;Diluvio corrosivo
-Acid Downpour;Diluvio corrosivo
-Tectonic Rage;Barrena telúrica
-Tectonic Rage;Barrena telúrica
-Continental Crush;Aplastamiento gigalítico
-Continental Crush;Aplastamiento gigalítico
-Savage Spin-Out;Guadaña sedosa
-Savage Spin-Out;Guadaña sedosa
-Never-Ending Nightmare;Presa espectral
-Never-Ending Nightmare;Presa espectral
-Corkscrew Crash;Hélice trepanadora
-Corkscrew Crash;Hélice trepanadora
-Inferno Overdrive;Hecatombe pírica
-Inferno Overdrive;Hecatombe pírica
-Hydro Vortex;Hidrovórtice abisal
-Hydro Vortex;Hidrovórtice abisal
-Bloom Doom;Megatón floral
-Bloom Doom;Megatón floral
-Gigavolt Havoc;Gigavoltio destructor
-Gigavolt Havoc;Gigavoltio destructor
-Shattered Psyche;Disruptor psíquico
-Shattered Psyche;Disruptor psíquico
-Subzero Slammer;Crioaliento despiadado
-Subzero Slammer;Crioaliento despiadado
-Devastating Drake;Dracoaliento devastador
-Devastating Drake;Dracoaliento devastador
-Black Hole Eclipse;Agujero negro aniquilador
-Black Hole Eclipse;Agujero negro aniquilador
-Twinkle Tackle;Arrumaco sideral
-Twinkle Tackle;Arrumaco sideral
-Catastropika;Pikavoltio letal
-Shore Up;Recogearena
-First Impression;Escaramuza
-Baneful Bunker;Búnker
-Spirit Shackle;Puntada sombría
-Darkest Lariat;Lariat oscuro
-Sparkling Aria;Aria burbuja
-Ice Hammer;Martillo hielo
-Floral Healing;Cura floral
-High Horsepower;Fuerza equina
-Strength Sap;Absorbefuerza
-Solar Blade;Cuchilla solar
-Leafage;Follaje
-Spotlight;Foco
-Toxic Thread;Hilo venenoso
-Laser Focus;Aguzar
-Gear Up;Piñón auxiliar
-Throat Chop;Golpe mordaza
-Pollen Puff;Bola de polen
-Anchor Shot;Anclaje
-Psychic Terrain;Campo psíquico
-Lunge;Plancha
-Fire Lash;Látigo ígneo
-Power Trip;Chulería
-Burn Up;Llama final
-Speed Swap;Cambiavelocidad
-Smart Strike;Cuerno certero
-Purify;Purificación
-Revelation Dance;Danza despertar
-Core Enforcer;Núcleo castigo
-Trop Kick;Patada tropical
-Instruct;Mandato
-Beak Blast;Pico cañón
-Clanging Scales;Fragor escamas
-Dragon Hammer;Martillo dragón
-Brutal Swing;Giro vil
-Aurora Veil;Velo aurora
-Sinister Arrow Raid;Aluvión de flechas sombrías
-Malicious Moonsault;Hiperplancha oscura
-Oceanic Operetta;Sinfonía de la diva marina
-Guardian of Alola;Cólera del guardián
-Soul-Stealing 7-Star Strike;Constelación robaalmas
-Stoked Sparksurfer;Surfeo galvánico
-Pulverizing Pancake;Arrojo intempestivo
-Extreme Evoboost;Novena potencia
-Genesis Supernova;Supernova original
-Shell Trap;Coraza trampa
-Fleur Cannon;Cañón floral
-Psychic Fangs;Psicocolmillo
-Stomping Tantrum;Pataleta
-Shadow Bone;Hueso sombrío
-Accelerock;Roca veloz
-Liquidation;Hidroariete
-Prismatic Laser;Láser prisma
-Spectral Thief;Robasombra
-Sunsteel Strike;Meteoimpacto
-Moongeist Beam;Rayo umbrío
-Tearful Look;Ojos llorosos
-Zing Zap;Electropunzada
-Nature’s Madness;Furia natural
-Multi-Attack;Multiataque
 10,000,000 Volt Thunderbolt;Gigarrayo fulminante
-Mind Blown;Cabeza sorpresa
-Plasma Fists;Puños plasma
-Photon Geyser;Géiser fotónico
-Light That Burns the Sky;Fotodestrucción apocalíptica
-Searing Sunraze Smash;Embestida solar
-Menacing Moonraze Maelstrom;Deflagración lunar
-Let’s Snuggle Forever;Somanta amistosa
-Splintered Stormshards;Tempestad rocosa
-Clangorous Soulblaze;Estruendo implacable
-Zippy Zap;Pikaturbo
-Splishy Splash;Salpikasurf
-Floaty Fall;Pikapicado
-Pika Papow;Pikatormenta
-Bouncy Bubble;Vapodrenaje
-Buzzy Buzz;Joltioparálisis
-Sizzly Slide;Flarembestida
-Glitzy Glow;Espeaura
+Absorb;Absorber
+Accelerock;Roca veloz
+Acid Armor;Armadura ácida
+Acid Downpour;Diluvio corrosivo
+Acid Spray;Bomba ácida
+Acid;Ácido
+Acrobatics;Acróbata
+Acupressure;Acupresión
+Aerial Ace;Golpe aéreo
+Aeroblast;Aerochorro
+After You;Cede paso
+Agility;Agilidad
+Air Cutter;Aire afilado
+Air Slash;Tajo aéreo
+All-Out Pummeling;Ráfaga demoledora
+Alluring Voice;Canto encantador
+Ally Switch;Cambio de banda
+Amnesia;Amnesia
+Anchor Shot;Anclaje
+Ancient Power;Poder pasado
+Apple Acid;Ácido málico
+Aqua Cutter;Tajo acuático
+Aqua Jet;Acua jet
+Aqua Ring;Acua aro
+Aqua Step;Danza acuática
+Aqua Tail;Acua cola
+Arm Thrust;Empujón
+Armor Cannon;Cañón armadura
+Aromatherapy;Aromaterapia
+Aromatic Mist;Niebla aromática
+Assist;Ayuda
+Assurance;Buena baza
+Astonish;Impresionar
+Astral Barrage;Orbes espectro
+Attack Order;Al ataque
+Attract;Atracción
+Aura Sphere;Esfera aural
+Aura Wheel;Rueda aural
+Aurora Beam;Rayo aurora
+Aurora Veil;Velo aurora
+Autotomize;Aligerar
+Avalanche;Alud
+Axe Kick;Patada hacha
+Baby-Doll Eyes;Ojitos tiernos
 Baddy Bad;Umbreozona
-Sappy Seed;Leafitobombas
-Freezy Frost;Glaceoprisma
-Sparkly Swirl;Sylveotornado
-Veevee Volley;Eevimpacto
-Double Iron Bash;Ferropuño doble
-Max Guard;Maxibarrera
-Dynamax Cannon;Cañón dinamax
-Snipe Shot;Disparo certero
-Jaw Lock;Presa maxilar
-Stuff Cheeks;Atiborramiento
-No Retreat;Bastión final
-Tar Shot;Alquitranazo
-Magic Powder;Polvo mágico
-Dragon Darts;Dracoflechas
-Teatime;Hora del té
-Octolock;Octopresa
+Baneful Bunker;Búnker
+Barb Barrage;Mil púas tóxicas
+Barrage;Bombardeo
+Barrier;Barrera
+Baton Pass;Relevo
+Beak Blast;Pico cañón
+Beat Up;Paliza
+Behemoth Bash;Embate supremo
+Behemoth Blade;Tajo supremo
+Belch;Eructo
+Belly Drum;Tambor
+Bestow;Ofrenda
+Bide;Venganza
+Bind;Atadura
+Bite;Mordisco
+Bitter Blade;Espada lamento
+Bitter Malice;Rencor reprimido
+Black Hole Eclipse;Agujero negro aniquilador
+Blast Burn;Anillo ígneo
+Blaze Kick;Patada ígnea
+Blazing Torque;Pirochoque
+Bleakwind Storm;Vendaval gélido
+Blizzard;Ventisca
+Block;Bloqueo
+Blood Moon;Luna roja
+Bloom Doom;Megatón floral
+Blue Flare;Llama azul
+Body Press;Plancha corporal
+Body Slam;Golpe cuerpo
 Bolt Beak;Electropico
-Fishious Rend;Branquibocado
+Bolt Strike;Ataque fulgor
+Bone Club;Hueso palo
+Bone Rush;Ataque óseo
+Bonemerang;Huesomerang
+Boomburst;Estruendo
+Bounce;Bote
+Bouncy Bubble;Vapodrenaje
+Branch Poke;Punzada rama
+Brave Bird;Pájaro osado
+Breaking Swipe;Vasto impacto
+Breakneck Blitz;Carrera arrolladora
+Brick Break;Demolición
+Brine;Salmuera
+Brutal Swing;Giro vil
+Bubble Beam;Rayo burbuja
+Bubble;Burbuja
+Bug Bite;Picadura
+Bug Buzz;Zumbido
+Bulk Up;Corpulencia
+Bulldoze;Terratemblor
+Bullet Punch;Puño bala
+Bullet Seed;Semilladora
+Burn Up;Llama final
+Burning Bulwark;Llama protectora
+Burning Jealousy;Envidia ardiente
+Buzzy Buzz;Joltioparálisis
+Calm Mind;Paz mental
+Camouflage;Camuflaje
+Captivate;Seducción
+Catastropika;Pikavoltio letal
+Ceaseless Edge;Tajo metralla
+Celebrate;Celebración
+Charge Beam;Rayo carga
+Charge;Carga
+Charm;Encanto
+Chatter;Cháchara
+Chilling Water;Agua fría
+Chilly Reception;Fría acogida
+Chip Away;Guardia baja
+Chloroblast;Clorofiláser
+Circle Throw;Llave giro
+Clamp;Tenaza
+Clanging Scales;Fragor escamas
+Clangorous Soul;Estruendo escama
+Clangorous Soulblaze;Estruendo implacable
+Clear Smog;Niebla clara
+Close Combat;A bocajarro
+Coaching;Motivación
+Coil;Enrosque
+Collision Course;Nitrochoque
+Combat Torque;Pugnachoque
+Comet Punch;Puño cometa
+Comeuppance;Resarcimiento
+Confide;Confidencia
+Confuse Ray;Rayo confuso
+Confusion;Confusión
+Constrict;Restricción
+Continental Crush;Aplastamiento gigalítico
+Conversion 2;Conversión 2
+Conversion;Conversión
+Copycat;Copión
+Core Enforcer;Núcleo castigo
+Corkscrew Crash;Hélice trepanadora
+Corrosive Gas;Gas corrosivo
+Cosmic Power;Masa cósmica
+Cotton Guard;Rizo algodón
+Cotton Spore;Esporagodón
+Counter;Contraataque
 Court Change;Cambio de cancha
+Covet;Antojo
+Crabhammer;Martillazo
+Crafty Shield;Truco defensa
+Cross Chop;Tajo cruzado
+Cross Poison;Veneno X
+Crunch;Triturar
+Crush Claw;Garra brutal
+Crush Grip;Agarrón
+Curse;Maldición
+Cut;Corte
+Dark Pulse;Pulso umbrío
+Dark Void;Brecha negra
+Darkest Lariat;Lariat oscuro
+Dazzling Gleam;Brillo mágico
+Decorate;Decoración
+Defend Order;A defender
+Defense Curl;Rizo defensa
+Defog;Despejar
+Destiny Bond;Mismo destino
+Detect;Detección
+Devastating Drake;Dracoaliento devastador
+Diamond Storm;Tormenta de diamantes
+Dig;Excavar
+Dire Claw;Garra nociva
+Disable;Anulación
+Disarming Voice;Voz cautivadora
+Discharge;Chispazo
+Dive;Buceo
+Dizzy Punch;Puño mareo
+Doodle;Decalcomanía
+Doom Desire;Deseo oculto
+Double Hit;Doble golpe
+Double Iron Bash;Ferropuño doble
+Double Kick;Doble patada
+Double Shock;Electropalmas
+Double Slap;Doble bofetón
+Double Team;Doble equipo
+Double-Edge;Doble filo
+Draco Meteor;Cometa draco
+Dragon Ascent;Ascenso draco
+Dragon Breath;Dragoaliento
+Dragon Cheer;Bramido dragón
+Dragon Claw;Garra dragón
+Dragon Dance;Danza dragón
+Dragon Darts;Dracoflechas
+Dragon Energy;Dracoenergía
+Dragon Hammer;Martillo dragón
+Dragon Pulse;Pulso dragón
+Dragon Rage;Furia dragón
+Dragon Rush;Carga dragón
+Dragon Tail;Cola dragón
+Drain Punch;Puño drenaje
+Draining Kiss;Beso drenaje
+Dream Eater;Comesueños
+Drill Peck;Pico taladro
+Drill Run;Taladradora
+Drum Beating;Batería asalto
+Dual Chop;Golpe bis
+Dual Wingbeat;Ala bis
+Dynamax Cannon;Cañón dinamax
+Dynamic Punch;Puño dinámico
+Earth Power;Tierra viva
+Earthquake;Terremoto
+Echoed Voice;Eco voz
+Eerie Impulse;Onda anómala
+Eerie Spell;Conjuro funesto
+Egg Bomb;Bomba huevo
+Electric Terrain;Campo eléctrico
+Electrify;Electrificación
+Electro Ball;Bola voltio
+Electro Drift;Electroderrape
+Electro Shot;Electrorrayo
+Electroweb;Electrotela
+Embargo;Embargo
+Ember;Ascuas
+Encore;Otra vez
+Endeavor;Esfuerzo
+Endure;Aguante
+Energy Ball;Energibola
+Entrainment;Danza amiga
+Eruption;Estallido
+Esper Wing;Ala aural
+Eternabeam;Rayo infinito
+Expanding Force;Vasta fuerza
+Explosion;Explosión
+Extrasensory;Paranormal
+Extreme Evoboost;Novena potencia
+Extreme Speed;Velocidad extrema
+Facade;Fachada
+Fairy Lock;Cerrojo feérico
+Fairy Wind;Viento feérico
+Fake Out;Sorpresa
+Fake Tears;Llanto falso
+False Surrender;Irreverencia
+False Swipe;Falso tortazo
+Feather Dance;Danza pluma
+Feint Attack;Finta
+Feint;Amago
+Fell Stinger;Aguijón letal
+Fickle Beam;Láser veleidoso
+Fiery Dance;Danza llama
+Fiery Wrath;Furia candente
+Fillet Away;Deslome
+Final Gambit;Sacrificio
+Fire Blast;Llamarada
+Fire Fang;Colmillo ígneo
+Fire Lash;Látigo ígneo
+Fire Pledge;Voto fuego
+Fire Punch;Puño fuego
+Fire Spin;Giro fuego
+First Impression;Escaramuza
+Fishious Rend;Branquibocado
+Fissure;Fisura
+Flail;Azote
+Flame Burst;Pirotecnia
+Flame Charge;Nitrocarga
+Flame Wheel;Rueda fuego
+Flamethrower;Lanzallamas
+Flare Blitz;Envite ígneo
+Flash Cannon;Cañón resplandor
+Flash;Destello
+Flatter;Camelo
+Fleur Cannon;Cañón floral
+Fling;Lanzamiento
+Flip Turn;Viraje
+Floaty Fall;Pikapicado
+Floral Healing;Cura floral
+Flower Shield;Defensa floral
+Flower Trick;Truco floral
+Fly;Vuelo
+Flying Press;Plancha voladora
+Focus Blast;Onda certera
+Focus Energy;Foco energía
+Focus Punch;Puño certero
+Follow Me;Señuelo
+Force Palm;Palmeo
+Foresight;Profecía
+Forest’s Curse;Condena silvana
+Foul Play;Juego sucio
+Freeze Shock;Rayo gélido
+Freeze-Dry;Liofilización
+Freezing Glare;Mirada heladora
+Freezy Frost;Glaceoprisma
+Frenzy Plant;Planta feroz
+Frost Breath;Vaho gélido
+Frustration;Frustración
+Fury Attack;Ataque furia
+Fury Cutter;Corte furia
+Fury Swipes;Golpes furia
+Fusion Bolt;Rayo fusión
+Fusion Flare;Llama fusión
+Future Sight;Premonición
+Gastro Acid;Bilis
+Gear Grind;Rueda doble
+Gear Up;Piñón auxiliar
+Genesis Supernova;Supernova original
+Geomancy;Geocontrol
+Giga Drain;Gigadrenado
+Giga Impact;Gigaimpacto
+Gigaton Hammer;Martillo colosal
+Gigavolt Havoc;Gigavoltio destructor
+Glacial Lance;Lanza glacial
+Glaciate;Mundo gélido
+Glaive Rush;Asalto espadón
+Glare;Deslumbrar
+Glitzy Glow;Espeaura
+Grass Knot;Hierba lazo
+Grass Pledge;Voto planta
+Grass Whistle;Silbato
+Grassy Glide;Fitoimpulso
+Grassy Terrain;Campo de hierba
+Grav Apple;Fuerza G
+Gravity;Gravedad
+Growl;Gruñido
+Growth;Desarrollo
+Grudge;Rabia
+Guard Split;Isoguardia
+Guard Swap;Cambiadefensa
+Guardian of Alola;Cólera del guardián
+Guillotine;Guillotina
+Gunk Shot;Lanzamugre
+Gust;Tornado
+Gyro Ball;Giro bola
+Hail;Granizo
+Hammer Arm;Machada
+Happy Hour;Paga extra
+Hard Press;Prensa metálica
+Harden;Fortaleza
+Haze;Niebla
+Head Charge;Ariete
+Head Smash;Testarazo
+Headbutt;Golpe cabeza
+Headlong Rush;Arremetida
+Heal Bell;Cascabel cura
+Heal Block;Anticura
+Heal Order;Auxilio
+Heal Pulse;Pulso cura
+Healing Wish;Deseo cura
+Heart Stamp;Arrumaco
+Heart Swap;Cambiaalmas
+Heat Crash;Golpe calor
+Heat Wave;Onda ígnea
+Heavy Slam;Cuerpo pesado
+Helping Hand;Refuerzo
+Hex;Infortunio
+Hidden Power;Poder oculto
+High Horsepower;Fuerza equina
+High Jump Kick;Pat. salto alta
+Hold Back;Clemencia
+Hold Hands;Manos juntas
+Hone Claws;Afilagarras
+Horn Attack;Cornada
+Horn Drill;Perforador
+Horn Leech;Asta drenaje
+Howl;Aullido
+Hurricane;Vendaval
+Hydro Cannon;Hidrocañón
+Hydro Pump;Hidrobomba
+Hydro Steam;Hidrovapor
+Hydro Vortex;Hidrovórtice abisal
+Hyper Beam;Hiperrayo
+Hyper Drill;Hipertaladro
+Hyper Fang;Hipercolmillo
+Hyper Voice;Vozarrón
+Hyperspace Fury;Cerco dimensión
+Hyperspace Hole;Paso dimensional
+Hypnosis;Hipnosis
+Ice Ball;Bola hielo
+Ice Beam;Rayo hielo
+Ice Burn;Llama gélida
+Ice Fang;Colmillo hielo
+Ice Hammer;Martillo hielo
+Ice Punch;Puño hielo
+Ice Shard;Esquirla helada
+Ice Spinner;Pirueta helada
+Icicle Crash;Chuzos
+Icicle Spear;Carámbano
+Icy Wind;Viento hielo
+Imprison;Sellar
+Incinerate;Calcinación
+Infernal Parade;Marcha espectral
+Inferno Overdrive;Hecatombe pírica
+Inferno;Infierno
+Infestation;Acoso
+Ingrain;Arraigo
+Instruct;Mandato
+Ion Deluge;Cortina plasma
+Iron Defense;Defensa férrea
+Iron Head;Cabeza de hierro
+Iron Tail;Cola férrea
+Ivy Cudgel;Garrote liana
+Jaw Lock;Presa maxilar
+Jet Punch;Puño jet
+Judgment;Sentencia
+Jump Kick;Patada salto
+Jungle Healing;Cura selvática
+Karate Chop;Golpe kárate
+Kinesis;Kinético
+King’s Shield;Escudo real
+Knock Off;Desarme
+Kowtow Cleave;Genufendiente
+Land’s Wrath;Fuerza telúrica
+Laser Focus;Aguzar
+Lash Out;Desahogo
+Last Resort;Última baza
+Last Respects;Homenaje póstumo
+Lava Plume;Humareda
+Leaf Blade;Hoja aguda
+Leaf Storm;Lluevehojas
+Leaf Tornado;Ciclón de hojas
+Leafage;Follaje
+Leech Life;Chupavidas
+Leech Seed;Drenadoras
+Leer;Malicioso
+Let’s Snuggle Forever;Somanta amistosa
+Lick;Lengüetazo
+Life Dew;Gota vital
+Light Screen;Pantalla de luz
+Light That Burns the Sky;Fotodestrucción apocalíptica
+Light of Ruin;Luz aniquiladora
+Liquidation;Hidroariete
+Lock-On;Fijar blanco
+Lovely Kiss;Beso amoroso
+Low Kick;Patada baja
+Low Sweep;Puntapié
+Lucky Chant;Conjuro
+Lumina Crash;Fotocolisión
+Lunar Blessing;Plegaria lunar
+Lunar Dance;Danza lunar
+Lunge;Plancha
+Luster Purge;Resplandor
+Mach Punch;Ultrapuño
+Magic Coat;Capa mágica
+Magic Powder;Polvo mágico
+Magic Room;Zona mágica
+Magical Leaf;Hoja mágica
+Magical Torque;Feerichoque
+Magma Storm;Lluvia ígnea
+Magnet Bomb;Bomba imán
+Magnet Rise;Levitón
+Magnetic Flux;Aura magnética
+Magnitude;Magnitud
+Make It Rain;Fiebre dorada
+Malicious Moonsault;Hiperplancha oscura
+Malignant Chain;Cadena virulenta
+Mat Block;Escudo tatami
+Matcha Gotcha;Cañón batidor
+Max Airstream;Maxiciclón
+Max Darkness;Maxisombra
 Max Flare;Maxignición
 Max Flutterby;Maxinsecto
-Max Lightning;Maxitormenta
-Max Strike;Maxiataque
-Max Knuckle;Maxipuño
-Max Phantasm;Maxiespectro
-Max Hailstorm;Maxihelada
-Max Ooze;Maxiácido
 Max Geyser;Maxichorro
-Max Airstream;Maxiciclón
-Max Starfall;Maxiestela
-Max Wyrmwind;Maxidraco
+Max Guard;Maxibarrera
+Max Hailstorm;Maxihelada
+Max Knuckle;Maxipuño
+Max Lightning;Maxitormenta
 Max Mindstorm;Maxionda
-Max Rockfall;Maxilito
-Max Quake;Maxitemblor
-Max Darkness;Maxisombra
+Max Ooze;Maxiácido
 Max Overgrowth;Maxiflora
+Max Phantasm;Maxiespectro
+Max Quake;Maxitemblor
+Max Rockfall;Maxilito
+Max Starfall;Maxiestela
 Max Steelspike;Maximetal
-Clangorous Soul;Estruendo escama
-Body Press;Plancha corporal
-Decorate;Decoración
-Drum Beating;Batería asalto
-Snap Trap;Cepo
-Pyro Ball;Balón ígneo
-Behemoth Blade;Tajo supremo
-Behemoth Bash;Embate supremo
-Aura Wheel;Rueda aural
-Breaking Swipe;Vasto impacto
-Branch Poke;Punzada rama
-Overdrive;Amplificador
-Apple Acid;Ácido málico
-Grav Apple;Fuerza G
-Spirit Break;Choque anímico
-Strange Steam;Cautivapor
-Life Dew;Gota vital
-Obstruct;Obstrucción
-False Surrender;Irreverencia
+Max Strike;Maxiataque
+Max Wyrmwind;Maxidraco
+Me First;Yo primero
+Mean Look;Mal de ojo
+Meditate;Meditación
+Mega Drain;Megaagotar
+Mega Kick;Megapatada
+Mega Punch;Megapuño
+Megahorn;Megacuerno
+Memento;Legado
+Menacing Moonraze Maelstrom;Deflagración lunar
+Metal Burst;Represión metal
+Metal Claw;Garra metal
+Metal Sound;Eco metálico
 Meteor Assault;Asalto estelar
-Eternabeam;Rayo infinito
-Steel Beam;Metaláser
-Expanding Force;Vasta fuerza
-Steel Roller;Allanador férreo
-Scale Shot;Ráfaga escamas
 Meteor Beam;Rayo meteórico
-Shell Side Arm;Moluscañón
-Misty Explosion;Bruma explosiva
-Grassy Glide;Fitoimpulso
-Rising Voltage;Alto voltaje
-Terrain Pulse;Pulso de campo
-Skitter Smack;Golpe rastrero
-Burning Jealousy;Envidia ardiente
-Lash Out;Desahogo
-Poltergeist;Poltergeist
-Corrosive Gas;Gas corrosivo
-Coaching;Motivación
-Flip Turn;Viraje
-Triple Axel;Triple axel
-Dual Wingbeat;Ala bis
-Scorching Sands;Arenas ardientes
-Jungle Healing;Cura selvática
-Wicked Blow;Golpe oscuro
-Surging Strikes;Azote torrencial
-Thunder Cage;Electrojaula
-Dragon Energy;Dracoenergía
-Freezing Glare;Mirada heladora
-Fiery Wrath;Furia candente
-Thunderous Kick;Patada relámpago
-Glacial Lance;Lanza glacial
-Astral Barrage;Orbes espectro
-Eerie Spell;Conjuro funesto
-Dire Claw;Garra nociva
-Psyshield Bash;Asalto barrera
-Power Shift;Cambiapoder
-Stone Axe;Hachazo pétreo
-Springtide Storm;Ciclón primavera
-Mystical Power;Poder místico
-Raging Fury;Erupción de ira
-Wave Crash;Envite acuático
-Chloroblast;Clorofiláser
-Mountain Gale;Viento carámbano
-Victory Dance;Danza triunfal
-Headlong Rush;Arremetida
-Barb Barrage;Mil púas tóxicas
-Esper Wing;Ala aural
-Bitter Malice;Rencor reprimido
-Shelter;Retracción
-Triple Arrows;Triple flecha
-Infernal Parade;Marcha espectral
-Ceaseless Edge;Tajo metralla
-Bleakwind Storm;Vendaval gélido
-Wildbolt Storm;Electormenta
-Sandsear Storm;Simún de arena
-Lunar Blessing;Plegaria lunar
-Take Heart;Bálsamo osado
-Tera Blast;Teraexplosión
-Silk Trap;Telatrampa
-Axe Kick;Patada hacha
-Last Respects;Homenaje póstumo
-Lumina Crash;Fotocolisión
-Order Up;Oído cocina
-Jet Punch;Puño jet
-Spicy Extract;Extracto picante
-Spin Out;Quemarrueda
-Population Bomb;Proliferación
-Ice Spinner;Pirueta helada
-Glaive Rush;Asalto espadón
-Revival Blessing;Plegaria vital
-Salt Cure;Salazón
-Triple Dive;Triple inmersión
-Mortal Spin;Giro mortífero
-Doodle;Decalcomanía
-Fillet Away;Deslome
-Kowtow Cleave;Genufendiente
-Flower Trick;Truco floral
-Torch Song;Canto ardiente
-Aqua Step;Danza acuática
-Raging Bull;Furia taurina
-Make It Rain;Fiebre dorada
-Psyblade;Psicohojas
-Hydro Steam;Hidrovapor
-Ruination;Calamidad
-Collision Course;Nitrochoque
-Electro Drift;Electroderrape
-Shed Tail;Autotomía
-Chilly Reception;Fría acogida
-Tidy Up;Limpieza general
-Snowscape;Paisaje nevado
-Pounce;Brinco
-Trailblaze;Abrecaminos
-Chilling Water;Agua fría
-Hyper Drill;Hipertaladro
-Twin Beam;Láser doble
-Rage Fist;Puño furia
-Armor Cannon;Cañón armadura
-Bitter Blade;Espada lamento
-Double Shock;Electropalmas
-Gigaton Hammer;Martillo colosal
-Comeuppance;Resarcimiento
-Aqua Cutter;Tajo acuático
-Blazing Torque;Pirochoque
-Wicked Torque;Ominochoque
-Noxious Torque;Ponzochoque
-Combat Torque;Pugnachoque
-Magical Torque;Feerichoque
-Blood Moon;Luna roja
-Matcha Gotcha;Cañón batidor
-Syrup Bomb;Bomba caramelo
-Ivy Cudgel;Garrote liana
-Electro Shot;Electrorrayo
-Tera Starstorm;Teraclúster
-Fickle Beam;Láser veleidoso
-Burning Bulwark;Llama protectora
-Thunderclap;Relámpago súbito
+Meteor Mash;Puño meteoro
+Metronome;Metrónomo
 Mighty Cleave;Filo potente
-Tachyon Cutter;Tajo taquión
-Hard Press;Prensa metálica
-Dragon Cheer;Bramido dragón
-Alluring Voice;Canto encantador
-Temper Flare;Cólera ardiente
-Supercell Slam;Plancha voltaica
-Psychic Noise;Psicorruido
-Upper Hand;Palma rauda
-Malignant Chain;Cadena virulenta
+Milk Drink;Batido
+Mimic;Mimético
+Mind Blown;Cabeza sorpresa
+Mind Reader;Telépata
+Minimize;Reducción
+Miracle Eye;Gran ojo
+Mirror Coat;Manto espejo
+Mirror Move;Espejo
+Mirror Shot;Disparo espejo
+Mist Ball;Bola neblina
+Mist;Neblina
+Misty Explosion;Bruma explosiva
+Misty Terrain;Campo de niebla
+Moonblast;Fuerza lunar
+Moongeist Beam;Rayo umbrío
+Moonlight;Luz lunar
+Morning Sun;Sol matinal
+Mortal Spin;Giro mortífero
+Mountain Gale;Viento carámbano
+Mud Bomb;Bomba fango
+Mud Shot;Disparo lodo
+Mud Sport;Chapoteo lodo
+Mud-Slap;Bofetón lodo
+Muddy Water;Agua lodosa
+Multi-Attack;Multiataque
+Mystical Fire;Llama embrujada
+Mystical Power;Poder místico
+Nasty Plot;Maquinación
+Natural Gift;Don natural
+Nature Power;Adaptación
+Nature’s Madness;Furia natural
+Needle Arm;Brazo pincho
+Never-Ending Nightmare;Presa espectral
+Night Daze;Pulso noche
+Night Shade;Tinieblas
+Night Slash;Tajo umbrío
+Nightmare;Pesadilla
 Nihil Light;Luz devastadora
+No Retreat;Bastión final
+Noble Roar;Rugido de guerra
+Noxious Torque;Ponzochoque
+Nuzzle;Moflete estático
+Oblivion Wing;Ala mortífera
+Obstruct;Obstrucción
+Oceanic Operetta;Sinfonía de la diva marina
+Octazooka;Pulpocañón
+Octolock;Octopresa
+Odor Sleuth;Rastreo
+Ominous Wind;Viento aciago
+Order Up;Oído cocina
+Origin Pulse;Pulso primigenio
+Outrage;Enfado
+Overdrive;Amplificador
+Overheat;Sofoco
+Pain Split;Divide dolor
+Parabolic Charge;Carga parábola
+Parting Shot;Última palabra
+Pay Day;Día de pago
+Payback;Vendetta
+Peck;Picotazo
+Perish Song;Canto mortal
+Petal Blizzard;Tormenta floral
+Petal Dance;Danza pétalo
+Phantom Force;Golpe fantasma
+Photon Geyser;Géiser fotónico
+Pika Papow;Pikatormenta
+Pin Missile;Pin misil
+Plasma Fists;Puños plasma
+Play Nice;Camaradería
+Play Rough;Carantoña
+Pluck;Picoteo
+Poison Fang;Colmillo veneno
+Poison Gas;Gas venenoso
+Poison Jab;Puya nociva
+Poison Powder;Polvo veneno
+Poison Sting;Picotazo veneno
+Poison Tail;Cola veneno
+Pollen Puff;Bola de polen
+Poltergeist;Poltergeist
+Population Bomb;Proliferación
+Pounce;Brinco
+Pound;Destructor
+Powder Snow;Nieve polvo
+Powder;Polvo explosivo
+Power Gem;Joya de luz
+Power Shift;Cambiapoder
+Power Split;Isofuerza
+Power Swap;Cambiafuerza
+Power Trick;Truco fuerza
+Power Trip;Chulería
+Power Whip;Latigazo
+Power-Up Punch;Puño incremento
+Precipice Blades;Filo del abismo
+Present;Presente
+Prismatic Laser;Láser prisma
+Protect;Protección
+Psybeam;Psicorrayo
+Psyblade;Psicohojas
+Psych Up;Autosugestión
+Psychic Fangs;Psicocolmillo
+Psychic Noise;Psicorruido
+Psychic Terrain;Campo psíquico
+Psychic;Psíquico
+Psycho Boost;Psicoataque
+Psycho Cut;Psicocorte
+Psycho Shift;Psicocambio
+Psyshield Bash;Asalto barrera
+Psyshock;Psicocarga
+Psystrike;Onda mental
+Psywave;Psicoonda
+Pulverizing Pancake;Arrojo intempestivo
+Punishment;Castigo
+Purify;Purificación
+Pursuit;Persecución
+Pyro Ball;Balón ígneo
+Quash;Último lugar
+Quick Attack;Ataque rápido
+Quick Guard;Anticipo
+Quiver Dance;Danza aleteo
+Rage Fist;Puño furia
+Rage Powder;Polvo ira
+Rage;Furia
+Raging Bull;Furia taurina
+Raging Fury;Erupción de ira
+Rain Dance;Danza lluvia
+Rapid Spin;Giro rápido
+Razor Leaf;Hoja afilada
+Razor Shell;Concha filo
+Razor Wind;Viento cortante
+Recover;Recuperación
+Recycle;Reciclaje
+Reflect Type;Clonatipo
+Reflect;Reflejo
+Refresh;Alivio
+Relic Song;Canto arcaico
+Rest;Descanso
+Retaliate;Represalia
+Return;Retribución
+Revelation Dance;Danza despertar
+Revenge;Desquite
+Reversal;Inversión
+Revival Blessing;Plegaria vital
+Rising Voltage;Alto voltaje
+Roar of Time;Distorsión
+Roar;Rugido
+Rock Blast;Pedrada
+Rock Climb;Treparrocas
+Rock Polish;Pulimento
+Rock Slide;Avalancha
+Rock Smash;Golpe roca
+Rock Throw;Lanzarrocas
+Rock Tomb;Tumba rocas
+Rock Wrecker;Romperrocas
+Role Play;Imitación
+Rolling Kick;Patada giro
+Rollout;Rodar
+Roost;Respiro
+Rototiller;Fertilizante
+Round;Canon
+Ruination;Calamidad
+Sacred Fire;Fuego sagrado
+Sacred Sword;Espada santa
+Safeguard;Velo sagrado
+Salt Cure;Salazón
+Sand Attack;Ataque arena
+Sand Tomb;Bucle arena
+Sandsear Storm;Simún de arena
+Sandstorm;Tormenta de arena
+Sappy Seed;Leafitobombas
+Savage Spin-Out;Guadaña sedosa
+Scald;Escaldar
+Scale Shot;Ráfaga escamas
+Scary Face;Cara susto
+Scorching Sands;Arenas ardientes
+Scratch;Arañazo
+Screech;Chirrido
+Searing Shot;Bomba ígnea
+Searing Sunraze Smash;Embestida solar
+Secret Power;Daño secreto
+Secret Sword;Sable místico
+Seed Bomb;Bomba germen
+Seed Flare;Fulgor semilla
+Seismic Toss;Sísmico
+Self-Destruct;Autodestrucción
+Shadow Ball;Bola sombra
+Shadow Bone;Hueso sombrío
+Shadow Claw;Garra umbría
+Shadow Force;Golpe umbrío
+Shadow Punch;Puño sombra
+Shadow Sneak;Sombra vil
+Sharpen;Afilar
+Shattered Psyche;Disruptor psíquico
+Shed Tail;Autotomía
+Sheer Cold;Frío polar
+Shell Side Arm;Moluscañón
+Shell Smash;Rompecoraza
+Shell Trap;Coraza trampa
+Shelter;Retracción
+Shift Gear;Cambio de marcha
+Shock Wave;Onda voltio
+Shore Up;Recogearena
+Signal Beam;Rayo señal
+Silk Trap;Telatrampa
+Silver Wind;Viento plata
+Simple Beam;Onda simple
+Sing;Canto
+Sinister Arrow Raid;Aluvión de flechas sombrías
+Sizzly Slide;Flarembestida
+Sketch;Esquema
+Skill Swap;Intercambio
+Skitter Smack;Golpe rastrero
+Skull Bash;Cabezazo
+Sky Attack;Ataque aéreo
+Sky Drop;Caída libre
+Sky Uppercut;Gancho alto
+Slack Off;Relajo
+Slam;Atizar
+Slash;Cuchillada
+Sleep Powder;Somnífero
+Sleep Talk;Sonámbulo
+Sludge Bomb;Bomba lodo
+Sludge Wave;Onda tóxica
+Sludge;Residuos
+Smack Down;Antiaéreo
+Smart Strike;Cuerno certero
+Smelling Salts;Estímulo
+Smog;Polución
+Smokescreen;Pantalla de humo
+Snap Trap;Cepo
+Snarl;Alarido
+Snatch;Robo
+Snipe Shot;Disparo certero
+Snore;Ronquido
+Snowscape;Paisaje nevado
+Soak;Empapar
+Soft-Boiled;Ovocuración
+Solar Beam;Rayo solar
+Solar Blade;Cuchilla solar
+Sonic Boom;Bomba sónica
+Soul-Stealing 7-Star Strike;Constelación robaalmas
+Spacial Rend;Corte vacío
+Spark;Chispa
+Sparkling Aria;Aria burbuja
+Sparkly Swirl;Sylveotornado
+Spectral Thief;Robasombra
+Speed Swap;Cambiavelocidad
+Spicy Extract;Extracto picante
+Spider Web;Telaraña
+Spike Cannon;Clavo cañón
+Spikes;Púas
+Spiky Shield;Barrera espinosa
+Spin Out;Quemarrueda
+Spirit Break;Choque anímico
+Spirit Shackle;Puntada sombría
+Spit Up;Escupir
+Spite;Rencor
+Splash;Salpicadura
+Splintered Stormshards;Tempestad rocosa
+Splishy Splash;Salpikasurf
+Spore;Espora
+Spotlight;Foco
+Springtide Storm;Ciclón primavera
+Stealth Rock;Trampa rocas
+Steam Eruption;Chorro de vapor
+Steamroller;Rodillo de púas
+Steel Beam;Metaláser
+Steel Roller;Allanador férreo
+Steel Wing;Ala de acero
+Sticky Web;Red viscosa
+Stockpile;Reserva
+Stoked Sparksurfer;Surfeo galvánico
+Stomp;Pisotón
+Stomping Tantrum;Pataleta
+Stone Axe;Hachazo pétreo
+Stone Edge;Roca afilada
+Stored Power;Poder reserva
+Storm Throw;Llave corsé
+Strange Steam;Cautivapor
+Strength Sap;Absorbefuerza
+Strength;Fuerza
+String Shot;Disparo demora
+Struggle Bug;Estoicismo
+Struggle;Forcejeo
+Stuff Cheeks;Atiborramiento
+Stun Spore;Paralizador
+Submission;Sumisión
+Substitute;Sustituto
+Subzero Slammer;Crioaliento despiadado
+Sucker Punch;Golpe bajo
+Sunny Day;Día soleado
+Sunsteel Strike;Meteoimpacto
+Super Fang;Superdiente
+Supercell Slam;Plancha voltaica
+Superpower;Fuerza bruta
+Supersonic Skystrike;Picado supersónico
+Supersonic;Supersónico
+Surf;Surf
+Surging Strikes;Azote torrencial
+Swagger;Fanfarronear
+Swallow;Tragar
+Sweet Kiss;Beso dulce
+Sweet Scent;Dulce aroma
+Swift;Meteoros
+Switcheroo;Trapicheo
+Swords Dance;Danza espada
+Synchronoise;Sincrorruido
+Synthesis;Fotosíntesis
+Syrup Bomb;Bomba caramelo
+Tachyon Cutter;Tajo taquión
+Tackle;Placaje
+Tail Glow;Luminicola
+Tail Slap;Plumerazo
+Tail Whip;Agitacola
+Tailwind;Viento afín
+Take Down;Derribo
+Take Heart;Bálsamo osado
+Tar Shot;Alquitranazo
+Taunt;Mofa
+Tearful Look;Ojos llorosos
+Teatime;Hora del té
+Techno Blast;Tecno shock
+Tectonic Rage;Barrena telúrica
+Teeter Dance;Danza caos
+Telekinesis;Telequinesis
+Teleport;Teletransporte
+Temper Flare;Cólera ardiente
+Tera Blast;Teraexplosión
+Tera Starstorm;Teraclúster
+Terrain Pulse;Pulso de campo
+Thief;Ladrón
+Thousand Arrows;Mil flechas
+Thousand Waves;Mil temblores
+Thrash;Saña
+Throat Chop;Golpe mordaza
+Thunder Cage;Electrojaula
+Thunder Fang;Colmillo rayo
+Thunder Punch;Puño trueno
+Thunder Shock;Impactrueno
+Thunder Wave;Onda trueno
+Thunder;Trueno
+Thunderbolt;Rayo
+Thunderclap;Relámpago súbito
+Thunderous Kick;Patada relámpago
+Tickle;Cosquillas
+Tidy Up;Limpieza general
+Topsy-Turvy;Reversión
+Torch Song;Canto ardiente
+Torment;Tormento
+Toxic Spikes;Púas tóxicas
+Toxic Thread;Hilo venenoso
+Toxic;Tóxico
+Trailblaze;Abrecaminos
+Transform;Transformación
+Tri Attack;Triataque
+Trick Room;Espacio raro
+Trick-or-Treat;Halloween
+Trick;Truco
+Triple Arrows;Triple flecha
+Triple Axel;Triple axel
+Triple Dive;Triple inmersión
+Triple Kick;Triple patada
+Trop Kick;Patada tropical
+Trump Card;As oculto
+Twin Beam;Láser doble
+Twineedle;Doble ataque
+Twinkle Tackle;Arrumaco sideral
+Twister;Ciclón
+U-turn;Ida y vuelta
+Upper Hand;Palma rauda
+Uproar;Alboroto
+V-create;V de fuego
+Vacuum Wave;Onda vacío
+Veevee Volley;Eevimpacto
+Venom Drench;Trampa venenosa
+Venoshock;Carga tóxica
+Victory Dance;Danza triunfal
+Vine Whip;Látigo cepa
+Vise Grip;Agarre
+Vital Throw;Llave vital
+Volt Switch;Voltiocambio
+Volt Tackle;Placaje eléctrico
+Wake-Up Slap;Espabila
+Water Gun;Pistola agua
+Water Pledge;Voto agua
+Water Pulse;Hidropulso
+Water Shuriken;Shuriken de agua
+Water Sport;Hidrochorro
+Water Spout;Salpicar
+Waterfall;Cascada
+Wave Crash;Envite acuático
+Weather Ball;Meteorobola
+Whirlpool;Torbellino
+Whirlwind;Remolino
+Wicked Blow;Golpe oscuro
+Wicked Torque;Ominochoque
+Wide Guard;Vasta guardia
+Wild Charge;Voltio cruel
+Wildbolt Storm;Electormenta
+Will-O-Wisp;Fuego fatuo
+Wing Attack;Ataque ala
+Wish;Deseo
+Withdraw;Refugio
+Wonder Room;Zona extraña
+Wood Hammer;Mazazo
+Work Up;Avivar
+Worry Seed;Abatidoras
+Wrap;Constricción
+Wring Out;Estrujón
+X-Scissor;Tijera X
+Yawn;Bostezo
+Zap Cannon;Electrocañón
+Zen Headbutt;Cabezazo zen
+Zing Zap;Electropunzada
+Zippy Zap;Pikaturbo
