@@ -1,311 +1,312 @@
-Cacofonía;Cacophony
-Hedor;Stench
-Llovizna;Drizzle
-Impulso;Speed Boost
-Armadura batalla;Battle Armor
-Robustez;Sturdy
-Humedad;Damp
-Flexibilidad;Limber
-Velo arena;Sand Veil
-Electricidad estática;Static
-Absorbe electricidad;Volt Absorb
-Absorbe agua;Water Absorb
-Despiste;Oblivious
-Aclimatación;Cloud Nine
-Ojo compuesto;Compound Eyes
-Insomnio;Insomnia
-Cambio color;Color Change
-Inmunidad;Immunity
-Absorbe fuego;Flash Fire
-Polvo escudo;Shield Dust
-Ritmo propio;Own Tempo
-Ventosas;Suction Cups
-Intimidación;Intimidate
-Sombra trampa;Shadow Tag
-Piel tosca;Rough Skin
-Superguarda;Wonder Guard
-Levitación;Levitate
-Efecto espora;Effect Spore
-Sincronía;Synchronize
-Cuerpo puro;Clear Body
-Cura natural;Natural Cure
-Pararrayos;Lightning Rod
-Dicha;Serene Grace
-Nado rápido;Swift Swim
-Clorofila;Chlorophyll
-Iluminación;Illuminate
-Calco;Trace
-Potencia;Huge Power
-Punto tóxico;Poison Point
-Fuerza mental;Inner Focus
-Escudo magma;Magma Armor
-Velo agua;Water Veil
-Imán;Magnet Pull
-Insonorizar;Soundproof
-Cura lluvia;Rain Dish
-Chorro arena;Sand Stream
-Presión;Pressure
-Sebo;Thick Fat
-Madrugar;Early Bird
-Cuerpo llama;Flame Body
-Fuga;Run Away
-Vista lince;Keen Eye
-Corte fuerte;Hyper Cutter
-Recogida;Pickup
-Pereza;Truant
-Entusiasmo;Hustle
-Gran encanto;Cute Charm
-Más;Plus
-Menos;Minus
-Predicción;Forecast
-Viscosidad;Sticky Hold
-Mudar;Shed Skin
-Agallas;Guts
-Escama especial;Marvel Scale
-Viscosecreción;Liquid Ooze
-Espesura;Overgrow
-Mar llamas;Blaze
-Torrente;Torrent
-Enjambre;Swarm
-Cabeza roca;Rock Head
-Sequía;Drought
-Trampa arena;Arena Trap
-Espíritu vital;Vital Spirit
-Humo blanco;White Smoke
-Energía pura;Pure Power
-Caparazón;Shell Armor
-Esclusa de aire;Air Lock
-Tumbos;Tangled Feet
-Electromotor;Motor Drive
-Rivalidad;Rivalry
-Impasible;Steadfast
-Manto níveo;Snow Cloak
-Gula;Gluttony
-Irascible;Anger Point
-Liviano;Unburden
-Ignífugo;Heatproof
+en;es
+Cacophony;Cacofonía
+Stench;Hedor
+Drizzle;Llovizna
+Speed Boost;Impulso
+Battle Armor;Armadura batalla
+Sturdy;Robustez
+Damp;Humedad
+Limber;Flexibilidad
+Sand Veil;Velo arena
+Static;Electricidad estática
+Volt Absorb;Absorbe electricidad
+Water Absorb;Absorbe agua
+Oblivious;Despiste
+Cloud Nine;Aclimatación
+Compound Eyes;Ojo compuesto
+Insomnia;Insomnio
+Color Change;Cambio color
+Immunity;Inmunidad
+Flash Fire;Absorbe fuego
+Shield Dust;Polvo escudo
+Own Tempo;Ritmo propio
+Suction Cups;Ventosas
+Intimidate;Intimidación
+Shadow Tag;Sombra trampa
+Rough Skin;Piel tosca
+Wonder Guard;Superguarda
+Levitate;Levitación
+Effect Spore;Efecto espora
+Synchronize;Sincronía
+Clear Body;Cuerpo puro
+Natural Cure;Cura natural
+Lightning Rod;Pararrayos
+Serene Grace;Dicha
+Swift Swim;Nado rápido
+Chlorophyll;Clorofila
+Illuminate;Iluminación
+Trace;Calco
+Huge Power;Potencia
+Poison Point;Punto tóxico
+Inner Focus;Fuerza mental
+Magma Armor;Escudo magma
+Water Veil;Velo agua
+Magnet Pull;Imán
+Soundproof;Insonorizar
+Rain Dish;Cura lluvia
+Sand Stream;Chorro arena
+Pressure;Presión
+Thick Fat;Sebo
+Early Bird;Madrugar
+Flame Body;Cuerpo llama
+Run Away;Fuga
+Keen Eye;Vista lince
+Hyper Cutter;Corte fuerte
+Pickup;Recogida
+Truant;Pereza
+Hustle;Entusiasmo
+Cute Charm;Gran encanto
+Plus;Más
+Minus;Menos
+Forecast;Predicción
+Sticky Hold;Viscosidad
+Shed Skin;Mudar
+Guts;Agallas
+Marvel Scale;Escama especial
+Liquid Ooze;Viscosecreción
+Overgrow;Espesura
+Blaze;Mar llamas
+Torrent;Torrente
+Swarm;Enjambre
+Rock Head;Cabeza roca
+Drought;Sequía
+Arena Trap;Trampa arena
+Vital Spirit;Espíritu vital
+White Smoke;Humo blanco
+Pure Power;Energía pura
+Shell Armor;Caparazón
+Air Lock;Esclusa de aire
+Tangled Feet;Tumbos
+Motor Drive;Electromotor
+Rivalry;Rivalidad
+Steadfast;Impasible
+Snow Cloak;Manto níveo
+Gluttony;Gula
+Anger Point;Irascible
+Unburden;Liviano
+Heatproof;Ignífugo
 Simple;Simple
-Piel seca;Dry Skin
-Descarga;Download
-Puño férreo;Iron Fist
-Antídoto;Poison Heal
-Adaptable;Adaptability
-Encadenado;Skill Link
-Hidratación;Hydration
-Poder solar;Solar Power
-Pies rápidos;Quick Feet
-Normalidad;Normalize
-Francotirador;Sniper
-Muro mágico;Magic Guard
-Indefenso;No Guard
-Rezagado;Stall
-Experto;Technician
-Defensa hoja;Leaf Guard
-Zoquete;Klutz
-Rompemoldes;Mold Breaker
-Afortunado;Super Luck
-Detonación;Aftermath
-Anticipación;Anticipation
-Alerta;Forewarn
-Ignorante;Unaware
-Cromolente;Tinted Lens
-Filtro;Filter
-Inicio lento;Slow Start
-Intrépido;Scrappy
-Colector;Storm Drain
-Gélido;Ice Body
-Roca sólida;Solid Rock
-Nevada;Snow Warning
-Recogemiel;Honey Gather
-Cacheo;Frisk
-Audaz;Reckless
-Multitipo;Multitype
-Don floral;Flower Gift
-Mal sueño;Bad Dreams
-Hurto;Pickpocket
-Potencia bruta;Sheer Force
-Respondón;Contrary
-Nerviosismo;Unnerve
-Competitivo;Defiant
-Flaqueza;Defeatist
-Cuerpo maldito;Cursed Body
-Alma cura;Healer
-Compiescolta;Friend Guard
-Armadura frágil;Weak Armor
-Metal pesado;Heavy Metal
-Metal liviano;Light Metal
-Multiescamas;Multiscale
-Ímpetu tóxico;Toxic Boost
-Ímpetu ardiente;Flare Boost
-Cosecha;Harvest
-Telepatía;Telepathy
-Veleta;Moody
-Funda;Overcoat
-Toque tóxico;Poison Touch
-Regeneración;Regenerator
-Sacapecho;Big Pecks
-Ímpetu arena;Sand Rush
-Piel milagro;Wonder Skin
-Cálculo final;Analytic
-Ilusión;Illusion
-Impostor;Imposter
-Allanamiento;Infiltrator
-Momia;Mummy
-Autoestima;Moxie
-Justiciero;Justified
-Cobardía;Rattled
-Espejo mágico;Magic Bounce
-Herbívoro;Sap Sipper
-Bromista;Prankster
-Poder arena;Sand Force
-Punta acero;Iron Barbs
-Modo daruma;Zen Mode
-Tinovictoria;Victory Star
-Turbollama;Turboblaze
-Terravoltaje;Teravolt
-Velo aroma;Aroma Veil
-Velo flor;Flower Veil
-Carrillo;Cheek Pouch
-Mutatipo;Protean
-Pelaje recio;Fur Coat
-Prestidigitador;Magician
-Antibalas;Bulletproof
-Tenacidad;Competitive
-Mandíbula fuerte;Strong Jaw
-Piel helada;Refrigerate
-Velo dulce;Sweet Veil
-Cambio táctico;Stance Change
-Alas vendaval;Gale Wings
-Megadisparador;Mega Launcher
-Manto frondoso;Grass Pelt
-Simbiosis;Symbiosis
-Garra dura;Tough Claws
-Piel feérica;Pixilate
-Baba;Gooey
-Piel celeste;Aerilate
-Amor filial;Parental Bond
-Aura oscura;Dark Aura
-Aura feérica;Fairy Aura
-Rompeaura;Aura Break
-Mar del albor;Primordial Sea
-Tierra del ocaso;Desolate Land
-Ráfaga delta;Delta Stream
-Firmeza;Stamina
-Huida;Wimp Out
-Retirada;Emergency Exit
-Hidrorrefuerzo;Water Compaction
-Ensañamiento;Merciless
-Escudo limitado;Shields Down
-Vigilante;Stakeout
-Pompa;Water Bubble
-Acero templado;Steelworker
-Cólera;Berserk
-Quitanieves;Slush Rush
-Remoto;Long Reach
-Voz fluida;Liquid Voice
-Primer auxilio;Triage
-Piel eléctrica;Galvanize
-Cola surf;Surge Surfer
-Banco;Schooling
-Disfraz;Disguise
-Fuerte afecto;Battle Bond
-Agrupamiento;Power Construct
-Corrosión;Corrosion
-Letargo perenne;Comatose
-Regia presencia;Queenly Majesty
-Revés;Innards Out
-Pareja de baile;Dancer
-Batería;Battery
-Peluche;Fluffy
-Cuerpo vívido;Dazzling
-Coránima;Soul-Heart
-Rizos rebeldes;Tangling Hair
-Receptor;Receiver
-Reacción química;Power of Alchemy
-Ultraimpulso;Beast Boost
-Sistema alfa;RKS System
-Electrogénesis;Electric Surge
-Psicogénesis;Psychic Surge
-Nebulogénesis;Misty Surge
-Herbogénesis;Grassy Surge
-Guardia metálica;Full Metal Body
-Guardia espectro;Shadow Shield
-Armadura prisma;Prism Armor
-Fuerza cerebral;Neuroforce
-Espada indómita;Intrepid Sword
-Escudo recio;Dauntless Shield
-Líbero;Libero
-Recogebolas;Ball Fetch
-Pelusa;Cotton Down
-Hélice caudal;Propeller Tail
-Coraza reflejo;Mirror Armor
-Tragamisil;Gulp Missile
-Acérrimo;Stalwart
-Combustible;Steam Engine
-Punk rock;Punk Rock
-Expulsarena;Sand Spit
-Escama de hielo;Ice Scales
-Maduración;Ripen
-Cara de hielo;Ice Face
-Fuente energía;Power Spot
-Mimetismo;Mimicry
-Antibarrera;Screen Cleaner
-Alma acerada;Steely Spirit
-Cuerpo mortal;Perish Body
-Alma errante;Wandering Spirit
-Monotema;Gorilla Tactics
-Gas reactivo;Neutralizing Gas
-Velo pastel;Pastel Veil
-Mutapetito;Hunger Switch
-Mano rápida;Quick Draw
-Puño invisible;Unseen Fist
-Medicina extraña;Curious Medicine
+Dry Skin;Piel seca
+Download;Descarga
+Iron Fist;Puño férreo
+Poison Heal;Antídoto
+Adaptability;Adaptable
+Skill Link;Encadenado
+Hydration;Hidratación
+Solar Power;Poder solar
+Quick Feet;Pies rápidos
+Normalize;Normalidad
+Sniper;Francotirador
+Magic Guard;Muro mágico
+No Guard;Indefenso
+Stall;Rezagado
+Technician;Experto
+Leaf Guard;Defensa hoja
+Klutz;Zoquete
+Mold Breaker;Rompemoldes
+Super Luck;Afortunado
+Aftermath;Detonación
+Anticipation;Anticipación
+Forewarn;Alerta
+Unaware;Ignorante
+Tinted Lens;Cromolente
+Filter;Filtro
+Slow Start;Inicio lento
+Scrappy;Intrépido
+Storm Drain;Colector
+Ice Body;Gélido
+Solid Rock;Roca sólida
+Snow Warning;Nevada
+Honey Gather;Recogemiel
+Frisk;Cacheo
+Reckless;Audaz
+Multitype;Multitipo
+Flower Gift;Don floral
+Bad Dreams;Mal sueño
+Pickpocket;Hurto
+Sheer Force;Potencia bruta
+Contrary;Respondón
+Unnerve;Nerviosismo
+Defiant;Competitivo
+Defeatist;Flaqueza
+Cursed Body;Cuerpo maldito
+Healer;Alma cura
+Friend Guard;Compiescolta
+Weak Armor;Armadura frágil
+Heavy Metal;Metal pesado
+Light Metal;Metal liviano
+Multiscale;Multiescamas
+Toxic Boost;Ímpetu tóxico
+Flare Boost;Ímpetu ardiente
+Harvest;Cosecha
+Telepathy;Telepatía
+Moody;Veleta
+Overcoat;Funda
+Poison Touch;Toque tóxico
+Regenerator;Regeneración
+Big Pecks;Sacapecho
+Sand Rush;Ímpetu arena
+Wonder Skin;Piel milagro
+Analytic;Cálculo final
+Illusion;Ilusión
+Imposter;Impostor
+Infiltrator;Allanamiento
+Mummy;Momia
+Moxie;Autoestima
+Justified;Justiciero
+Rattled;Cobardía
+Magic Bounce;Espejo mágico
+Sap Sipper;Herbívoro
+Prankster;Bromista
+Sand Force;Poder arena
+Iron Barbs;Punta acero
+Zen Mode;Modo daruma
+Victory Star;Tinovictoria
+Turboblaze;Turbollama
+Teravolt;Terravoltaje
+Aroma Veil;Velo aroma
+Flower Veil;Velo flor
+Cheek Pouch;Carrillo
+Protean;Mutatipo
+Fur Coat;Pelaje recio
+Magician;Prestidigitador
+Bulletproof;Antibalas
+Competitive;Tenacidad
+Strong Jaw;Mandíbula fuerte
+Refrigerate;Piel helada
+Sweet Veil;Velo dulce
+Stance Change;Cambio táctico
+Gale Wings;Alas vendaval
+Mega Launcher;Megadisparador
+Grass Pelt;Manto frondoso
+Symbiosis;Simbiosis
+Tough Claws;Garra dura
+Pixilate;Piel feérica
+Gooey;Baba
+Aerilate;Piel celeste
+Parental Bond;Amor filial
+Dark Aura;Aura oscura
+Fairy Aura;Aura feérica
+Aura Break;Rompeaura
+Primordial Sea;Mar del albor
+Desolate Land;Tierra del ocaso
+Delta Stream;Ráfaga delta
+Stamina;Firmeza
+Wimp Out;Huida
+Emergency Exit;Retirada
+Water Compaction;Hidrorrefuerzo
+Merciless;Ensañamiento
+Shields Down;Escudo limitado
+Stakeout;Vigilante
+Water Bubble;Pompa
+Steelworker;Acero templado
+Berserk;Cólera
+Slush Rush;Quitanieves
+Long Reach;Remoto
+Liquid Voice;Voz fluida
+Triage;Primer auxilio
+Galvanize;Piel eléctrica
+Surge Surfer;Cola surf
+Schooling;Banco
+Disguise;Disfraz
+Battle Bond;Fuerte afecto
+Power Construct;Agrupamiento
+Corrosion;Corrosión
+Comatose;Letargo perenne
+Queenly Majesty;Regia presencia
+Innards Out;Revés
+Dancer;Pareja de baile
+Battery;Batería
+Fluffy;Peluche
+Dazzling;Cuerpo vívido
+Soul-Heart;Coránima
+Tangling Hair;Rizos rebeldes
+Receiver;Receptor
+Power of Alchemy;Reacción química
+Beast Boost;Ultraimpulso
+RKS System;Sistema alfa
+Electric Surge;Electrogénesis
+Psychic Surge;Psicogénesis
+Misty Surge;Nebulogénesis
+Grassy Surge;Herbogénesis
+Full Metal Body;Guardia metálica
+Shadow Shield;Guardia espectro
+Prism Armor;Armadura prisma
+Neuroforce;Fuerza cerebral
+Intrepid Sword;Espada indómita
+Dauntless Shield;Escudo recio
+Libero;Líbero
+Ball Fetch;Recogebolas
+Cotton Down;Pelusa
+Propeller Tail;Hélice caudal
+Mirror Armor;Coraza reflejo
+Gulp Missile;Tragamisil
+Stalwart;Acérrimo
+Steam Engine;Combustible
+Punk Rock;Punk rock
+Sand Spit;Expulsarena
+Ice Scales;Escama de hielo
+Ripen;Maduración
+Ice Face;Cara de hielo
+Power Spot;Fuente energía
+Mimicry;Mimetismo
+Screen Cleaner;Antibarrera
+Steely Spirit;Alma acerada
+Perish Body;Cuerpo mortal
+Wandering Spirit;Alma errante
+Gorilla Tactics;Monotema
+Neutralizing Gas;Gas reactivo
+Pastel Veil;Velo pastel
+Hunger Switch;Mutapetito
+Quick Draw;Mano rápida
+Unseen Fist;Puño invisible
+Curious Medicine;Medicina extraña
 Transistor;Transistor
-Mandíbula dragón;Dragon's Maw
-Relincho blanco;Chilling Neigh
-Relincho negro;Grim Neigh
-Unidad ecuestre;As One
-Unidad ecuestre;As One
-Olor persistente;Lingering Aroma
-Disemillar;Seed Sower
-Termoconversión;Thermal Exchange
-Coraza ira;Anger Shell
-Sal purificadora;Purifying Salt
-Cuerpo horneado;Well-Baked Body
-Surcavientos;Wind Rider
-Perro guardián;Guard Dog
-Transportarrocas;Rocky Payload
-Energía eólica;Wind Power
-Cambio heroico;Zero to Hero
-Comandar;Commander
-Dinamo;Electromorphosis
-Paleosíntesis;Protosynthesis
-Carga cuark;Quark Drive
-Cuerpo áureo;Good as Gold
-Caldero debacle;Vessel of Ruin
-Espada debacle;Sword of Ruin
-Tablilla debacle;Tablets of Ruin
-Abalorio debacle;Beads of Ruin
-Latido oricalco;Orichalcum Pulse
-Motor hadrónico;Hadron Engine
-Oportunista;Opportunist
-Rumia;Cud Chew
-Cortante;Sharpness
-General supremo;Supreme Overlord
-Unísono;Costar
-Capa tóxica;Toxic Debris
-Cola armadura;Armor Tail
-Geofagia;Earth Eater
-Poder fúngico;Mycelium Might
-Hospitalidad;Hospitality
-Ojo mental;Mind's Eye
-Evocarrecuerdos;Embody Aspect
-Evocarrecuerdos;Embody Aspect
-Evocarrecuerdos;Embody Aspect
-Evocarrecuerdos;Embody Aspect
-Cadena tóxica;Toxic Chain
-Néctar dulce;Supersweet Syrup
-Teracambio;Tera Shift
-Teracaparazón;Tera Shell
-Teraformación 0;Teraform Zero
-Títere tóxico;Poison Puppeteer
+Dragon's Maw;Mandíbula dragón
+Chilling Neigh;Relincho blanco
+Grim Neigh;Relincho negro
+As One;Unidad ecuestre
+As One;Unidad ecuestre
+Lingering Aroma;Olor persistente
+Seed Sower;Disemillar
+Thermal Exchange;Termoconversión
+Anger Shell;Coraza ira
+Purifying Salt;Sal purificadora
+Well-Baked Body;Cuerpo horneado
+Wind Rider;Surcavientos
+Guard Dog;Perro guardián
+Rocky Payload;Transportarrocas
+Wind Power;Energía eólica
+Zero to Hero;Cambio heroico
+Commander;Comandar
+Electromorphosis;Dinamo
+Protosynthesis;Paleosíntesis
+Quark Drive;Carga cuark
+Good as Gold;Cuerpo áureo
+Vessel of Ruin;Caldero debacle
+Sword of Ruin;Espada debacle
+Tablets of Ruin;Tablilla debacle
+Beads of Ruin;Abalorio debacle
+Orichalcum Pulse;Latido oricalco
+Hadron Engine;Motor hadrónico
+Opportunist;Oportunista
+Cud Chew;Rumia
+Sharpness;Cortante
+Supreme Overlord;General supremo
+Costar;Unísono
+Toxic Debris;Capa tóxica
+Armor Tail;Cola armadura
+Earth Eater;Geofagia
+Mycelium Might;Poder fúngico
+Hospitality;Hospitalidad
+Mind's Eye;Ojo mental
+Embody Aspect;Evocarrecuerdos
+Embody Aspect;Evocarrecuerdos
+Embody Aspect;Evocarrecuerdos
+Embody Aspect;Evocarrecuerdos
+Toxic Chain;Cadena tóxica
+Supersweet Syrup;Néctar dulce
+Tera Shift;Teracambio
+Tera Shell;Teracaparazón
+Teraform Zero;Teraformación 0
+Poison Puppeteer;Títere tóxico
