@@ -1,20 +1,21 @@
 {
   "manifest_version": 3,
-  "name": "Showdown Traductor Pro",
+  "name": "Showd0wn Traductor Pro",
   "version": "1.0",
-  "description": "Traducción dinámica para Pokémon Showdown",
   "permissions": ["storage"],
+  "web_accessible_resources": [
+    {
+      "resources": ["data/items.csv", "data/moves.csv", "data/abilities.csv"],
+      "matches": ["https://play.pokemonshowdown.com/*", "https://replay.pokemonshowdown.com/*"]
+    }
+  ],
   "content_scripts": [
     {
       "matches": [
         "https://play.pokemonshowdown.com/*",
         "https://replay.pokemonshowdown.com/*"
       ],
-      "js": ["jquery.min.js", "content.js"],
-      "run_at": "document_end"
+      "js": ["jquery.min.js", "content.js"]
     }
-  ],
-  "icons": {
-    "128": "icon.png"
-  }
+  ]
 }
