@@ -63,6 +63,7 @@ async function inicializar() {
     await cargarArchivo('moves');
     await cargarArchivo('items');
     await cargarArchivo('abilities');
+    await cargarArchivo('pokemon');
     console.log("Diccionario completo:", DiccionarioMaestro.size, "entradas.");
     
     // Traducir lo que ya existe

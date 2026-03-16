@@ -5,7 +5,7 @@
   "permissions": ["storage"],
   "web_accessible_resources": [
     {
-      "resources": ["data/items.csv", "data/moves.csv", "data/abilities.csv"],
+      "resources": ["data/items.csv", "data/moves.csv", "data/abilities.csv", "data/pokemon.csv"],
       "matches": ["https://play.pokemonshowdown.com/*", "https://replay.pokemonshowdown.com/*"]
     }
   ],
